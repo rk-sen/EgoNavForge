@@ -30,7 +30,7 @@ docs/MODULES.md
 ## 运行
 
 ```bash
-cd /mnt/luozhaoyi/releases/ego_nav_forge
+cd /mnt/xxxxx/releases/ego_nav_forge
 pip install -e .
 
 # 原有：Pi3+MoGe → LeRobot
