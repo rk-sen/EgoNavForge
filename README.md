@@ -69,8 +69,8 @@ dataset:
   lerobot_export: true          # 可选关 LeRobot
   scene_twin:
     enabled: true
-    api_base: https://ai.zj-computility.com/maas/v1
-    api_key_env: zhesuan_API_KEY
+    api_base: https://xxxxx/v1
+    api_key_env: API_KEY
     model: kimi-k2.6
     blender: /path/to/blender
     calib_camera: bleft         # 从 episode calib.json 取 K；或设 intrinsics_path
