@@ -1,6 +1,6 @@
 # EgoNavForge
 
-MMLab 式：**模块注册 + YAML 工作流**。换数据只改 dataset 绑定；换算法只换/加模块。
+MMLab 式：**模块注册 + YAML 工作流**。换数据只改 dataset 绑定；可模块化增加或替换算法。
 
 - 框架设计：[`docs/OPEN_SOURCE_FRAMEWORK.md`](docs/OPEN_SOURCE_FRAMEWORK.md)
 - 大模块与 I/O：[`docs/MODULES.md`](docs/MODULES.md)
