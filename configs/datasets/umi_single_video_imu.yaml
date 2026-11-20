@@ -1,0 +1,22 @@
+# Dataset binding only — same workflow as threeeyes.
+# Diff vs three-view: stream_files (1 rgb + slam), mask, suite prefix.
+workflow: ../workflows/pi3_moge_lerobot.yaml
+exp_name: umi_single_video_imu
+work_dir: /mnt/luozhaoyi/releases/ego_nav_forge/work_dirs/umi_single_video_imu
+
+dataset:
+  root: /mnt/luozhaoyi/ABot_data_engine/outputs/umi0908_parsed
+  episodes:
+    - "2026-09-08-10-03-31"
+    - "2026-09-08-11-21-37"
+  stream_files:
+    forward_img: rgb.mp4   # already undistorted in this dump
+    imu: slam
+  pack: [forward_img, imu]
+  recon_image_key: forward_img
+  image_stride: 4
+  mask_path: assets/mask_first_frame.png
+  search_object: unknown
+  suite_prefix: umi0908_
+  reuse_suite_roots:
+    - /mnt/luozhaoyi/ABot_data_engine/outputs/suite_fullseq_umi0908

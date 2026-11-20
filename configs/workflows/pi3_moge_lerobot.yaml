@@ -1,0 +1,72 @@
+# Shared EgoNavForge workflow: load → mask/YOLO → Pi3X(+MoGe) → viz → LeRobot
+# Dataset-specific fields (root, stream_files, pack, mask, …) come from a
+# configs/datasets/*.yaml overlay — do NOT duplicate this pipeline per camera layout.
+exp_name: pi3_moge_lerobot
+work_dir: ./work_dirs/pi3_moge_lerobot
+
+pipeline:
+  - stage: episode_start
+    modules:
+      - type: ParsedRootLoader
+        enabled: true
+        # injected by dataset overlay:
+        #   root, episodes, episode_prefix, stream_files, pack,
+        #   recon_image_key, image_stride, ann_path, skip_delete_token
+        recon_image_key: forward_img
+        image_stride: 2
+
+  - stage: frame
+    modules:
+      - type: FixedGripperMask
+        enabled: true
+        image_key: forward_img
+        # mask_path injected by dataset (umi gripper vs seeker body)
+        mask_path: assets/mask_first_frame.png
+      - type: YOLOPersonFilter
+        enabled: true
+        image_key: forward_img
+        conf: 0.55
+        weights: assets/yolov8s.pt
+
+  - stage: chunk
+    modules:
+      # Trajectory module: chunk schedule + Pi3 infer + Sim3 stitch + MoGe metric scale
+      - type: Pi3XRecon
+        enabled: true
+        image_key: forward_img
+        chunk_size: 160
+        overlap: 40
+        stitch: pose_join_R_clamped_s
+        checkpoint: backends/checkpoints/Pi3X_model.safetensors
+        moge_pretrained: /mnt/luozhaoyi/releases/pi3_moge_lerobot/checkpoints/moge-2-vitl/model.pt
+        force_recon: false
+        device: cuda
+        # prefix / reuse_suite_roots injected by dataset when useful for smoke
+
+  - stage: finalize
+    modules:
+      - type: TrajXYZViz
+        enabled: true
+      - type: LeRobotExport
+        enabled: true
+        align: camera_y_mean
+        squat_z_low_m: -0.25
+        write_md: true
+        fps: 15.0
+        # pack follows loader; search_object / ann_path from dataset
+      # Optional scene twin (indoor_twin_agent v37). Off by default; enable in dataset YAML
+      # and set api_key_env / api_base (OpenAI-compatible VLM). Needs Blender + person asset.
+      - type: IndoorTwinScene
+        enabled: false
+        image_key: forward_img
+        calib_camera: bleft
+        export_pointcloud: true
+        export_usd: true
+        preset: balanced
+        model: kimi-k2.6
+        api_base: https://ai.zj-computility.com/maas/v1
+        api_key_env: zhesuan_API_KEY
+        blender: /mnt/luozhaoyi/tools/blender-4.5.14-linux-x64/blender
+        frames: 60
+        res: 384
+        fps: 5

@@ -1,0 +1,28 @@
+# Dataset binding only — same workflow as UMI single-view.
+# Diff: 3 video files + which one Pi3 reads; pack keeps all views; seeker mask; squat ann.
+workflow: ../workflows/pi3_moge_lerobot.yaml
+exp_name: threeeyes_three_video_imu
+work_dir: /mnt/luozhaoyi/releases/ego_nav_forge/work_dirs/threeeyes_three_video_imu
+
+dataset:
+  root: /mnt/luozhaoyi/ABot_data_engine/threeeyes918/parsed
+  episode_prefix: seeker_
+  episodes:
+    - seeker_19700514_035126
+    - seeker_19700514_035236
+  # bleft=forward, bright=left, left=right (source naming)
+  stream_files:
+    forward_img: bleftvid.mp4
+    left_img: brightvid.mp4
+    right_img: leftvid.mp4
+    imu: imu.json
+  pack: [forward_img, left_img, right_img, imu]
+  recon_image_key: forward_img
+  image_stride: 2
+  mask_path: assets/seeker_mask.png
+  ann_path: /mnt/luozhaoyi/ABot_data_engine/threeeyes918/parsed/action_annotations.json
+  skip_delete_token: "删"
+  search_object: green ball
+  suite_prefix: te918_
+  reuse_suite_roots:
+    - /mnt/luozhaoyi/ABot_data_engine/outputs/threeeyes918_pi3_moge/suite

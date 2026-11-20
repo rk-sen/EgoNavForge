@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ego-nav-forge"
+version = "0.1.0"
+description = "EgoNavForge: modular YAML pipeline for ego-nav (Pi3+MoGe → LeRobot / IndoorTwinScene)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pyyaml>=6.0",
+  "numpy",
+  "opencv-python",
+  "pandas",
+  "pyarrow",
+  "matplotlib",
+]
+
+[project.scripts]
+ego-nav-forge = "ego_nav_forge.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

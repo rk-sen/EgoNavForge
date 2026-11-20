@@ -1,0 +1,26 @@
+# runtime / local
+work_dirs/
+outputs/
+*.egg-info/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# never commit model weights (Pi3 / MoGe / YOLO dumps)
+backends/checkpoints/**
+!backends/checkpoints/README.md
+**/moge-2-vitl/
+**/Pi3X_model.safetensors
+
+# large local packs
+*.zip
+*.tar.gz
