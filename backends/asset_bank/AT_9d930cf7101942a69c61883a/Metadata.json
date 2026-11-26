@@ -1,0 +1,129 @@
+{
+  "asset_id": "AT_9d930cf7101942a69c61883a",
+  "query_id": "ph_sofa_02",
+  "semantic": "sofa",
+  "dimensions_m": [
+    1.807,
+    0.818,
+    0.71
+  ],
+  "description": "现代双人布艺沙发",
+  "material": {
+    "color": [
+      0.0777,
+      0.0442,
+      0.0206
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "sofa",
+    "couch",
+    "沙发",
+    "sofa_02",
+    "furniture/sofa/two_seat",
+    "现代双人布艺沙发",
+    "sofa_02",
+    "furniture/sofa/two_seat",
+    "现代双人布艺沙发"
+  ],
+  "procedural_hash": "537f44cc793d6be3f21358cc4a848fecb706f2f01a3fc326f9e4ff658e99c1c8",
+  "geometry_sha256": "c058670fb0868c53c056a5c2ce9e87ea5ab81ad7acc40880812d46339535202e",
+  "public_prefab": true,
+  "provider": "Kirill Sannikov",
+  "observation_description": "现代双人布艺沙发",
+  "requested_dimensions_m": [
+    1.807,
+    0.818,
+    0.71
+  ],
+  "prototype_key": "ph_sofa_02",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_9d930cf7101942a69c61883a/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "sofa",
+    "couch",
+    "沙发",
+    "sofa_02",
+    "furniture/sofa/two_seat",
+    "现代双人布艺沙发"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_sofa_02",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/two_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "sofa_02",
+      "furniture/sofa/two_seat",
+      "现代双人布艺沙发"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      1.807,
+      0.818,
+      0.71
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sofa_02/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/sofa_02/sofa_02_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sofa_02.usd",
+      "raw_sha256": "e91f57930c6bbc83004de180b219be94ded527dcd9006bb18726815c8f8df07b",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sofa_02 sofa 现代双人布艺沙发 sofa couch 沙发 sofa_02 furniture/sofa/two_seat 现代双人布艺沙发 sofa_02 furniture/sofa/two_seat 现代双人布艺沙发",
+    "intake": "existing_external"
+  }
+}

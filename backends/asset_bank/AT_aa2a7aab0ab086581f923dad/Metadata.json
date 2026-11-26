@@ -1,0 +1,128 @@
+{
+  "asset_id": "AT_aa2a7aab0ab086581f923dad",
+  "query_id": "ph_chair_dining",
+  "semantic": "chair",
+  "dimensions_m": [
+    0.434,
+    0.576,
+    0.973
+  ],
+  "description": "现代简约餐椅/办公椅",
+  "material": {
+    "color": [
+      0.1599,
+      0.1068,
+      0.0771
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "dining_chair_02",
+    "furniture/chair/modern",
+    "现代简约餐椅/办公椅",
+    "dining_chair_02",
+    "furniture/chair/modern",
+    "现代简约餐椅/办公椅"
+  ],
+  "procedural_hash": "225d8b40fb4fbd3d4c35b69b5fa9a079db33a78a90a1ed8d8034856b97f479a0",
+  "geometry_sha256": "29e22b39a70d9066cc04aab4f19a4e39595af45a23c9b8897a08eb1fb3e1dc1d",
+  "public_prefab": true,
+  "provider": "James Ray Cock",
+  "observation_description": "现代简约餐椅/办公椅",
+  "requested_dimensions_m": [
+    0.434,
+    0.576,
+    0.973
+  ],
+  "prototype_key": "ph_chair_dining",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_aa2a7aab0ab086581f923dad/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "dining_chair_02",
+    "furniture/chair/modern",
+    "现代简约餐椅/办公椅"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_chair_dining",
+    "semantic": "chair",
+    "category_path": "furniture/chair/modern",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "dining_chair_02",
+      "furniture/chair/modern",
+      "现代简约餐椅/办公椅"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.434,
+      0.576,
+      0.973
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_chair_dining/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/dining_chair_02/dining_chair_02_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_chair_dining.usd",
+      "raw_sha256": "aa091e82070c5679d22403212487675f940397a05ab2191879858457453f59df",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_chair_dining chair 现代简约餐椅/办公椅 chair office chair 椅子 办公椅 dining_chair_02 furniture/chair/modern 现代简约餐椅/办公椅 dining_chair_02 furniture/chair/modern 现代简约餐椅/办公椅",
+    "intake": "existing_external"
+  }
+}

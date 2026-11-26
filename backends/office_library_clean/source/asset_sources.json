@@ -1,0 +1,717 @@
+[
+  {
+    "asset_id": "office_desk_rect",
+    "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Desk.glb",
+    "author": "ivoirh/dp-sm-vr",
+    "license": "UNVERIFIED",
+    "raw_file": "office_desk_rect.glb",
+    "raw_sha256": "3878f6d93d946d77f3e1be55919627a81435696252137ae33c22391c0411f3ce",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "office_desk_adjustable",
+    "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Adjustable%20Desk.glb",
+    "author": "ivoirh/dp-sm-vr",
+    "license": "UNVERIFIED",
+    "raw_file": "office_desk_adjustable.glb",
+    "raw_sha256": "0e74f80a6b71e3d240b66c87db017e6b24f2ca8dd1649fa8203ee78ed775ae49",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "office_desk_standing",
+    "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Standing%20Desk.glb",
+    "author": "ivoirh/dp-sm-vr",
+    "license": "UNVERIFIED",
+    "raw_file": "office_desk_standing.glb",
+    "raw_sha256": "1b8856ca78b78a53244d1db9bd4e8f58da5c12d9c231cfe875b9b0ce1118cda8",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "office_chair_task",
+    "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Office%20Chair.glb",
+    "author": "ivoirh/dp-sm-vr",
+    "license": "UNVERIFIED",
+    "raw_file": "office_chair_task.glb",
+    "raw_sha256": "0f1a9180dbe0dc4116fa17b9b03e6002f75110e2a0f4ed0ff20a40b384240a76",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "office_chair_regular",
+    "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Regular%20Office%20Chair.glb",
+    "author": "ivoirh/dp-sm-vr",
+    "license": "UNVERIFIED",
+    "raw_file": "office_chair_regular.glb",
+    "raw_sha256": "efe372025fc0bbe433d764d01b44c2963f9304177f70f6b45263ea5344a66449",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "office_chair_gas_compact",
+    "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Office%20Chair%20(1).glb",
+    "author": "ivoirh/dp-sm-vr",
+    "license": "UNVERIFIED",
+    "raw_file": "office_chair_gas_compact.glb",
+    "raw_sha256": "211a54fcd52a6faa260d5432dfe1f980cd1125df1230e3fc248320b337fbfe1d",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "office_chair_gas_lift",
+    "url": "https://raw.githubusercontent.com/fthuggy/aframeproject/main/assets/computer_chair.glb",
+    "author": "fthuggy/aframeproject",
+    "license": "UNVERIFIED",
+    "raw_file": "office_chair_gas_lift.glb",
+    "raw_sha256": "0cfb3e8d61cb048304a895af2adc7ea1086ea6c4d9917d081c8d78b11bfe2fc1",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "computer_desktop",
+    "url": "https://raw.githubusercontent.com/threelab/web3d-file-server/master/models/glb/computer.glb",
+    "author": "threelab/web3d-file-server",
+    "license": "UNVERIFIED",
+    "raw_file": "computer_desktop.glb",
+    "raw_sha256": "75b4232f3e25449d812a39134f9c6c6fe25c117d23106700c1031d80e1b5eee0",
+    "scale_applied": 0.2
+  },
+  {
+    "asset_id": "computer_aio",
+    "url": "https://raw.githubusercontent.com/fthuggy/aframeproject/main/assets/computer.glb",
+    "author": "fthuggy/aframeproject",
+    "license": "UNVERIFIED",
+    "raw_file": "computer_aio.glb",
+    "raw_sha256": "d4b4c4a269614632e55d07dde297e077b6a08fb3ff01daf10c15684d94dcfe39",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "mouse_wireless",
+    "url": "https://raw.githubusercontent.com/fthuggy/aframeproject/main/assets/mouse.glb",
+    "author": "fthuggy/aframeproject",
+    "license": "UNVERIFIED",
+    "raw_file": "mouse_wireless.glb",
+    "raw_sha256": "655208cae69baa23a5ecb1c48314055b6fc8ad35bed2839080c2e2530efc9fda",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "keyboard_mechanical",
+    "url": "https://raw.githubusercontent.com/jj-143/assets/main/keyboard.glb",
+    "author": "jj-143/assets",
+    "license": "UNVERIFIED",
+    "raw_file": "keyboard_mechanical.glb",
+    "raw_sha256": "80e0ef84cefc25eedd9f5b9bd8480322ae5bbfeefa04d3cc60a2b2ac4b995884",
+    "scale_applied": 0.2
+  },
+  {
+    "asset_id": "printer_copier",
+    "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Copier.glb",
+    "author": "ivoirh/dp-sm-vr",
+    "license": "UNVERIFIED",
+    "raw_file": "printer_copier.glb",
+    "raw_sha256": "ecb1a4ce3b4c89737ef59460b0673638cbf4992d3550609e703cd3c840ddb225",
+    "scale_applied": 0.5
+  },
+  {
+    "asset_id": "lamp_desk",
+    "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Table%20Lamp.glb",
+    "author": "ivoirh/dp-sm-vr",
+    "license": "UNVERIFIED",
+    "raw_file": "lamp_desk.glb",
+    "raw_sha256": "53f6037d1fa45ab2c45bec09e88fffbc1915eb0dd984aae5f7b6a5ce679b58a9",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "phone_office",
+    "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Office%20Phone.glb",
+    "author": "ivoirh/dp-sm-vr",
+    "license": "UNVERIFIED",
+    "raw_file": "phone_office.glb",
+    "raw_sha256": "3f6991e0b463de5391ef44963e6d0a504dbe5092af0ba8a39028344b7cf76107",
+    "scale_applied": 0.05
+  },
+  {
+    "asset_id": "ph_sofa_01",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/Sofa_01/Sofa_01_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_sofa_01.usd",
+    "raw_sha256": "d165da153ba7ef6fd87752336f78427a91b82316a94524038138714c32a42f1f",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_sofa_02",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/sofa_02/sofa_02_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_sofa_02.usd",
+    "raw_sha256": "e91f57930c6bbc83004de180b219be94ded527dcd9006bb18726815c8f8df07b",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_sofa_03",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/sofa_03/sofa_03_1k.usdc",
+    "author": "Fran Calvente",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_sofa_03.usd",
+    "raw_sha256": "51b1da0c2655724ffbb4092be43bb0881baa8af7d0bbfae3b00c544c9baa245d",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_sofa_chinese",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/chinese_sofa/chinese_sofa_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_sofa_chinese.usd",
+    "raw_sha256": "fe22a3bfa80934d3362cff2f1ffc1ec1f1d2e8d314921343da08f7905804fbc3",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_sofa_painted",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_sofa/painted_wooden_sofa_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_sofa_painted.usd",
+    "raw_sha256": "8a36274ef8ef4711d09d33f19a5f79598fba7b70ed586102bdb9553a0eaa6d7f",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_armchair_classic",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/ArmChair_01/ArmChair_01_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_armchair_classic.usd",
+    "raw_sha256": "400ac7dc73afe783e713eafab967acdd488d2b75d26bb86779993aa82d7bd078",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_armchair_chinese",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/chinese_armchair/chinese_armchair_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_armchair_chinese.usd",
+    "raw_sha256": "87744c079a63b1033d6b714251440fe616fb3966d2a696917f0be012550a0c61",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_armchair_modern",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/modern_arm_chair_01/modern_arm_chair_01_1k.usdc",
+    "author": "Vibrant Nordic",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_armchair_modern.usd",
+    "raw_sha256": "1d4fc5a2d049a04a497543b51700eb515663e349cd8754fb9ecaf6edba164bc9",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_armchair_midcentury",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/mid_century_lounge_chair/mid_century_lounge_chair_1k.usdc",
+    "author": "Kuutti Siitonen",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_armchair_midcentury.usd",
+    "raw_sha256": "3a88a0070dc123c26f950e8ccc0721eb99beba753f97624b12022e67335968b0",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_pillows_01",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/throw_pillows_01/throw_pillows_01_1k.usdc",
+    "author": "Serhii Khromov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_pillows_01.usd",
+    "raw_sha256": "8d678141a7bd9074c4e2cd3e1dfa667df6479ebb2f4f0b6441017753384eb192",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_chair_green",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/GreenChair_01/GreenChair_01_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_chair_green.usd",
+    "raw_sha256": "f0fa97d14be55c4ccb783588a06963ffbed50535ac62614ec7f0c690cfb21762",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_chair_wood",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/WoodenChair_01/WoodenChair_01_1k.usdc",
+    "author": "Jake Mobley",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_chair_wood.usd",
+    "raw_sha256": "0d95a41d47a85e07803cd4e3189534bd195a7fc32cdf5004df1902414c6afc99",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_chair_dining",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/dining_chair_02/dining_chair_02_1k.usdc",
+    "author": "James Ray Cock",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_chair_dining.usd",
+    "raw_sha256": "aa091e82070c5679d22403212487675f940397a05ab2191879858457453f59df",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_chair_plastic",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/plastic_monobloc_chair_01/plastic_monobloc_chair_01_1k.usdc",
+    "author": "Kuutti Siitonen",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_chair_plastic.usd",
+    "raw_sha256": "388ff00630f3ac82c6263de4e8e6394eba58b87de378ba66938968898b5bce92",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_stool_bar",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/bar_chair_round_01/bar_chair_round_01_1k.usdc",
+    "author": "Dairon Sanchez",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_stool_bar.usd",
+    "raw_sha256": "338a4d4822144a84df19473723e370688b6adea396b4268a73a16347467e470a",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_stool_metal",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/metal_stool_01/metal_stool_01_1k.usdc",
+    "author": "Ulan Cabanilla",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_stool_metal.usd",
+    "raw_sha256": "05c313012e1f62affdaa686f5150f30fd35202521984f0a27924e611731a48fb",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_stool_chinese",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/chinese_stool/chinese_stool_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_stool_chinese.usd",
+    "raw_sha256": "760f0b9d107060e04b6c07db1b9c88bc6a97ae569ccc41e40274e0762d1e0024",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_stool_painted",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_stool/painted_wooden_stool_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_stool_painted.usd",
+    "raw_sha256": "8176250d18d8a29d7a3f0218d272f02435be196b2dcd3e23d57d60e64ad75d46",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_bench_painted",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_bench/painted_wooden_bench_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_bench_painted.usd",
+    "raw_sha256": "b665ba1820180d1fde3071e5419d9a9f173bcf8ab58b1c1d3841b8b6c892d07a",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_bench_picnic",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/wooden_picnic_table/wooden_picnic_table_1k.usdc",
+    "author": "Ulan Cabanilla",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_bench_picnic.usd",
+    "raw_sha256": "bc23fff445caf9f82a2286ee7e9a6b758e11fa9282b73beb12bd0b7772497db6",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_desk_metal",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/metal_office_desk/metal_office_desk_1k.usdc",
+    "author": "Ulan Cabanilla",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_desk_metal.usd",
+    "raw_sha256": "e72b8eb0cf10f0e1c7c93e779d1c4279564f09ddcfb4845bcac449dde061b9e0",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_desk_school",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/SchoolDesk_01/SchoolDesk_01_1k.usdc",
+    "author": "Ethan Place",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_desk_school.usd",
+    "raw_sha256": "55672eb31645eccd47035fa3ffc65c70472e48cec0d8f1158fe1712a4f8181ba",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_desk_wood",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/WoodenTable_01/WoodenTable_01_1k.usdc",
+    "author": "Ethan Place",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_desk_wood.usd",
+    "raw_sha256": "4d5ec60acba372ded4cb5bff564f494496c974fd822fc0e5cfb76cd1c6513d1c",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_shelf_01",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/Shelf_01/Shelf_01_1k.usdc",
+    "author": "Gabriel Radić",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_shelf_01.usd",
+    "raw_sha256": "c31fdc0846ba6561a9afb62378c58522e4edad659c8090a512afcf2651aebc95",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_shelf_steel",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/steel_frame_shelves_01/steel_frame_shelves_01_1k.usdc",
+    "author": "James Ray Cock",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_shelf_steel.usd",
+    "raw_sha256": "26b8e9fe489992c42517a5b85c09f5b318d9383d4c50f3ac1bafa94600c25bfe",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_shelf_display",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/wooden_display_shelves_01/wooden_display_shelves_01_1k.usdc",
+    "author": "James Ray Cock",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_shelf_display.usd",
+    "raw_sha256": "ee13f8d09dde9169eb5b5705f266d32f1787cf759375368916074364a2d92af8",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_drawer_cabinet",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/drawer_cabinet/drawer_cabinet_1k.usdc",
+    "author": "Ulan Cabanilla",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_drawer_cabinet.usd",
+    "raw_sha256": "097b804c41be8236fd0372ea4adb51145f51340daca44122369545ebb44834cf",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_drawer_vintage",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/vintage_wooden_drawer_01/vintage_wooden_drawer_01_1k.usdc",
+    "author": "James Ray Cock",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_drawer_vintage.usd",
+    "raw_sha256": "7e44de9d6b1bee5b909a581094186c61f21801d9b1c42ae085bed4377c7eeb78",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_cabinet_modern",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/modern_wooden_cabinet/modern_wooden_cabinet_1k.usdc",
+    "author": "Patrik Pangerl",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_cabinet_modern.usd",
+    "raw_sha256": "31b1847bde4e93f0a5f12121285918b587e00b56a331dc578a68db9ec757f71f",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_cabinet_vintage",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/vintage_cabinet_01/vintage_cabinet_01_1k.usdc",
+    "author": "Rico Cilliers",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_cabinet_vintage.usd",
+    "raw_sha256": "4f496e3014e0a0758cd75e73baf9503a5b00723980921b23f3e5bc0af16ef2d4",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_cabinet_painted",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_cabinet/painted_wooden_cabinet_1k.usdc",
+    "author": "Kirill Sannikov",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_cabinet_painted.usd",
+    "raw_sha256": "852e915a9e8d1b0005378165a4fd8687d6e6d26722489d397fd5688687ff6b42",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_box_cardboard",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/cardboard_box_01/cardboard_box_01_1k.usdc",
+    "author": "Rahul Chaudhary",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_box_cardboard.usd",
+    "raw_sha256": "b88bc42d0b426c19bc502c011fb0aa64a238cd886faad939a313db0d3092d10e",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_box_cheese",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/CheeseBox_01/CheeseBox_01_1k.usdc",
+    "author": "Gabriel Radić",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_box_cheese.usd",
+    "raw_sha256": "a39ed9135fb7f7bae58641ada22a8cb1e358cda7e7336596fde108be9fdd7f17",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_box_medical",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/medical_box/medical_box_1k.usdc",
+    "author": "Ulan Cabanilla",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_box_medical.usd",
+    "raw_sha256": "c198b8e4579f539ef801d4701f17085405acbd5a480a61ee4060317ab64f0a0b",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_plant_01",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/potted_plant_01/potted_plant_01_1k.usdc",
+    "author": "Rico Cilliers",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_plant_01.usd",
+    "raw_sha256": "4393d4f4e086061380609976c6584a35c777bdcbfe0439ba167dfed5a6c97e3b",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_plant_02",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/potted_plant_02/potted_plant_02_1k.usdc",
+    "author": "Rico Cilliers",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_plant_02.usd",
+    "raw_sha256": "5939efe27dfc8449e1eab3de4225fc71a23e5c3a305e2d5f6080e0c14706c465",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_plant_04",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/potted_plant_04/potted_plant_04_1k.usdc",
+    "author": "James Ray Cock",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_plant_04.usd",
+    "raw_sha256": "935223c7544b29961f302bf21298c31758e4f9ccd6fb620f58a2284805f39be9",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_lamp_desk",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/desk_lamp_arm_01/desk_lamp_arm_01_1k.usdc",
+    "author": "Yann Kervran, Kuutti Siitonen",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_lamp_desk.usd",
+    "raw_sha256": "c84b529d70b2416891be7ac24867ee46984cab9132dd6566822b035378ce69b4",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_lamp_industrial",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/hanging_industrial_lamp/hanging_industrial_lamp_1k.usdc",
+    "author": "Kuutti Siitonen",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_lamp_industrial.usd",
+    "raw_sha256": "83488022b15a712e5d38623d135d5f6c58997470ce111c48233660c5b6eabe54",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_lamp_ceiling",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/modern_ceiling_lamp_01/modern_ceiling_lamp_01_1k.usdc",
+    "author": "James Ray Cock",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_lamp_ceiling.usd",
+    "raw_sha256": "557425d88a7de10a80fd0aaa44d98314aefafa8f8f807767fd757ffed5caa210",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_sign_wetfloor",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/WetFloorSign_01/WetFloorSign_01_1k.usdc",
+    "author": "Fran Calvente",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_sign_wetfloor.usd",
+    "raw_sha256": "7e3db2a9741ba65be360481e082f3a3568443cb2724e606dd6f6e9016339d4b4",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_sign_chalkboard",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/standing_chalkboard_01/standing_chalkboard_01_1k.usdc",
+    "author": "ParzivalCG",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_sign_chalkboard.usd",
+    "raw_sha256": "0a3ec5ca7d112be4f194402db2af65da1fc13b42d01e4ec9f4271a6e2729b8d0",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_door_roller",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/rollershutter_door/rollershutter_door_1k.usdc",
+    "author": "MP",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_door_roller.usd",
+    "raw_sha256": "1c8a1769b6f47180e2a452ae032b820632eb6fe43c397ebbd018ac53871ce6a2",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_door_castle",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/large_castle_door/large_castle_door_1k.usdc",
+    "author": "Tina",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_door_castle.usd",
+    "raw_sha256": "199c43670a2e971b06690a166163a7aea56e173073ba540fbf451aaf357c7b57",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_door_gate",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/large_iron_gate/large_iron_gate_1k.usdc",
+    "author": "Josh Dean",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_door_gate.usd",
+    "raw_sha256": "828f0d3ba7f03a9c103d92768f46d0be261e19671d1faf77470f8064618382ba",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_window_01",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/rollershutter_window_01/rollershutter_window_01_1k.usdc",
+    "author": "MP",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_window_01.usd",
+    "raw_sha256": "e330b00fc2baae18a5b63104cd2cc9125cfa06bd3144d11da66bc7ef3a116f6f",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_window_02",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/rollershutter_window_02/rollershutter_window_02_1k.usdc",
+    "author": "MP",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_window_02.usd",
+    "raw_sha256": "c9c4327493a67a27ec9d28e8ad710906ba16550b716cdc0e3ad9a6fe58ce2522",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_window_03",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/rollershutter_window_03/rollershutter_window_03_1k.usdc",
+    "author": "MP",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_window_03.usd",
+    "raw_sha256": "7356089790b0e2629d7dc33bad079f5514dcc38123218243693ed48f70f7fd72",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_partition_chainlink",
+    "url": "https://polyhaven.com/a/partition_chainlink",
+    "author": "Poly Haven",
+    "license": "CC0",
+    "raw_file": "raw_usd/ph_partition_chainlink.usd",
+    "raw_sha256": "500387217faceb133ccf015c5e07bf2584d22d391fd7da71339f0a01e3090908",
+    "scale_applied": 0.35
+  },
+  {
+    "asset_id": "ph_partition_barrier",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/concrete_road_barrier/concrete_road_barrier_1k.usdc",
+    "author": "Amal Kumar",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_partition_barrier.usd",
+    "raw_sha256": "b83b7a75057c9a85e5d8b36b686e3dee43a6b470204097298c1b00e4e9980a80",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_ball_football",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/football/football_1k.usdc",
+    "author": "Amal Kumar",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_ball_football.usd",
+    "raw_sha256": "bc8db79bae35cd43dbc1674ec4e4bea24d27118cc3a53173fa420b931244ec34",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_ball_american",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/american_football/american_football_1k.usdc",
+    "author": "Riley Queen",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_ball_american.usd",
+    "raw_sha256": "c76e0fab890cde48e5febfede5023c4578f092e157e33b9aeb3c62b6b1dbd275",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_ball_baseball",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/baseball_01/baseball_01_1k.usdc",
+    "author": "Rico Cilliers",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_ball_baseball.usd",
+    "raw_sha256": "42c4fd314ea859ad2dbf99112455239bd4b6432071cd57627768f68b60860da7",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_laptop_classic",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/classic_laptop/classic_laptop_1k.usdc",
+    "author": "Arrangemonk",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_laptop_classic.usd",
+    "raw_sha256": "a42036ac42e58fd5fb1dc98591587ccd2f80d5d0bb02dfdcc3abfb1baa66737f",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_monitor_tv",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/Television_01/Television_01_1k.usdc",
+    "author": "Gabriel Radić",
+    "license": "CC0-1.0",
+    "raw_file": "raw_usd/ph_monitor_tv.usd",
+    "raw_sha256": "5a4f49be28319fba8f1e3031402b62c07d52bbaeff6b6c18958b75a3ac707da1",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_keyboard_alt",
+    "url": "https://github.com/jj-143/assets/blob/main/keyboard.glb",
+    "author": "jj-143/assets",
+    "license": "UNVERIFIED",
+    "raw_file": "raw_glb/ph_keyboard_alt.glb",
+    "raw_sha256": "80e0ef84cefc25eedd9f5b9bd8480322ae5bbfeefa04d3cc60a2b2ac4b995884",
+    "scale_applied": 0.0425
+  },
+  {
+    "asset_id": "ph_mouse_alt",
+    "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/mouse.glb",
+    "author": "psandis/office-3d-exp",
+    "license": "UNVERIFIED",
+    "raw_file": "raw_glb/ph_mouse_alt.glb",
+    "raw_sha256": "75ed200f645b00c86ab4580aecf9d8c72af924e306c4c987bb8426e6d043b8ed",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_laptop_alt",
+    "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/laptop.glb",
+    "author": "psandis/office-3d-exp",
+    "license": "UNVERIFIED",
+    "raw_file": "raw_glb/ph_laptop_alt.glb",
+    "raw_sha256": "387328b3c6530213770fb579545fa8cc27cc4ee6cf710f3f01bb28873da99b5e",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_deskchair_alt",
+    "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/desk-chair.glb",
+    "author": "psandis/office-3d-exp",
+    "license": "UNVERIFIED",
+    "raw_file": "raw_glb/ph_deskchair_alt.glb",
+    "raw_sha256": "5973bad42af36b2c312521066c3269e21cc5c100839c7fdd98838770d319fb53",
+    "scale_applied": 2.5
+  },
+  {
+    "asset_id": "ph_lamp_alt",
+    "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/light-desk.glb",
+    "author": "psandis/office-3d-exp",
+    "license": "UNVERIFIED",
+    "raw_file": "raw_glb/ph_lamp_alt.glb",
+    "raw_sha256": "5ea86e46a2fc36f86500fa6a97dc529dc3464189dc34e586375bae3ee5f68075",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "ph_desk_sitting",
+    "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/sitting-desk.glb",
+    "author": "psandis/office-3d-exp",
+    "license": "UNVERIFIED",
+    "raw_file": "raw_glb/ph_desk_sitting.glb",
+    "raw_sha256": "c3c85d0a0848030df3e6a5aa810066fcd8329e719726d1dbef14c9a33cef9717",
+    "scale_applied": 2.2
+  },
+  {
+    "asset_id": "ph_desk_standing2",
+    "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/standing-desk.glb",
+    "author": "psandis/office-3d-exp",
+    "license": "UNVERIFIED",
+    "raw_file": "raw_glb/ph_desk_standing2.glb",
+    "raw_sha256": "7d3c192d2614cad95613815b91fdd365810c9016a1c1abd06c1b508656a5e41a",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "v39_person_supplied",
+    "url": "user-supplied model",
+    "author": "user",
+    "license": "user-supplied",
+    "raw_file": "person_supplied.glb",
+    "raw_sha256": "aa584efbbcc6db80045f3839394af0ee4be40367c495f20e03daed7a464b8c28",
+    "scale_applied": 1.0
+  },
+  {
+    "asset_id": "teddy_bear_grab3d",
+    "url": "https://grab3d.com/dl/teddy-bear/teddy-bear.glb",
+    "author": "Grab3D",
+    "license": "CC0-1.0",
+    "raw_file": "teddy_bear_grab3d.glb",
+    "raw_sha256": "bb495f125432ea1a83728f5393fa51ea6c108f8e921a941e3a935b741c3b4b24",
+    "scale_applied": 1.0,
+    "format_in": "GLB",
+    "format_out": "USD"
+  },
+  {
+    "asset_id": "toy_building_bricks",
+    "url": "https://grab3d.com/dl/building-bricks/building-bricks.glb",
+    "author": "Grab3D",
+    "license": "CC0-1.0",
+    "raw_file": "toy_building_bricks_grab3d.glb",
+    "raw_sha256": "95bd8f97d0cf9d1f70f33f228ca2df79f6583033bc2114e443ff373998e4bd79",
+    "scale_applied": 1.0,
+    "format_in": "GLB",
+    "format_out": "USD"
+  }
+]

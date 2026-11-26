@@ -1,0 +1,119 @@
+{
+  "asset_id": "AT_bc7635695d1d4164d8a533e9",
+  "query_id": "ph_cabinet_vintage",
+  "semantic": "cabinet",
+  "dimensions_m": [
+    2.022,
+    0.67,
+    2.235
+  ],
+  "description": "复古木质立柜",
+  "material": {
+    "color": [
+      0.0465,
+      0.0177,
+      0.008
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "cabinet",
+    "vintage_cabinet_01",
+    "storage/cabinet/tall",
+    "复古木质立柜",
+    "vintage_cabinet_01",
+    "storage/cabinet/tall",
+    "复古木质立柜"
+  ],
+  "procedural_hash": "334d85f78d7602d8d34d75ea2195438fa06c93a61eab966da2e09f03d5cd0ad1",
+  "geometry_sha256": "8730d0e06b148f24bf71dd32dc45f85c7f7da9938b7a2958681c2b6dff0aa190",
+  "public_prefab": true,
+  "provider": "Rico Cilliers",
+  "observation_description": "复古木质立柜",
+  "requested_dimensions_m": [
+    2.022,
+    0.67,
+    2.235
+  ],
+  "prototype_key": "ph_cabinet_vintage",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_bc7635695d1d4164d8a533e9/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "cabinet",
+    "vintage_cabinet_01",
+    "storage/cabinet/tall",
+    "复古木质立柜"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_cabinet_vintage",
+    "semantic": "cabinet",
+    "category_path": "storage/cabinet/tall",
+    "aliases": [
+      "cabinet",
+      "vintage_cabinet_01",
+      "storage/cabinet/tall",
+      "复古木质立柜"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.022,
+      0.67,
+      2.235
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_cabinet_vintage/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/vintage_cabinet_01/vintage_cabinet_01_1k.usdc",
+      "author": "Rico Cilliers",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_cabinet_vintage.usd",
+      "raw_sha256": "4f496e3014e0a0758cd75e73baf9503a5b00723980921b23f3e5bc0af16ef2d4",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_cabinet_vintage cabinet 复古木质立柜 cabinet vintage_cabinet_01 storage/cabinet/tall 复古木质立柜 vintage_cabinet_01 storage/cabinet/tall 复古木质立柜",
+    "intake": "existing_external"
+  }
+}

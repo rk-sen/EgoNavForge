@@ -1,0 +1,128 @@
+{
+  "asset_id": "AT_91cd4e43b5dac9a390ba6783",
+  "query_id": "ph_cabinet_modern",
+  "semantic": "cabinet",
+  "dimensions_m": [
+    2.44,
+    0.52,
+    0.68
+  ],
+  "description": "现代木质条纹边柜/电视柜（Modern Wooden Cabinet）",
+  "material": {
+    "color": [
+      0.2294,
+      0.1576,
+      0.0961
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "cabinet",
+    "边柜",
+    "sideboard",
+    "modern",
+    "slatted",
+    "wood",
+    "边柜",
+    "sideboard",
+    "cabinet",
+    "modern",
+    "slatted",
+    "wood"
+  ],
+  "procedural_hash": "ca6502a6a0ff5b9c37c3156125b43669e742d7d1b286b66485c1fabe529fdef3",
+  "geometry_sha256": "141a445ce5f3beda86e750ea45e7625f7d671856e2d44f5be5c0a09ecade9e11",
+  "public_prefab": true,
+  "provider": "Patrik Pangerl",
+  "observation_description": "现代木质条纹边柜/电视柜（Modern Wooden Cabinet）",
+  "requested_dimensions_m": [
+    2.44,
+    0.52,
+    0.68
+  ],
+  "prototype_key": "ph_cabinet_modern",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_91cd4e43b5dac9a390ba6783/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "cabinet",
+    "边柜",
+    "sideboard",
+    "modern",
+    "slatted",
+    "wood"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_cabinet_modern",
+    "semantic": "cabinet",
+    "category_path": "storage/cabinet/sideboard",
+    "aliases": [
+      "cabinet",
+      "边柜",
+      "sideboard",
+      "modern",
+      "slatted",
+      "wood"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.44,
+      0.52,
+      0.68
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_cabinet_modern/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/modern_wooden_cabinet/modern_wooden_cabinet_1k.usdc",
+      "author": "Patrik Pangerl",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_cabinet_modern.usd",
+      "raw_sha256": "31b1847bde4e93f0a5f12121285918b587e00b56a331dc578a68db9ec757f71f",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_cabinet_modern cabinet 现代木质条纹边柜/电视柜（Modern Wooden Cabinet） cabinet 边柜 sideboard modern slatted wood 边柜 sideboard cabinet modern slatted wood",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "asset_id": "AT_02a74af77749a6722103f934",
+  "query_id": "ph_sofa_chinese",
+  "semantic": "sofa",
+  "dimensions_m": [
+    2.285,
+    0.969,
+    0.86
+  ],
+  "description": "中式木质三人沙发",
+  "material": {
+    "color": [
+      0.3137,
+      0.1996,
+      0.1433
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "sofa",
+    "couch",
+    "沙发",
+    "chinese_sofa",
+    "furniture/sofa/three_seat",
+    "中式木质三人沙发",
+    "chinese_sofa",
+    "furniture/sofa/three_seat",
+    "中式木质三人沙发"
+  ],
+  "procedural_hash": "0d85e257fbc05789b3b3a61e5f29566d226d1296c7356974280361a10bbc6756",
+  "geometry_sha256": "74508d0b62081bf5466c0597dfadcf2e83b3c3185d5ff487673b0f3348813d22",
+  "public_prefab": true,
+  "provider": "Kirill Sannikov",
+  "observation_description": "中式木质三人沙发",
+  "requested_dimensions_m": [
+    2.285,
+    0.969,
+    0.86
+  ],
+  "prototype_key": "ph_sofa_chinese",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_02a74af77749a6722103f934/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "sofa",
+    "couch",
+    "沙发",
+    "chinese_sofa",
+    "furniture/sofa/three_seat",
+    "中式木质三人沙发"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_sofa_chinese",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/three_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "chinese_sofa",
+      "furniture/sofa/three_seat",
+      "中式木质三人沙发"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.285,
+      0.969,
+      0.86
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sofa_chinese/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/chinese_sofa/chinese_sofa_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sofa_chinese.usd",
+      "raw_sha256": "fe22a3bfa80934d3362cff2f1ffc1ec1f1d2e8d314921343da08f7905804fbc3",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sofa_chinese sofa 中式木质三人沙发 sofa couch 沙发 chinese_sofa furniture/sofa/three_seat 中式木质三人沙发 chinese_sofa furniture/sofa/three_seat 中式木质三人沙发",
+    "intake": "existing_external"
+  }
+}

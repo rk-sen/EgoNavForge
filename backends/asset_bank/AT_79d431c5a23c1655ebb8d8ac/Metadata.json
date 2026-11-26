@@ -1,0 +1,147 @@
+{
+  "asset_id": "AT_79d431c5a23c1655ebb8d8ac",
+  "query_id": "toy_building_bricks",
+  "semantic": "toy_blocks",
+  "dimensions_m": [
+    0.2278,
+    0.2917,
+    0.1429
+  ],
+  "description": "儿童拼搭积木套装",
+  "material": {
+    "color": [
+      0.8,
+      0.3,
+      0.2
+    ],
+    "texture": "rubber",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "building blocks",
+    "toy bricks",
+    "blocks",
+    "积木",
+    "拼搭积木",
+    "toy",
+    "building_blocks",
+    "bricks",
+    "kids",
+    "colorful",
+    "toy",
+    "building_blocks",
+    "bricks",
+    "kids",
+    "colorful"
+  ],
+  "procedural_hash": "dab74b3cd9e3d3c43613d0e688f354f0f4f12373acd7ae178a4bef16c13302e7",
+  "geometry_sha256": "67f124a7e32ce68939131725e0774302d9d0d1039a997163d9a566d40f832379",
+  "public_prefab": true,
+  "provider": "Grab3D",
+  "observation_description": "儿童拼搭积木套装",
+  "requested_dimensions_m": [
+    0.2278,
+    0.2917,
+    0.1429
+  ],
+  "prototype_key": "toy_building_bricks",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_79d431c5a23c1655ebb8d8ac/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "building blocks",
+    "toy bricks",
+    "blocks",
+    "积木",
+    "拼搭积木",
+    "toy",
+    "building_blocks",
+    "bricks",
+    "kids",
+    "colorful"
+  ],
+  "scene_types": [
+    "kids",
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "floor_toy",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "rubber_or_plastic",
+  "negative_roles": [
+    "chair",
+    "sofa",
+    "large_furniture"
+  ],
+  "instance_unit": "compound_set",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "toy_building_bricks",
+    "semantic": "toy_blocks",
+    "category_path": "toy/building_blocks/set",
+    "aliases": [
+      "building blocks",
+      "toy bricks",
+      "blocks",
+      "积木",
+      "拼搭积木",
+      "toy",
+      "building_blocks",
+      "bricks",
+      "kids",
+      "colorful"
+    ],
+    "scene_types": [
+      "kids",
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "rubber_or_plastic",
+    "dimensions_m": [
+      0.2278,
+      0.2917,
+      0.1429
+    ],
+    "instance_unit": "compound_set",
+    "negative_roles": [
+      "chair",
+      "sofa",
+      "large_furniture"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/toy_building_bricks/front.jpg",
+    "provenance": {
+      "url": "https://grab3d.com/dl/building-bricks/building-bricks.glb",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "raw_file": "toy_building_bricks_grab3d.glb",
+      "raw_sha256": "95bd8f97d0cf9d1f70f33f228ca2df79f6583033bc2114e443ff373998e4bd79",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "toy_building_bricks toy_blocks 儿童拼搭积木套装 building blocks toy bricks blocks 积木 拼搭积木 toy building_blocks bricks kids colorful toy building_blocks bricks kids colorful",
+    "intake": "explicit_toy_addition"
+  }
+}

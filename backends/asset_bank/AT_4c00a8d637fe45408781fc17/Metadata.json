@@ -1,0 +1,128 @@
+{
+  "asset_id": "AT_4c00a8d637fe45408781fc17",
+  "query_id": "ph_chair_plastic",
+  "semantic": "chair",
+  "dimensions_m": [
+    0.642,
+    0.628,
+    0.88
+  ],
+  "description": "白色塑料一体成型椅",
+  "material": {
+    "color": [
+      0.6647,
+      0.655,
+      0.6392
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "plastic_monobloc_chair_01",
+    "furniture/chair/plastic",
+    "白色塑料一体成型椅",
+    "plastic_monobloc_chair_01",
+    "furniture/chair/plastic",
+    "白色塑料一体成型椅"
+  ],
+  "procedural_hash": "fab8855459156ff3f7302b80e909105b4801fe721f2f64014f4e56a29a0058f4",
+  "geometry_sha256": "54718b6701050c753a28858771fba10c953ee09a6c1c7c19a4a7dbcde7ef45a9",
+  "public_prefab": true,
+  "provider": "Kuutti Siitonen",
+  "observation_description": "白色塑料一体成型椅",
+  "requested_dimensions_m": [
+    0.642,
+    0.628,
+    0.88
+  ],
+  "prototype_key": "ph_chair_plastic",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_4c00a8d637fe45408781fc17/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "plastic_monobloc_chair_01",
+    "furniture/chair/plastic",
+    "白色塑料一体成型椅"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_chair_plastic",
+    "semantic": "chair",
+    "category_path": "furniture/chair/plastic",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "plastic_monobloc_chair_01",
+      "furniture/chair/plastic",
+      "白色塑料一体成型椅"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.642,
+      0.628,
+      0.88
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_chair_plastic/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/plastic_monobloc_chair_01/plastic_monobloc_chair_01_1k.usdc",
+      "author": "Kuutti Siitonen",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_chair_plastic.usd",
+      "raw_sha256": "388ff00630f3ac82c6263de4e8e6394eba58b87de378ba66938968898b5bce92",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_chair_plastic chair 白色塑料一体成型椅 chair office chair 椅子 办公椅 plastic_monobloc_chair_01 furniture/chair/plastic 白色塑料一体成型椅 plastic_monobloc_chair_01 furniture/chair/plastic 白色塑料一体成型椅",
+    "intake": "existing_external"
+  }
+}

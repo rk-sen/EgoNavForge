@@ -1,0 +1,121 @@
+{
+  "asset_id": "AT_c14201aa8d2074e1d0c88e91",
+  "query_id": "ph_stool_metal",
+  "semantic": "stool",
+  "dimensions_m": [
+    0.352,
+    0.355,
+    0.883
+  ],
+  "description": "金属圆凳",
+  "material": {
+    "color": [
+      0.8,
+      0.8,
+      0.8
+    ],
+    "texture": "metal",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "stool",
+    "metal_stool_01",
+    "furniture/stool/metal",
+    "金属圆凳",
+    "metal_stool_01",
+    "furniture/stool/metal",
+    "金属圆凳"
+  ],
+  "procedural_hash": "9d6d8265428976731ea77215d4f46ed60636c413b0da9e75c3f65ae4199ffdb6",
+  "geometry_sha256": "fbafa6808a89e8fcd257f918f7181fa5374ebf22d1f6af3f2e32f2675cc2b762",
+  "public_prefab": true,
+  "provider": "Ulan Cabanilla",
+  "observation_description": "金属圆凳",
+  "requested_dimensions_m": [
+    0.352,
+    0.355,
+    0.883
+  ],
+  "prototype_key": "ph_stool_metal",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_c14201aa8d2074e1d0c88e91/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "stool",
+    "metal_stool_01",
+    "furniture/stool/metal",
+    "金属圆凳"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "metal",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_stool_metal",
+    "semantic": "stool",
+    "category_path": "furniture/stool/metal",
+    "aliases": [
+      "stool",
+      "metal_stool_01",
+      "furniture/stool/metal",
+      "金属圆凳"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "metal",
+    "dimensions_m": [
+      0.352,
+      0.355,
+      0.883
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_stool_metal/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/metal_stool_01/metal_stool_01_1k.usdc",
+      "author": "Ulan Cabanilla",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_stool_metal.usd",
+      "raw_sha256": "05c313012e1f62affdaa686f5150f30fd35202521984f0a27924e611731a48fb",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_stool_metal stool 金属圆凳 stool metal_stool_01 furniture/stool/metal 金属圆凳 metal_stool_01 furniture/stool/metal 金属圆凳",
+    "intake": "existing_external"
+  }
+}

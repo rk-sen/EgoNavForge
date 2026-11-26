@@ -1,0 +1,128 @@
+{
+  "asset_id": "AT_b237f9ee112b3c93f6fdd69c",
+  "query_id": "ph_chair_green",
+  "semantic": "chair",
+  "dimensions_m": [
+    0.673,
+    0.664,
+    1.058
+  ],
+  "description": "绿色经典木质办公/餐椅",
+  "material": {
+    "color": [
+      0.1769,
+      0.1488,
+      0.1161
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "GreenChair_01",
+    "furniture/chair/classic",
+    "绿色经典木质办公/餐椅",
+    "GreenChair_01",
+    "furniture/chair/classic",
+    "绿色经典木质办公/餐椅"
+  ],
+  "procedural_hash": "e60f44c75f365a310dc8f65bdaa1e32a9ea8ce17ddd9e829cc391911309d2885",
+  "geometry_sha256": "5e9f87b20d75b9fafb7738f28676a935bd3c9813c31f6e0bbb99b4365a8f8643",
+  "public_prefab": true,
+  "provider": "Kirill Sannikov",
+  "observation_description": "绿色经典木质办公/餐椅",
+  "requested_dimensions_m": [
+    0.673,
+    0.664,
+    1.058
+  ],
+  "prototype_key": "ph_chair_green",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_b237f9ee112b3c93f6fdd69c/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "GreenChair_01",
+    "furniture/chair/classic",
+    "绿色经典木质办公/餐椅"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_chair_green",
+    "semantic": "chair",
+    "category_path": "furniture/chair/classic",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "GreenChair_01",
+      "furniture/chair/classic",
+      "绿色经典木质办公/餐椅"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.673,
+      0.664,
+      1.058
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_chair_green/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/GreenChair_01/GreenChair_01_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_chair_green.usd",
+      "raw_sha256": "f0fa97d14be55c4ccb783588a06963ffbed50535ac62614ec7f0c690cfb21762",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_chair_green chair 绿色经典木质办公/餐椅 chair office chair 椅子 办公椅 GreenChair_01 furniture/chair/classic 绿色经典木质办公/餐椅 GreenChair_01 furniture/chair/classic 绿色经典木质办公/餐椅",
+    "intake": "existing_external"
+  }
+}

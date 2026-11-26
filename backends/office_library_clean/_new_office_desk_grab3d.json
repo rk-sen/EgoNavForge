@@ -1,0 +1,126 @@
+{
+  "asset_id": "office_desk_grab3d",
+  "category_path": "furniture/desk/office_desk",
+  "description": "蜂蜜色木纹台面、炭灰色雪橇腿的办公电脑桌，带薄荷色抽屉和理线槽",
+  "tags": [
+    "office desk",
+    "computer desk",
+    "workstation",
+    "wood",
+    "honey wood",
+    "drawer",
+    "办公桌",
+    "电脑桌",
+    "工位桌"
+  ],
+  "prefix": "Grab3D_office_desk_grab3d",
+  "object_count": 2,
+  "usd": "usd/office_desk_grab3d.usd",
+  "world_bbox": [
+    -0.8,
+    -0.4022,
+    0,
+    0.8,
+    0.4022,
+    0.74
+  ],
+  "source_origin": [
+    0,
+    0,
+    0
+  ],
+  "canonical": {
+    "up_axis": "Z",
+    "meters_per_unit": 1.0,
+    "origin": "bottom_center",
+    "front_axis": [
+      0,
+      -1,
+      0
+    ]
+  },
+  "source_yaw_deg": 0,
+  "placements": [],
+  "asset_kind": "unique",
+  "instance_count": 0,
+  "display_color": [
+    0.55,
+    0.36,
+    0.18
+  ],
+  "material_profiles": {
+    "main": {
+      "base_color": [
+        0.55,
+        0.36,
+        0.18
+      ],
+      "roughness": 0.55,
+      "metallic": 0.0,
+      "source": "grab3d_intake"
+    }
+  },
+  "source": {
+    "url": "https://grab3d.com/dl/office-desk/office-desk.glb",
+    "page_url": "https://grab3d.com/models/furniture/office-desk/",
+    "author": "Grab3D",
+    "license": "CC0-1.0",
+    "raw_file": "office-desk.glb",
+    "raw_sha256": "a5b41664cd32c0f66e30681e6516d042f7418ff1ef3f04e736a244f85870ba48",
+    "scale_applied": 1.0,
+    "format_in": "GLB",
+    "format_out": "USD"
+  },
+  "geometry_hash": "4d20ccd7cc81fd2c",
+  "bbox_m": [
+    1.6,
+    0.8045,
+    0.74
+  ],
+  "thumbnails": {
+    "front": "thumbs/office_desk_grab3d/front.jpg",
+    "iso": "thumbs/office_desk_grab3d/iso.jpg",
+    "top": "thumbs/office_desk_grab3d/top.jpg"
+  },
+  "status": "approved",
+  "version": "1",
+  "material_slots": [
+    {
+      "slot": "main",
+      "role": "auto",
+      "source": "usd"
+    }
+  ],
+  "search_text": "office_desk_grab3d desk 蜂蜜色木纹台面、炭灰色雪橇腿的办公电脑桌，带薄荷色抽屉和理线槽 A honey-wood office desk on charcoal sled frames, with a mint drawer and cable tray. office desk computer desk workstation wood honey wood drawer 办公桌 电脑桌 工位桌",
+  "semantic": "desk",
+  "aliases": [
+    "office desk",
+    "computer desk",
+    "workstation",
+    "wood",
+    "honey wood",
+    "drawer",
+    "办公桌",
+    "电脑桌",
+    "工位桌"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "negative_roles": [
+    "partition",
+    "window",
+    "door",
+    "school_desk",
+    "bench"
+  ],
+  "instance_unit": "single",
+  "intake_note": "Grab3D CC0 true-metre office desk, normalized bottom-centre, thumbnailed; added to match video desks."
+}

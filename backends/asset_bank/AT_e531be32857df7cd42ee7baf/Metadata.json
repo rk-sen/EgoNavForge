@@ -1,0 +1,148 @@
+{
+  "asset_id": "AT_e531be32857df7cd42ee7baf",
+  "query_id": "fm_door_office_white",
+  "semantic": "door",
+  "dimensions_m": [
+    0.981,
+    0.197,
+    2.058
+  ],
+  "description": "现代办公室白色平板内门，简洁分格",
+  "material": {
+    "color": [
+      0.82,
+      0.8,
+      0.74
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "door",
+    "doorway",
+    "门",
+    "门洞",
+    "办公室门",
+    "室内门",
+    "白色木门",
+    "office door",
+    "white",
+    "panel",
+    "办公室门",
+    "室内门",
+    "白色木门",
+    "office door",
+    "white",
+    "panel"
+  ],
+  "procedural_hash": "3218a47bd818a5a1371d58bac99f4b10717135d77a00d68ff705e412595ad41f",
+  "geometry_sha256": "7a4476eedb23eedfef23c95d9d919054a9cd61345536989d5110ae63c26bcb69",
+  "public_prefab": true,
+  "provider": "FurniMesh",
+  "observation_description": "现代办公室白色平板内门，简洁分格",
+  "requested_dimensions_m": [
+    0.981,
+    0.197,
+    2.058
+  ],
+  "prototype_key": "fm_door_office_white",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_e531be32857df7cd42ee7baf/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "door",
+    "doorway",
+    "门",
+    "门洞",
+    "办公室门",
+    "室内门",
+    "白色木门",
+    "office door",
+    "white",
+    "panel"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "living",
+    "large"
+  ],
+  "spatial_roles": [
+    "wall",
+    "architecture"
+  ],
+  "support_capability": false,
+  "material_family": "glass_or_wood",
+  "negative_roles": [
+    "window",
+    "monitor",
+    "cabinet",
+    "partition"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "fm_door_office_white",
+    "semantic": "door",
+    "category_path": "architecture/door/office",
+    "aliases": [
+      "door",
+      "doorway",
+      "门",
+      "门洞",
+      "办公室门",
+      "室内门",
+      "白色木门",
+      "office door",
+      "white",
+      "panel"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "glass_or_wood",
+    "dimensions_m": [
+      0.981,
+      0.197,
+      2.058
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "window",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_door_office_white/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/architecture/door/a-white-interior-paneled-door-featuring-a-o6qeuy/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_door_office_white.glb",
+      "raw_sha256": "72a80ea8420b8f58ad573591c0fe282b1efc1402a7617219945f0a7affbc4b75",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_door_office_white door 现代办公室白色平板内门，简洁分格 door doorway 门 门洞 办公室门 室内门 白色木门 office door white panel 办公室门 室内门 白色木门 office door white panel",
+    "intake": "existing_external"
+  }
+}

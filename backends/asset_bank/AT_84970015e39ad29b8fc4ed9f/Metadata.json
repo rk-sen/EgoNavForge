@@ -1,0 +1,126 @@
+{
+  "asset_id": "AT_84970015e39ad29b8fc4ed9f",
+  "query_id": "ph_desk_standing2",
+  "semantic": "desk",
+  "dimensions_m": [
+    1.484,
+    0.81,
+    0.938
+  ],
+  "description": "升降站立办公桌",
+  "material": {
+    "color": [
+      0.1248,
+      0.1248,
+      0.1248
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "standing_desk",
+    "height_adjustable",
+    "办公桌",
+    "standing_desk",
+    "height_adjustable",
+    "workstation"
+  ],
+  "procedural_hash": "c4d9dad02b7e9a983fcf30be0a525602d3c46300946383d45b5068fe5a83aa9d",
+  "geometry_sha256": "ff2a5ba3f66ae058d7de5a618b6ddcfc88a91c2ad6aad8fd9e8ba85aaada4fb7",
+  "public_prefab": true,
+  "provider": "psandis/office-3d-exp",
+  "observation_description": "升降站立办公桌",
+  "requested_dimensions_m": [
+    1.484,
+    0.81,
+    0.938
+  ],
+  "prototype_key": "ph_desk_standing2",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_84970015e39ad29b8fc4ed9f/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "standing_desk",
+    "height_adjustable"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_desk_standing2",
+    "semantic": "desk",
+    "category_path": "furniture/desk/standing_workstation",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "standing_desk",
+      "height_adjustable"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.484,
+      0.81,
+      0.938
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_desk_standing2/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/standing-desk.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_desk_standing2.glb",
+      "raw_sha256": "7d3c192d2614cad95613815b91fdd365810c9016a1c1abd06c1b508656a5e41a",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_desk_standing2 desk 升降站立办公桌 desk workstation 办公桌 工位 standing_desk height_adjustable 办公桌 standing_desk height_adjustable workstation",
+    "intake": "existing_external"
+  }
+}

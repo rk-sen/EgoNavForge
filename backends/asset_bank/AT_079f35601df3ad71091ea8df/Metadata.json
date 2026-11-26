@@ -1,0 +1,132 @@
+{
+  "asset_id": "AT_079f35601df3ad71091ea8df",
+  "query_id": "office_desk_rect",
+  "semantic": "desk",
+  "dimensions_m": [
+    1.822,
+    0.847,
+    0.922
+  ],
+  "description": "深色木质双抽屉办公桌",
+  "material": {
+    "color": [
+      0.1301,
+      0.0829,
+      0.0443
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "wood",
+    "drawers",
+    "writing_desk",
+    "办公桌",
+    "desk",
+    "wood",
+    "drawers",
+    "writing_desk"
+  ],
+  "procedural_hash": "2b4c336eaee64512b6c72334d2e74604f3ebf7784e8fde94970af1135d1218bf",
+  "geometry_sha256": "04bab09cc6fffbcc70afd66171a173959e1397b001729934cdc0c02889995c38",
+  "public_prefab": true,
+  "provider": "ivoirh/dp-sm-vr",
+  "observation_description": "深色木质双抽屉办公桌",
+  "requested_dimensions_m": [
+    1.822,
+    0.847,
+    0.922
+  ],
+  "prototype_key": "office_desk_rect",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_079f35601df3ad71091ea8df/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "wood",
+    "drawers",
+    "writing_desk"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "office_desk_rect",
+    "semantic": "desk",
+    "category_path": "furniture/desk/office_desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "wood",
+      "drawers",
+      "writing_desk"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.822,
+      0.847,
+      0.922
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "drawers"
+    ],
+    "thumbnail": "thumbs/office_desk_rect/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Desk.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_desk_rect.glb",
+      "raw_sha256": "3878f6d93d946d77f3e1be55919627a81435696252137ae33c22391c0411f3ce",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_desk_rect desk 深色木质双抽屉办公桌 desk workstation 办公桌 工位 wood drawers writing_desk 办公桌 desk wood drawers writing_desk",
+    "intake": "existing_external"
+  }
+}

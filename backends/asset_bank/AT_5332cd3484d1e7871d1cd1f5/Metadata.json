@@ -1,0 +1,119 @@
+{
+  "asset_id": "AT_5332cd3484d1e7871d1cd1f5",
+  "query_id": "ph_bench_painted",
+  "semantic": "bench",
+  "dimensions_m": [
+    1.165,
+    0.497,
+    0.889
+  ],
+  "description": "彩绘木质长凳",
+  "material": {
+    "color": [
+      0.3772,
+      0.2399,
+      0.1903
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "bench",
+    "painted_wooden_bench",
+    "furniture/bench/wood",
+    "彩绘木质长凳",
+    "painted_wooden_bench",
+    "furniture/bench/wood",
+    "彩绘木质长凳"
+  ],
+  "procedural_hash": "642030f56492b368edd0de22e67505982d83fe7f5db0c79a49b90af2e31da824",
+  "geometry_sha256": "a06b2bc5221624c1ea21699c4cf08d64c8d975de10456806df3e790ec4ba9c56",
+  "public_prefab": true,
+  "provider": "Kirill Sannikov",
+  "observation_description": "彩绘木质长凳",
+  "requested_dimensions_m": [
+    1.165,
+    0.497,
+    0.889
+  ],
+  "prototype_key": "ph_bench_painted",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_5332cd3484d1e7871d1cd1f5/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "bench",
+    "painted_wooden_bench",
+    "furniture/bench/wood",
+    "彩绘木质长凳"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_bench_painted",
+    "semantic": "bench",
+    "category_path": "furniture/bench/wood",
+    "aliases": [
+      "bench",
+      "painted_wooden_bench",
+      "furniture/bench/wood",
+      "彩绘木质长凳"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.165,
+      0.497,
+      0.889
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_bench_painted/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_bench/painted_wooden_bench_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_bench_painted.usd",
+      "raw_sha256": "b665ba1820180d1fde3071e5419d9a9f173bcf8ab58b1c1d3841b8b6c892d07a",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_bench_painted bench 彩绘木质长凳 bench painted_wooden_bench furniture/bench/wood 彩绘木质长凳 painted_wooden_bench furniture/bench/wood 彩绘木质长凳",
+    "intake": "existing_external"
+  }
+}

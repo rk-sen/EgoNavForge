@@ -1,12 +1,10 @@
-# Smoke / wiring test: 1 seeker episode, reuse Pi3 suite, short twin run.
-# Proves: loader → (reuse poses) → IndoorTwinScene inputs → Blender twin assets.
-# Uses fewer frames / fast preset / no USD; may still call VLM (or reuse evidence).
+# Wiring smoke: reuse Pi3 poses, write twin inputs, do not call the VLM.
+# The full sample run is configs/datasets/seeker_scene_twin.yaml.
 #
-#   export zhesuan_API_KEY='...'
 #   python -m ego_nav_forge run -c configs/datasets/seeker_scene_twin_smoke.yaml --max-eps 1
 workflow: ../workflows/pi3_moge_lerobot.yaml
 exp_name: seeker_scene_twin_smoke
-work_dir: /mnt/luozhaoyi/releases/ego_nav_forge/work_dirs/seeker_scene_twin_smoke
+work_dir: /mnt/luozhaoyi/releases/ego_nav_forge_v1/work_dirs/seeker_scene_twin_smoke
 
 dataset:
   root: /mnt/luozhaoyi/ABot_data_engine/threeeyes918/parsed
@@ -15,40 +13,21 @@ dataset:
     - seeker_19700514_035352
   stream_files:
     forward_img: bleftvid.mp4
-    left_img: brightvid.mp4
-    right_img: leftvid.mp4
     imu: imu.json
   pack: [forward_img]
   recon_image_key: forward_img
   image_stride: 2
-  mask_path: /mnt/luozhaoyi/releases/ego_nav_forge/assets/seeker_mask.png
+  mask_path: /mnt/luozhaoyi/releases/ego_nav_forge_v1/assets/seeker_mask.png
   suite_prefix: te918_
   force_recon: false
   reuse_suite_roots:
     - /mnt/luozhaoyi/ABot_data_engine/outputs/threeeyes918_pi3_moge/suite
-
-  # skip heavy export for smoke
   lerobot_export: false
-  traj_viz: true
-
+  traj_viz: false
   scene_twin:
     enabled: true
-    smoke: true
+    check_only: true
     image_key: forward_img
     calib_camera: bleft
-    export_pointcloud: true
-    # Smoke: rebuild Blender scene from the finished v37 project (no VLM).
-    # Full cognition path is seeker_scene_twin.yaml (omit seed_project).
-    seed_project: /mnt/luozhaoyi/projects/indoor_twin_agent_v37/v37/project
-    # Keep video/K aligned with the seed plan (cropbot sample that produced v37).
-    video_path: /mnt/luozhaoyi/projects/indoor_twin_agent_v37/v37/project/inputs/source_video.mp4
-    trajectory_path: /mnt/luozhaoyi/projects/indoor_twin_agent_v37/v37/project/inputs/trajectory.json
-    intrinsics_path: /mnt/luozhaoyi/projects/indoor_twin_agent_v37/v37/project/inputs/intrinsics.json
-    export_usd: true
-    preset: fast
-    max_poses: 16
-    frames: 8
-    res: 256
-    fps: 2
+    use_pointcloud: true
     blender: /mnt/luozhaoyi/tools/blender-4.5.14-linux-x64/blender
-    objects: "green ball, orange sofa"

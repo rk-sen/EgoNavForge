@@ -1,0 +1,126 @@
+{
+  "asset_id": "AT_76c34fbeceff55ee75d3e846",
+  "query_id": "keyboard_mechanical",
+  "semantic": "keyboard",
+  "dimensions_m": [
+    1.055,
+    0.4,
+    0.033
+  ],
+  "description": "黑色机械键盘",
+  "material": {
+    "color": [
+      0.1329,
+      0.1329,
+      0.1329
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "keyboard",
+    "键盘",
+    "mechanical",
+    "black",
+    "peripheral",
+    "键盘",
+    "keyboard",
+    "mechanical",
+    "black",
+    "peripheral"
+  ],
+  "procedural_hash": "ccdfd9f87eb6fd16c01d3931faf28b323118a7a6ae3a16051a5e915a28fd672b",
+  "geometry_sha256": "df7d35fff1f988e8c3dfc569b63e1ec6d3a15e3b2b336d0412e16309aa00eaa2",
+  "public_prefab": true,
+  "provider": "jj-143/assets",
+  "observation_description": "黑色机械键盘",
+  "requested_dimensions_m": [
+    1.055,
+    0.4,
+    0.033
+  ],
+  "prototype_key": "keyboard_mechanical",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_76c34fbeceff55ee75d3e846/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "keyboard",
+    "键盘",
+    "mechanical",
+    "black",
+    "peripheral"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "keyboard_mechanical",
+    "semantic": "keyboard",
+    "category_path": "electronics/input/keyboard",
+    "aliases": [
+      "keyboard",
+      "键盘",
+      "mechanical",
+      "black",
+      "peripheral"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      1.055,
+      0.4,
+      0.033
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/keyboard_mechanical/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/jj-143/assets/main/keyboard.glb",
+      "author": "jj-143/assets",
+      "license": "UNVERIFIED",
+      "raw_file": "keyboard_mechanical.glb",
+      "raw_sha256": "80e0ef84cefc25eedd9f5b9bd8480322ae5bbfeefa04d3cc60a2b2ac4b995884",
+      "scale_applied": 0.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "keyboard_mechanical keyboard 黑色机械键盘 keyboard 键盘 mechanical black peripheral 键盘 keyboard mechanical black peripheral",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "asset_id": "AT_595df60479b1b956d7e40bc9",
+  "query_id": "ph_desk_metal",
+  "semantic": "desk",
+  "dimensions_m": [
+    2.0,
+    0.947,
+    0.787
+  ],
+  "description": "工业风金属办公桌",
+  "material": {
+    "color": [
+      0.8,
+      0.8,
+      0.8
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "metal_office_desk",
+    "furniture/desk/office_desk",
+    "工业风金属办公桌",
+    "metal_office_desk",
+    "furniture/desk/office_desk",
+    "工业风金属办公桌"
+  ],
+  "procedural_hash": "a7f661a7d8e5a07b7bf5a01cc1388a3524ce00f893e8ab46a4be91358cb8be69",
+  "geometry_sha256": "0dbc6e296691f61ac20648d218a0264a6a9f4f771f62163f5a54035a6f753159",
+  "public_prefab": true,
+  "provider": "Ulan Cabanilla",
+  "observation_description": "工业风金属办公桌",
+  "requested_dimensions_m": [
+    2.0,
+    0.947,
+    0.787
+  ],
+  "prototype_key": "ph_desk_metal",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_595df60479b1b956d7e40bc9/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "metal_office_desk",
+    "furniture/desk/office_desk",
+    "工业风金属办公桌"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_desk_metal",
+    "semantic": "desk",
+    "category_path": "furniture/desk/office_desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "metal_office_desk",
+      "furniture/desk/office_desk",
+      "工业风金属办公桌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.0,
+      0.947,
+      0.787
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_desk_metal/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/metal_office_desk/metal_office_desk_1k.usdc",
+      "author": "Ulan Cabanilla",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_desk_metal.usd",
+      "raw_sha256": "e72b8eb0cf10f0e1c7c93e779d1c4279564f09ddcfb4845bcac449dde061b9e0",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_desk_metal desk 工业风金属办公桌 desk workstation 办公桌 工位 metal_office_desk furniture/desk/office_desk 工业风金属办公桌 metal_office_desk furniture/desk/office_desk 工业风金属办公桌",
+    "intake": "existing_external"
+  }
+}

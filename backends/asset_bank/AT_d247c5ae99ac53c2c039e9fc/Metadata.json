@@ -1,0 +1,143 @@
+{
+  "asset_id": "AT_d247c5ae99ac53c2c039e9fc",
+  "query_id": "ph_partition_chainlink",
+  "semantic": "partition_chainlink",
+  "dimensions_m": [
+    2.84,
+    0.752,
+    0.883
+  ],
+  "description": "链网式运动隔断/围栏（Chainlink Fence）",
+  "material": {
+    "color": [
+      0.3073,
+      0.2978,
+      0.2864
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "chainlink fence",
+    "wire partition",
+    "铁丝网隔断",
+    "隔断",
+    "partition",
+    "fence",
+    "chainlink",
+    "sports",
+    "隔断",
+    "partition",
+    "fence",
+    "chainlink",
+    "sports"
+  ],
+  "procedural_hash": "05a7abdd59a89c720d0da577323966c94b43af434888c126156fb7eb8d526b3f",
+  "geometry_sha256": "4310fba82e8be24f3b2b3401f620c961a8397d287037d72b42842c4f114dd0c8",
+  "public_prefab": true,
+  "provider": "Poly Haven",
+  "observation_description": "链网式运动隔断/围栏（Chainlink Fence）",
+  "requested_dimensions_m": [
+    2.84,
+    0.752,
+    0.883
+  ],
+  "prototype_key": "ph_partition_chainlink",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_d247c5ae99ac53c2c039e9fc/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "chainlink fence",
+    "wire partition",
+    "铁丝网隔断",
+    "隔断",
+    "partition",
+    "fence",
+    "chainlink",
+    "sports"
+  ],
+  "scene_types": [
+    "lab",
+    "industrial",
+    "sports",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "divider"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "wooden_partition",
+    "office_divider",
+    "cubicle_panel",
+    "fabric_partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_partition_chainlink",
+    "semantic": "partition_chainlink",
+    "category_path": "sports/partition/chainlink",
+    "aliases": [
+      "chainlink fence",
+      "wire partition",
+      "铁丝网隔断",
+      "隔断",
+      "partition",
+      "fence",
+      "chainlink",
+      "sports"
+    ],
+    "scene_types": [
+      "lab",
+      "industrial",
+      "sports",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "divider"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      2.84,
+      0.752,
+      0.883
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "wooden_partition",
+      "office_divider",
+      "cubicle_panel",
+      "fabric_partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_partition_chainlink/front.jpg",
+    "provenance": {
+      "url": "https://polyhaven.com/a/partition_chainlink",
+      "author": "Poly Haven",
+      "license": "CC0",
+      "raw_file": "raw_usd/ph_partition_chainlink.usd",
+      "raw_sha256": "500387217faceb133ccf015c5e07bf2584d22d391fd7da71339f0a01e3090908",
+      "scale_applied": 0.35,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0"
+    },
+    "retrieval_text": "ph_partition_chainlink partition_chainlink 链网式运动隔断/围栏（Chainlink Fence） chainlink fence wire partition 铁丝网隔断 隔断 partition fence chainlink sports 隔断 partition fence chainlink sports",
+    "intake": "existing_external"
+  }
+}

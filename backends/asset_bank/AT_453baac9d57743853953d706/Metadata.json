@@ -1,0 +1,135 @@
+{
+  "asset_id": "AT_453baac9d57743853953d706",
+  "query_id": "ph_deskchair_alt",
+  "semantic": "chair",
+  "dimensions_m": [
+    0.837,
+    0.786,
+    1.519
+  ],
+  "description": "黑色四腿办公/会议椅",
+  "material": {
+    "color": [
+      0.11,
+      0.19,
+      0.19
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "office_chair",
+    "four_leg",
+    "black",
+    "visitor",
+    "办公椅",
+    "office_chair",
+    "four_leg",
+    "black",
+    "visitor"
+  ],
+  "procedural_hash": "224a59dbafa7f82a120933938bd169d550e700ee0023cf8c22f73cad17931a56",
+  "geometry_sha256": "faa174f035df1fd5739c6488b71f810903e2f810dafdbfb1f4e5ea00c78fdc82",
+  "public_prefab": true,
+  "provider": "psandis/office-3d-exp",
+  "observation_description": "黑色四腿办公/会议椅",
+  "requested_dimensions_m": [
+    0.837,
+    0.786,
+    1.519
+  ],
+  "prototype_key": "ph_deskchair_alt",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_453baac9d57743853953d706/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "office_chair",
+    "four_leg",
+    "black",
+    "visitor"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_deskchair_alt",
+    "semantic": "chair",
+    "category_path": "furniture/chair/office_chair",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "office_chair",
+      "four_leg",
+      "black",
+      "visitor"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.837,
+      0.786,
+      1.519
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "four_leg"
+    ],
+    "thumbnail": "thumbs/ph_deskchair_alt/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/desk-chair.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_deskchair_alt.glb",
+      "raw_sha256": "5973bad42af36b2c312521066c3269e21cc5c100839c7fdd98838770d319fb53",
+      "scale_applied": 2.5,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_deskchair_alt chair 黑色四腿办公/会议椅 chair office chair 椅子 办公椅 office_chair four_leg black visitor 办公椅 office_chair four_leg black visitor",
+    "intake": "existing_external"
+  }
+}

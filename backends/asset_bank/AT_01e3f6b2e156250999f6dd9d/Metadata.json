@@ -1,0 +1,134 @@
+{
+  "asset_id": "AT_01e3f6b2e156250999f6dd9d",
+  "query_id": "ph_chair_wood",
+  "semantic": "chair",
+  "dimensions_m": [
+    0.688,
+    0.658,
+    2.273
+  ],
+  "description": "哥特风格高背木椅/王座（Wooden Chair 01）",
+  "material": {
+    "color": [
+      0.3641,
+      0.2711,
+      0.2539
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "gothic",
+    "ornate",
+    "wood",
+    "throne",
+    "椅子",
+    "chair",
+    "gothic",
+    "ornate",
+    "wood",
+    "throne"
+  ],
+  "procedural_hash": "26c21a2597879d24b70e2bf4ecf4329b1022e30338ac16cef67bba19cd7d8ada",
+  "geometry_sha256": "eb978699344c00308edc14c8f98239b60d4e13f3368e7a618feb14d56704a9ce",
+  "public_prefab": true,
+  "provider": "Jake Mobley",
+  "observation_description": "哥特风格高背木椅/王座（Wooden Chair 01）",
+  "requested_dimensions_m": [
+    0.688,
+    0.658,
+    2.273
+  ],
+  "prototype_key": "ph_chair_wood",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_01e3f6b2e156250999f6dd9d/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "gothic",
+    "ornate",
+    "wood",
+    "throne"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_chair_wood",
+    "semantic": "chair",
+    "category_path": "furniture/chair/ornate",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "gothic",
+      "ornate",
+      "wood",
+      "throne"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.688,
+      0.658,
+      2.273
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_chair_wood/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/WoodenChair_01/WoodenChair_01_1k.usdc",
+      "author": "Jake Mobley",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_chair_wood.usd",
+      "raw_sha256": "0d95a41d47a85e07803cd4e3189534bd195a7fc32cdf5004df1902414c6afc99",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_chair_wood chair 哥特风格高背木椅/王座（Wooden Chair 01） chair office chair 椅子 办公椅 gothic ornate wood throne 椅子 chair gothic ornate wood throne",
+    "intake": "existing_external"
+  }
+}

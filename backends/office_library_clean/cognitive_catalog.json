@@ -1,0 +1,4921 @@
+[
+  {
+    "asset_id": "computer_aio",
+    "semantic": "laptop",
+    "category_path": "electronics/computer/laptop",
+    "aliases": [
+      "laptop",
+      "电脑",
+      "notebook",
+      "macbook_style",
+      "silver"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed_electronics",
+    "dimensions_m": [
+      0.251,
+      0.358,
+      0.252
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/computer_aio/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/fthuggy/aframeproject/main/assets/computer.glb",
+      "author": "fthuggy/aframeproject",
+      "license": "UNVERIFIED",
+      "raw_file": "computer_aio.glb",
+      "raw_sha256": "d4b4c4a269614632e55d07dde297e077b6a08fb3ff01daf10c15684d94dcfe39",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "computer_aio laptop 银色笔记本电脑，MacBook 风格 laptop 电脑 notebook macbook_style silver 电脑 laptop notebook macbook_style silver",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "computer_desktop",
+    "semantic": "desk",
+    "category_path": "electronics/computer/workstation",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "电脑",
+      "computer",
+      "monitor",
+      "keyboard",
+      "dual_display"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.99,
+      0.808,
+      0.772
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/computer_desktop/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/threelab/web3d-file-server/master/models/glb/computer.glb",
+      "author": "threelab/web3d-file-server",
+      "license": "UNVERIFIED",
+      "raw_file": "computer_desktop.glb",
+      "raw_sha256": "75b4232f3e25449d812a39134f9c6c6fe25c117d23106700c1031d80e1b5eee0",
+      "scale_applied": 0.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "computer_desktop desk 双显示器、主机与键盘组成的办公电脑工作站 desk workstation 办公桌 工位 电脑 computer monitor keyboard dual_display 电脑 computer workstation monitor keyboard dual_display",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "fm_door_office_white",
+    "semantic": "door",
+    "category_path": "architecture/door/office",
+    "aliases": [
+      "door",
+      "doorway",
+      "门",
+      "门洞",
+      "办公室门",
+      "室内门",
+      "白色木门",
+      "office door",
+      "white",
+      "panel"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "glass_or_wood",
+    "dimensions_m": [
+      0.981,
+      0.197,
+      2.058
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "window",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_door_office_white/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/architecture/door/a-white-interior-paneled-door-featuring-a-o6qeuy/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_door_office_white.glb",
+      "raw_sha256": "72a80ea8420b8f58ad573591c0fe282b1efc1402a7617219945f0a7affbc4b75",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_door_office_white door 现代办公室白色平板内门，简洁分格 door doorway 门 门洞 办公室门 室内门 白色木门 office door white panel 办公室门 室内门 白色木门 office door white panel",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "fm_pillow_lumbar",
+    "semantic": "pillow",
+    "category_path": "furniture/pillow/decorative",
+    "aliases": [
+      "pillow",
+      "抱枕",
+      "腰枕",
+      "单个",
+      "刺绣",
+      "植物",
+      "lumbar"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.601,
+      0.262,
+      0.287
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_pillow_lumbar/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/decor/pillow/a-rectangular-lumbar-pillow-with-an-embroidered-7feyih/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_pillow_lumbar.glb",
+      "raw_sha256": "164da7107ebdca308d7e6ee50ff8da39db7ce43d7a0084bd0dca20b3d4a91beb",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_pillow_lumbar pillow 单个长方形腰枕，植物刺绣米色织物 pillow 抱枕 腰枕 单个 刺绣 植物 lumbar 抱枕 腰枕 单个 刺绣 植物 lumbar pillow",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "fm_plant_fiddle_leaf",
+    "semantic": "plant",
+    "category_path": "decor/plant/tall",
+    "aliases": [
+      "plant",
+      "高大盆栽",
+      "琴叶榕",
+      "绿植",
+      "1.7米",
+      "fiddle leaf",
+      "ficus",
+      "tall plant"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.9,
+      0.849,
+      1.702
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_plant_fiddle_leaf/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/decor/plant/a-tall-leafy-fiddle-leaf-fig-ficus-xsf8b3/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_plant_fiddle_leaf.glb",
+      "raw_sha256": "ddf2aeff69f34bfe2f0536a219f6b10befb62d1daa8acb84c3902db7a3c3f3f1",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_plant_fiddle_leaf plant 高 1.70m 琴叶榕盆栽，深绿大叶、黑色花盆 plant 高大盆栽 琴叶榕 绿植 1.7米 fiddle leaf ficus tall plant 高大盆栽 琴叶榕 绿植 1.7米 fiddle leaf ficus tall plant",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "fm_sofa_minimal_cream",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/two_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "现代沙发",
+      "极简",
+      "奶油色",
+      "双人",
+      "lowprofile",
+      "minimalist",
+      "boucle"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.194,
+      0.941,
+      0.752
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_sofa_minimal_cream/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/sofas/sofa/a-modern-lowprofile-sofa-with-a-minimalist-xda6ae/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_sofa_minimal_cream.glb",
+      "raw_sha256": "d8bf520b83660d54de98bc33637d053b53526f795ad0697871e5177f78a9b7d1",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_sofa_minimal_cream sofa 现代极简奶油色低矮双人沙发，连续圆角扶手与模块化坐垫 sofa couch 沙发 现代沙发 极简 奶油色 双人 lowprofile minimalist boucle 现代沙发 极简 奶油色 双人 lowprofile minimalist boucle",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "fm_sofa_rounded_beige",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/three_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "现代沙发",
+      "极简",
+      "米灰",
+      "三人",
+      "rounded",
+      "minimalist"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.208,
+      1.085,
+      0.771
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_sofa_rounded_beige/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/sofas/sofa/a-modern-lowprofile-sofa-with-rounded-edges-i24drg/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_sofa_rounded_beige.glb",
+      "raw_sha256": "c01917fd13c30f2c2e002d402877f67088ee65d22729617e90648055e6e32b38",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_sofa_rounded_beige sofa 现代极简米灰色低矮三人沙发，圆角扶手与宽坐深 sofa couch 沙发 现代沙发 极简 米灰 三人 rounded minimalist 现代沙发 极简 米灰 三人 rounded minimalist sofa",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "fm_sofa_rounded_light",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/two_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "现代沙发",
+      "极简",
+      "浅米",
+      "双人",
+      "圆角",
+      "soft"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.305,
+      1.308,
+      0.778
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_sofa_rounded_light/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/sofas/sofa/a-contemporary-sofa-featuring-a-plush-light-zvwsc3/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_sofa_rounded_light.glb",
+      "raw_sha256": "e4486f9e73bbf4e2a67280046cac1cd8362d7f80d89db791fea114657aa27737",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_sofa_rounded_light sofa 现代简约浅米色圆角双人沙发，柔软包裹式造型 sofa couch 沙发 现代沙发 极简 浅米 双人 圆角 soft 现代沙发 极简 浅米 双人 圆角 soft sofa",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "keyboard_mechanical",
+    "semantic": "keyboard",
+    "category_path": "electronics/input/keyboard",
+    "aliases": [
+      "keyboard",
+      "键盘",
+      "mechanical",
+      "black",
+      "peripheral"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      1.055,
+      0.4,
+      0.033
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/keyboard_mechanical/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/jj-143/assets/main/keyboard.glb",
+      "author": "jj-143/assets",
+      "license": "UNVERIFIED",
+      "raw_file": "keyboard_mechanical.glb",
+      "raw_sha256": "80e0ef84cefc25eedd9f5b9bd8480322ae5bbfeefa04d3cc60a2b2ac4b995884",
+      "scale_applied": 0.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "keyboard_mechanical keyboard 黑色机械键盘 keyboard 键盘 mechanical black peripheral 键盘 keyboard mechanical black peripheral",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "lamp_desk",
+    "semantic": "desk",
+    "category_path": "lighting/lamp/desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "台灯",
+      "lamp",
+      "desk_lamp",
+      "lighting",
+      "metal",
+      "grey"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.351,
+      0.351,
+      0.763
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/lamp_desk/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Table%20Lamp.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "lamp_desk.glb",
+      "raw_sha256": "53f6037d1fa45ab2c45bec09e88fffbc1915eb0dd984aae5f7b6a5ce679b58a9",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "lamp_desk desk 灰色金属台灯 desk workstation 办公桌 工位 台灯 lamp desk_lamp lighting metal grey 台灯 lamp desk_lamp lighting metal grey",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "mouse_wireless",
+    "semantic": "mouse",
+    "category_path": "electronics/input/mouse",
+    "aliases": [
+      "mouse",
+      "鼠标",
+      "wireless",
+      "white",
+      "peripheral"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.111,
+      0.058,
+      0.024
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/mouse_wireless/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/fthuggy/aframeproject/main/assets/mouse.glb",
+      "author": "fthuggy/aframeproject",
+      "license": "UNVERIFIED",
+      "raw_file": "mouse_wireless.glb",
+      "raw_sha256": "655208cae69baa23a5ecb1c48314055b6fc8ad35bed2839080c2e2530efc9fda",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "mouse_wireless mouse 白色无线鼠标 mouse 鼠标 wireless white peripheral 鼠标 mouse wireless white peripheral",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "office_chair_gas_compact",
+    "semantic": "chair",
+    "category_path": "furniture/chair/gas_lift_chair",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "气压椅",
+      "gas_lift",
+      "swivel",
+      "compact",
+      "teal"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.86,
+      0.8,
+      1.327
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/office_chair_gas_compact/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Office%20Chair%20(1).glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_chair_gas_compact.glb",
+      "raw_sha256": "211a54fcd52a6faa260d5432dfe1f980cd1125df1230e3fc248320b337fbfe1d",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_chair_gas_compact chair 青绿色小号气压升降办公转椅 chair office chair 椅子 办公椅 气压椅 gas_lift swivel compact teal 办公椅 气压椅 gas_lift swivel compact teal",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "office_chair_gas_lift",
+    "semantic": "chair",
+    "category_path": "furniture/chair/gas_lift_chair",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "气压椅",
+      "gas_lift",
+      "mesh_back",
+      "armrest",
+      "black"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.635,
+      0.58,
+      1.07
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "mesh_back",
+      "armrest"
+    ],
+    "thumbnail": "thumbs/office_chair_gas_lift/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/fthuggy/aframeproject/main/assets/computer_chair.glb",
+      "author": "fthuggy/aframeproject",
+      "license": "UNVERIFIED",
+      "raw_file": "office_chair_gas_lift.glb",
+      "raw_sha256": "0cfb3e8d61cb048304a895af2adc7ea1086ea6c4d9917d081c8d78b11bfe2fc1",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_chair_gas_lift chair 黑色网背气压升降办公椅，带扶手 chair office chair 椅子 办公椅 气压椅 gas_lift mesh_back armrest black 办公椅 气压椅 gas_lift mesh_back armrest black",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "office_chair_regular",
+    "semantic": "chair",
+    "category_path": "furniture/chair/guest_chair",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "four_leg",
+      "guest_chair",
+      "grey"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.672,
+      0.561,
+      0.973
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "four_leg"
+    ],
+    "thumbnail": "thumbs/office_chair_regular/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Regular%20Office%20Chair.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_chair_regular.glb",
+      "raw_sha256": "efe372025fc0bbe433d764d01b44c2963f9304177f70f6b45263ea5344a66449",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_chair_regular chair 灰色简约四腿办公椅 chair office chair 椅子 办公椅 four_leg guest_chair grey 办公椅 chair four_leg guest_chair grey",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "office_chair_task",
+    "semantic": "chair",
+    "category_path": "furniture/chair/office_chair",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "office_chair",
+      "mesh",
+      "swivel",
+      "five_star_base"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.722,
+      0.807,
+      1.128
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/office_chair_task/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Office%20Chair.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_chair_task.glb",
+      "raw_sha256": "0f1a9180dbe0dc4116fa17b9b03e6002f75110e2a0f4ed0ff20a40b384240a76",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_chair_task chair 蓝色网布高背办公转椅，五星脚 chair office chair 椅子 办公椅 office_chair mesh swivel five_star_base 办公椅 office_chair mesh swivel five_star_base",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "office_desk_adjustable",
+    "semantic": "desk",
+    "category_path": "furniture/desk/height_adjustable",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "standing_desk",
+      "height_adjustable",
+      "black",
+      "desk_frame"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.416,
+      2.0,
+      0.942
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "desk_frame"
+    ],
+    "thumbnail": "thumbs/office_desk_adjustable/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Adjustable%20Desk.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_desk_adjustable.glb",
+      "raw_sha256": "0e74f80a6b71e3d240b66c87db017e6b24f2ca8dd1649fa8203ee78ed775ae49",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_desk_adjustable desk 黑色可升降办公桌架 desk workstation 办公桌 工位 standing_desk height_adjustable black desk_frame 办公桌 standing_desk height_adjustable black desk_frame",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "office_desk_rect",
+    "semantic": "desk",
+    "category_path": "furniture/desk/office_desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "wood",
+      "drawers",
+      "writing_desk"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.822,
+      0.847,
+      0.922
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "drawers"
+    ],
+    "thumbnail": "thumbs/office_desk_rect/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Desk.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_desk_rect.glb",
+      "raw_sha256": "3878f6d93d946d77f3e1be55919627a81435696252137ae33c22391c0411f3ce",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_desk_rect desk 深色木质双抽屉办公桌 desk workstation 办公桌 工位 wood drawers writing_desk 办公桌 desk wood drawers writing_desk",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "office_desk_standing",
+    "semantic": "desk",
+    "category_path": "furniture/desk/standing_workstation",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "standing_desk",
+      "monitor",
+      "keyboard"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.0,
+      1.416,
+      1.729
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/office_desk_standing/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Standing%20Desk.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_desk_standing.glb",
+      "raw_sha256": "1b8856ca78b78a53244d1db9bd4e8f58da5c12d9c231cfe875b9b0ce1118cda8",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_desk_standing desk 带显示器、键盘和文件的升降办公工位 desk workstation 办公桌 工位 standing_desk monitor keyboard 办公桌 standing_desk workstation monitor keyboard",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_armchair_chinese",
+    "semantic": "armchair",
+    "category_path": "furniture/armchair/classic",
+    "aliases": [
+      "armchair",
+      "chinese_armchair",
+      "furniture/armchair/classic",
+      "中式古典单人扶手椅"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.848,
+      0.789,
+      1.587
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [
+      "chinese_armchair",
+      "furniture/armchair/classic"
+    ],
+    "thumbnail": "thumbs/ph_armchair_chinese/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/chinese_armchair/chinese_armchair_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_armchair_chinese.usd",
+      "raw_sha256": "87744c079a63b1033d6b714251440fe616fb3966d2a696917f0be012550a0c61",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_armchair_chinese armchair 中式古典单人扶手椅 armchair chinese_armchair furniture/armchair/classic 中式古典单人扶手椅 chinese_armchair furniture/armchair/classic 中式古典单人扶手椅",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_armchair_classic",
+    "semantic": "armchair",
+    "category_path": "furniture/armchair/classic",
+    "aliases": [
+      "armchair",
+      "ArmChair_01",
+      "furniture/armchair/classic",
+      "欧式古典单人扶手椅"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.848,
+      0.766,
+      1.065
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [
+      "ArmChair_01",
+      "furniture/armchair/classic"
+    ],
+    "thumbnail": "thumbs/ph_armchair_classic/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/ArmChair_01/ArmChair_01_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_armchair_classic.usd",
+      "raw_sha256": "400ac7dc73afe783e713eafab967acdd488d2b75d26bb86779993aa82d7bd078",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_armchair_classic armchair 欧式古典单人扶手椅 armchair ArmChair_01 furniture/armchair/classic 欧式古典单人扶手椅 ArmChair_01 furniture/armchair/classic 欧式古典单人扶手椅",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_armchair_midcentury",
+    "semantic": "armchair",
+    "category_path": "furniture/armchair/modern",
+    "aliases": [
+      "armchair",
+      "mid_century_lounge_chair",
+      "furniture/armchair/modern",
+      "世纪中期现代休闲椅"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      1.009,
+      1.19,
+      1.169
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [
+      "furniture/armchair/modern"
+    ],
+    "thumbnail": "thumbs/ph_armchair_midcentury/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/mid_century_lounge_chair/mid_century_lounge_chair_1k.usdc",
+      "author": "Kuutti Siitonen",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_armchair_midcentury.usd",
+      "raw_sha256": "3a88a0070dc123c26f950e8ccc0721eb99beba753f97624b12022e67335968b0",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_armchair_midcentury armchair 世纪中期现代休闲椅 armchair mid_century_lounge_chair furniture/armchair/modern 世纪中期现代休闲椅 mid_century_lounge_chair furniture/armchair/modern 世纪中期现代休闲椅",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_armchair_modern",
+    "semantic": "armchair",
+    "category_path": "furniture/armchair/modern",
+    "aliases": [
+      "armchair",
+      "modern_arm_chair_01",
+      "furniture/armchair/modern",
+      "现代简约单人扶手椅"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.82,
+      0.987,
+      1.023
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [
+      "modern_arm_chair_01",
+      "furniture/armchair/modern"
+    ],
+    "thumbnail": "thumbs/ph_armchair_modern/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/modern_arm_chair_01/modern_arm_chair_01_1k.usdc",
+      "author": "Vibrant Nordic",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_armchair_modern.usd",
+      "raw_sha256": "1d4fc5a2d049a04a497543b51700eb515663e349cd8754fb9ecaf6edba164bc9",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_armchair_modern armchair 现代简约单人扶手椅 armchair modern_arm_chair_01 furniture/armchair/modern 现代简约单人扶手椅 modern_arm_chair_01 furniture/armchair/modern 现代简约单人扶手椅",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_ball_american",
+    "semantic": "ball",
+    "category_path": "sports/ball/american_football",
+    "aliases": [
+      "ball",
+      "american_football",
+      "sports/ball/american_football",
+      "美式橄榄球"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "rubber_or_plastic",
+    "dimensions_m": [
+      0.453,
+      0.256,
+      0.256
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_ball_american/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/american_football/american_football_1k.usdc",
+      "author": "Riley Queen",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_ball_american.usd",
+      "raw_sha256": "c76e0fab890cde48e5febfede5023c4578f092e157e33b9aeb3c62b6b1dbd275",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_ball_american ball 美式橄榄球 ball american_football sports/ball/american_football 美式橄榄球 american_football sports/ball/american_football 美式橄榄球",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_ball_baseball",
+    "semantic": "ball",
+    "category_path": "sports/ball/baseball",
+    "aliases": [
+      "ball",
+      "baseball_01",
+      "sports/ball/baseball",
+      "棒球"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "rubber_or_plastic",
+    "dimensions_m": [
+      0.074,
+      0.075,
+      0.076
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_ball_baseball/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/baseball_01/baseball_01_1k.usdc",
+      "author": "Rico Cilliers",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_ball_baseball.usd",
+      "raw_sha256": "42c4fd314ea859ad2dbf99112455239bd4b6432071cd57627768f68b60860da7",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_ball_baseball ball 棒球 ball baseball_01 sports/ball/baseball 棒球 baseball_01 sports/ball/baseball 棒球",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_ball_football",
+    "semantic": "ball",
+    "category_path": "sports/ball/football",
+    "aliases": [
+      "ball",
+      "football",
+      "sports/ball/football",
+      "足球"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "rubber_or_plastic",
+    "dimensions_m": [
+      0.509,
+      0.222,
+      0.222
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_ball_football/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/football/football_1k.usdc",
+      "author": "Amal Kumar",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_ball_football.usd",
+      "raw_sha256": "bc8db79bae35cd43dbc1674ec4e4bea24d27118cc3a53173fa420b931244ec34",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_ball_football ball 足球 ball football sports/ball/football 足球 football sports/ball/football 足球",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_bench_painted",
+    "semantic": "bench",
+    "category_path": "furniture/bench/wood",
+    "aliases": [
+      "bench",
+      "painted_wooden_bench",
+      "furniture/bench/wood",
+      "彩绘木质长凳"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.165,
+      0.497,
+      0.889
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_bench_painted/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_bench/painted_wooden_bench_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_bench_painted.usd",
+      "raw_sha256": "b665ba1820180d1fde3071e5419d9a9f173bcf8ab58b1c1d3841b8b6c892d07a",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_bench_painted bench 彩绘木质长凳 bench painted_wooden_bench furniture/bench/wood 彩绘木质长凳 painted_wooden_bench furniture/bench/wood 彩绘木质长凳",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_bench_picnic",
+    "semantic": "bench",
+    "category_path": "furniture/bench/picnic",
+    "aliases": [
+      "bench",
+      "wooden_picnic_table",
+      "furniture/bench/picnic",
+      "木质野餐桌凳组合"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.241,
+      3.022,
+      0.746
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_bench_picnic/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/wooden_picnic_table/wooden_picnic_table_1k.usdc",
+      "author": "Ulan Cabanilla",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_bench_picnic.usd",
+      "raw_sha256": "bc23fff445caf9f82a2286ee7e9a6b758e11fa9282b73beb12bd0b7772497db6",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_bench_picnic bench 木质野餐桌凳组合 bench wooden_picnic_table furniture/bench/picnic 木质野餐桌凳组合 wooden_picnic_table furniture/bench/picnic 木质野餐桌凳组合",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_box_cardboard",
+    "semantic": "box",
+    "category_path": "packaging/box/cardboard",
+    "aliases": [
+      "box",
+      "cardboard_box_01",
+      "packaging/box/cardboard",
+      "牛皮纸箱"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.387,
+      0.516,
+      0.342
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_box_cardboard/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/cardboard_box_01/cardboard_box_01_1k.usdc",
+      "author": "Rahul Chaudhary",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_box_cardboard.usd",
+      "raw_sha256": "b88bc42d0b426c19bc502c011fb0aa64a238cd886faad939a313db0d3092d10e",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_box_cardboard box 牛皮纸箱 box cardboard_box_01 packaging/box/cardboard 牛皮纸箱 cardboard_box_01 packaging/box/cardboard 牛皮纸箱",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_box_cheese",
+    "semantic": "box",
+    "category_path": "packaging/box/wood",
+    "aliases": [
+      "box",
+      "CheeseBox_01",
+      "packaging/box/wood",
+      "小木箱/包装箱"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.24,
+      0.136,
+      0.093
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_box_cheese/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/CheeseBox_01/CheeseBox_01_1k.usdc",
+      "author": "Gabriel Radić",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_box_cheese.usd",
+      "raw_sha256": "a39ed9135fb7f7bae58641ada22a8cb1e358cda7e7336596fde108be9fdd7f17",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_box_cheese box 小木箱/包装箱 box CheeseBox_01 packaging/box/wood 小木箱/包装箱 CheeseBox_01 packaging/box/wood 小木箱/包装箱",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_box_medical",
+    "semantic": "box",
+    "category_path": "packaging/box/medical",
+    "aliases": [
+      "box",
+      "medical_box",
+      "packaging/box/medical",
+      "医疗包装箱"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.525,
+      0.35,
+      0.098
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_box_medical/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/medical_box/medical_box_1k.usdc",
+      "author": "Ulan Cabanilla",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_box_medical.usd",
+      "raw_sha256": "c198b8e4579f539ef801d4701f17085405acbd5a480a61ee4060317ab64f0a0b",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_box_medical box 医疗包装箱 box medical_box packaging/box/medical 医疗包装箱 medical_box packaging/box/medical 医疗包装箱",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_cabinet_modern",
+    "semantic": "cabinet",
+    "category_path": "storage/cabinet/sideboard",
+    "aliases": [
+      "cabinet",
+      "边柜",
+      "sideboard",
+      "modern",
+      "slatted",
+      "wood"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.44,
+      0.52,
+      0.68
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_cabinet_modern/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/modern_wooden_cabinet/modern_wooden_cabinet_1k.usdc",
+      "author": "Patrik Pangerl",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_cabinet_modern.usd",
+      "raw_sha256": "31b1847bde4e93f0a5f12121285918b587e00b56a331dc578a68db9ec757f71f",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_cabinet_modern cabinet 现代木质条纹边柜/电视柜（Modern Wooden Cabinet） cabinet 边柜 sideboard modern slatted wood 边柜 sideboard cabinet modern slatted wood",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_cabinet_painted",
+    "semantic": "cabinet",
+    "category_path": "storage/cabinet/tall",
+    "aliases": [
+      "cabinet",
+      "painted_wooden_cabinet",
+      "storage/cabinet/tall",
+      "彩绘木质立柜"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.195,
+      0.617,
+      1.182
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_cabinet_painted/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_cabinet/painted_wooden_cabinet_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_cabinet_painted.usd",
+      "raw_sha256": "852e915a9e8d1b0005378165a4fd8687d6e6d26722489d397fd5688687ff6b42",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_cabinet_painted cabinet 彩绘木质立柜 cabinet painted_wooden_cabinet storage/cabinet/tall 彩绘木质立柜 painted_wooden_cabinet storage/cabinet/tall 彩绘木质立柜",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_cabinet_vintage",
+    "semantic": "cabinet",
+    "category_path": "storage/cabinet/tall",
+    "aliases": [
+      "cabinet",
+      "vintage_cabinet_01",
+      "storage/cabinet/tall",
+      "复古木质立柜"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.022,
+      0.67,
+      2.235
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_cabinet_vintage/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/vintage_cabinet_01/vintage_cabinet_01_1k.usdc",
+      "author": "Rico Cilliers",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_cabinet_vintage.usd",
+      "raw_sha256": "4f496e3014e0a0758cd75e73baf9503a5b00723980921b23f3e5bc0af16ef2d4",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_cabinet_vintage cabinet 复古木质立柜 cabinet vintage_cabinet_01 storage/cabinet/tall 复古木质立柜 vintage_cabinet_01 storage/cabinet/tall 复古木质立柜",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_chair_dining",
+    "semantic": "chair",
+    "category_path": "furniture/chair/modern",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "dining_chair_02",
+      "furniture/chair/modern",
+      "现代简约餐椅/办公椅"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.434,
+      0.576,
+      0.973
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_chair_dining/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/dining_chair_02/dining_chair_02_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_chair_dining.usd",
+      "raw_sha256": "aa091e82070c5679d22403212487675f940397a05ab2191879858457453f59df",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_chair_dining chair 现代简约餐椅/办公椅 chair office chair 椅子 办公椅 dining_chair_02 furniture/chair/modern 现代简约餐椅/办公椅 dining_chair_02 furniture/chair/modern 现代简约餐椅/办公椅",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_chair_green",
+    "semantic": "chair",
+    "category_path": "furniture/chair/classic",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "GreenChair_01",
+      "furniture/chair/classic",
+      "绿色经典木质办公/餐椅"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.673,
+      0.664,
+      1.058
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_chair_green/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/GreenChair_01/GreenChair_01_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_chair_green.usd",
+      "raw_sha256": "f0fa97d14be55c4ccb783588a06963ffbed50535ac62614ec7f0c690cfb21762",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_chair_green chair 绿色经典木质办公/餐椅 chair office chair 椅子 办公椅 GreenChair_01 furniture/chair/classic 绿色经典木质办公/餐椅 GreenChair_01 furniture/chair/classic 绿色经典木质办公/餐椅",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_chair_plastic",
+    "semantic": "chair",
+    "category_path": "furniture/chair/plastic",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "plastic_monobloc_chair_01",
+      "furniture/chair/plastic",
+      "白色塑料一体成型椅"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.642,
+      0.628,
+      0.88
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_chair_plastic/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/plastic_monobloc_chair_01/plastic_monobloc_chair_01_1k.usdc",
+      "author": "Kuutti Siitonen",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_chair_plastic.usd",
+      "raw_sha256": "388ff00630f3ac82c6263de4e8e6394eba58b87de378ba66938968898b5bce92",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_chair_plastic chair 白色塑料一体成型椅 chair office chair 椅子 办公椅 plastic_monobloc_chair_01 furniture/chair/plastic 白色塑料一体成型椅 plastic_monobloc_chair_01 furniture/chair/plastic 白色塑料一体成型椅",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_chair_wood",
+    "semantic": "chair",
+    "category_path": "furniture/chair/ornate",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "gothic",
+      "ornate",
+      "wood",
+      "throne"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.688,
+      0.658,
+      2.273
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_chair_wood/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/WoodenChair_01/WoodenChair_01_1k.usdc",
+      "author": "Jake Mobley",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_chair_wood.usd",
+      "raw_sha256": "0d95a41d47a85e07803cd4e3189534bd195a7fc32cdf5004df1902414c6afc99",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_chair_wood chair 哥特风格高背木椅/王座（Wooden Chair 01） chair office chair 椅子 办公椅 gothic ornate wood throne 椅子 chair gothic ornate wood throne",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_desk_metal",
+    "semantic": "desk",
+    "category_path": "furniture/desk/office_desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "metal_office_desk",
+      "furniture/desk/office_desk",
+      "工业风金属办公桌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.0,
+      0.947,
+      0.787
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_desk_metal/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/metal_office_desk/metal_office_desk_1k.usdc",
+      "author": "Ulan Cabanilla",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_desk_metal.usd",
+      "raw_sha256": "e72b8eb0cf10f0e1c7c93e779d1c4279564f09ddcfb4845bcac449dde061b9e0",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_desk_metal desk 工业风金属办公桌 desk workstation 办公桌 工位 metal_office_desk furniture/desk/office_desk 工业风金属办公桌 metal_office_desk furniture/desk/office_desk 工业风金属办公桌",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_desk_school",
+    "semantic": "desk",
+    "category_path": "furniture/desk/school",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "SchoolDesk_01",
+      "furniture/desk/school",
+      "学校课桌/工位桌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.712,
+      0.546,
+      0.883
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_desk_school/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/SchoolDesk_01/SchoolDesk_01_1k.usdc",
+      "author": "Ethan Place",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_desk_school.usd",
+      "raw_sha256": "55672eb31645eccd47035fa3ffc65c70472e48cec0d8f1158fe1712a4f8181ba",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_desk_school desk 学校课桌/工位桌 desk workstation 办公桌 工位 SchoolDesk_01 furniture/desk/school 学校课桌/工位桌 SchoolDesk_01 furniture/desk/school 学校课桌/工位桌",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_desk_sitting",
+    "semantic": "desk",
+    "category_path": "furniture/desk/computer_desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "computer_desk",
+      "single"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.75,
+      1.369,
+      0.953
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_desk_sitting/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/sitting-desk.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_desk_sitting.glb",
+      "raw_sha256": "c3c85d0a0848030df3e6a5aa810066fcd8329e719726d1dbef14c9a33cef9717",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_desk_sitting desk 单人坐姿电脑桌 desk workstation 办公桌 工位 computer_desk single 办公桌 desk computer_desk single",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_desk_standing2",
+    "semantic": "desk",
+    "category_path": "furniture/desk/standing_workstation",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "standing_desk",
+      "height_adjustable"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.484,
+      0.81,
+      0.938
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_desk_standing2/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/standing-desk.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_desk_standing2.glb",
+      "raw_sha256": "7d3c192d2614cad95613815b91fdd365810c9016a1c1abd06c1b508656a5e41a",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_desk_standing2 desk 升降站立办公桌 desk workstation 办公桌 工位 standing_desk height_adjustable 办公桌 standing_desk height_adjustable workstation",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_desk_wood",
+    "semantic": "desk",
+    "category_path": "furniture/table/rustic",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "桌子",
+      "table",
+      "rustic",
+      "wood",
+      "bench"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.8,
+      0.657,
+      0.549
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_desk_wood/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/WoodenTable_01/WoodenTable_01_1k.usdc",
+      "author": "Ethan Place",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_desk_wood.usd",
+      "raw_sha256": "4d5ec60acba372ded4cb5bff564f494496c974fd822fc0e5cfb76cd1c6513d1c",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_desk_wood desk 粗木长条桌/长凳（Wooden Table 01） desk workstation 办公桌 工位 桌子 table rustic wood bench 桌子 table rustic wood bench",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_deskchair_alt",
+    "semantic": "chair",
+    "category_path": "furniture/chair/office_chair",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "office_chair",
+      "four_leg",
+      "black",
+      "visitor"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.837,
+      0.786,
+      1.519
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "four_leg"
+    ],
+    "thumbnail": "thumbs/ph_deskchair_alt/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/desk-chair.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_deskchair_alt.glb",
+      "raw_sha256": "5973bad42af36b2c312521066c3269e21cc5c100839c7fdd98838770d319fb53",
+      "scale_applied": 2.5,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_deskchair_alt chair 黑色四腿办公/会议椅 chair office chair 椅子 办公椅 office_chair four_leg black visitor 办公椅 office_chair four_leg black visitor",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_door_castle",
+    "semantic": "door",
+    "category_path": "architecture/door/wood",
+    "aliases": [
+      "door",
+      "doorway",
+      "门",
+      "门洞",
+      "large_castle_door",
+      "architecture/door/wood",
+      "大型木质双开门"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.012,
+      0.296,
+      2.965
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "window",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_door_castle/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/large_castle_door/large_castle_door_1k.usdc",
+      "author": "Tina",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_door_castle.usd",
+      "raw_sha256": "199c43670a2e971b06690a166163a7aea56e173073ba540fbf451aaf357c7b57",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_door_castle door 大型木质双开门 door doorway 门 门洞 large_castle_door architecture/door/wood 大型木质双开门 large_castle_door architecture/door/wood 大型木质双开门",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_door_gate",
+    "semantic": "door",
+    "category_path": "architecture/door/iron",
+    "aliases": [
+      "door",
+      "doorway",
+      "门",
+      "门洞",
+      "large_iron_gate",
+      "architecture/door/iron",
+      "大型铁艺门"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "glass_or_wood",
+    "dimensions_m": [
+      2.95,
+      0.097,
+      2.929
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "window",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_door_gate/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/large_iron_gate/large_iron_gate_1k.usdc",
+      "author": "Josh Dean",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_door_gate.usd",
+      "raw_sha256": "828f0d3ba7f03a9c103d92768f46d0be261e19671d1faf77470f8064618382ba",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_door_gate door 大型铁艺门 door doorway 门 门洞 large_iron_gate architecture/door/iron 大型铁艺门 large_iron_gate architecture/door/iron 大型铁艺门",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_door_roller",
+    "semantic": "door",
+    "category_path": "architecture/door/security",
+    "aliases": [
+      "door",
+      "doorway",
+      "门",
+      "门洞",
+      "rollershutter_door",
+      "architecture/door/security",
+      "卷帘防盗门/商铺门"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "glass_or_wood",
+    "dimensions_m": [
+      3.08,
+      0.3,
+      2.4
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "window",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_door_roller/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/rollershutter_door/rollershutter_door_1k.usdc",
+      "author": "MP",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_door_roller.usd",
+      "raw_sha256": "1c8a1769b6f47180e2a452ae032b820632eb6fe43c397ebbd018ac53871ce6a2",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_door_roller door 卷帘防盗门/商铺门 door doorway 门 门洞 rollershutter_door architecture/door/security 卷帘防盗门/商铺门 rollershutter_door architecture/door/security 卷帘防盗门/商铺门",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_drawer_cabinet",
+    "semantic": "cabinet",
+    "category_path": "storage/cabinet/drawer",
+    "aliases": [
+      "cabinet",
+      "drawer_cabinet",
+      "storage/cabinet/drawer",
+      "办公抽屉柜"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.141,
+      0.488,
+      1.881
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "drawer_cabinet",
+      "storage/cabinet/drawer"
+    ],
+    "thumbnail": "thumbs/ph_drawer_cabinet/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/drawer_cabinet/drawer_cabinet_1k.usdc",
+      "author": "Ulan Cabanilla",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_drawer_cabinet.usd",
+      "raw_sha256": "097b804c41be8236fd0372ea4adb51145f51340daca44122369545ebb44834cf",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_drawer_cabinet cabinet 办公抽屉柜 cabinet drawer_cabinet storage/cabinet/drawer 办公抽屉柜 drawer_cabinet storage/cabinet/drawer 办公抽屉柜",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_drawer_vintage",
+    "semantic": "cabinet",
+    "category_path": "storage/cabinet/drawer",
+    "aliases": [
+      "cabinet",
+      "vintage_wooden_drawer_01",
+      "storage/cabinet/drawer",
+      "复古木质抽屉柜"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.715,
+      1.007,
+      1.091
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "vintage_wooden_drawer_01",
+      "storage/cabinet/drawer"
+    ],
+    "thumbnail": "thumbs/ph_drawer_vintage/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/vintage_wooden_drawer_01/vintage_wooden_drawer_01_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_drawer_vintage.usd",
+      "raw_sha256": "7e44de9d6b1bee5b909a581094186c61f21801d9b1c42ae085bed4377c7eeb78",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_drawer_vintage cabinet 复古木质抽屉柜 cabinet vintage_wooden_drawer_01 storage/cabinet/drawer 复古木质抽屉柜 vintage_wooden_drawer_01 storage/cabinet/drawer 复古木质抽屉柜",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_keyboard_alt",
+    "semantic": "keyboard",
+    "category_path": "electronics/input/keyboard",
+    "aliases": [
+      "keyboard",
+      "键盘",
+      "retro",
+      "white",
+      "peripheral"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.224,
+      0.085,
+      0.007
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_keyboard_alt/front.jpg",
+    "provenance": {
+      "url": "https://github.com/jj-143/assets/blob/main/keyboard.glb",
+      "author": "jj-143/assets",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_keyboard_alt.glb",
+      "raw_sha256": "80e0ef84cefc25eedd9f5b9bd8480322ae5bbfeefa04d3cc60a2b2ac4b995884",
+      "scale_applied": 0.0425,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_keyboard_alt keyboard 白色/复古外观机械键盘（公开办公场景模型） keyboard 键盘 retro white peripheral 键盘 keyboard retro white peripheral",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_lamp_alt",
+    "semantic": "desk",
+    "category_path": "lighting/lamp/desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "台灯",
+      "lamp",
+      "desk_lamp",
+      "minimal",
+      "metal"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.252,
+      0.453,
+      0.573
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_lamp_alt/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/light-desk.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_lamp_alt.glb",
+      "raw_sha256": "5ea86e46a2fc36f86500fa6a97dc529dc3464189dc34e586375bae3ee5f68075",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_lamp_alt desk 极简金属台灯 desk workstation 办公桌 工位 台灯 lamp desk_lamp minimal metal 台灯 lamp desk_lamp minimal metal",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_lamp_ceiling",
+    "semantic": "lamp",
+    "category_path": "lighting/lamp/ceiling",
+    "aliases": [
+      "lamp",
+      "modern_ceiling_lamp_01",
+      "lighting/lamp/ceiling",
+      "现代吸顶灯"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "wall",
+      "lighting"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.432,
+      0.432,
+      0.952
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_lamp_ceiling/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/modern_ceiling_lamp_01/modern_ceiling_lamp_01_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_lamp_ceiling.usd",
+      "raw_sha256": "557425d88a7de10a80fd0aaa44d98314aefafa8f8f807767fd757ffed5caa210",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_lamp_ceiling lamp 现代吸顶灯 lamp modern_ceiling_lamp_01 lighting/lamp/ceiling 现代吸顶灯 modern_ceiling_lamp_01 lighting/lamp/ceiling 现代吸顶灯",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_lamp_desk",
+    "semantic": "desk",
+    "category_path": "lighting/lamp/desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "desk_lamp_arm_01",
+      "lighting/lamp/desk",
+      "可调臂台灯"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.551,
+      0.367,
+      0.785
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "desk_lamp_arm_01"
+    ],
+    "thumbnail": "thumbs/ph_lamp_desk/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/desk_lamp_arm_01/desk_lamp_arm_01_1k.usdc",
+      "author": "Yann Kervran, Kuutti Siitonen",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_lamp_desk.usd",
+      "raw_sha256": "c84b529d70b2416891be7ac24867ee46984cab9132dd6566822b035378ce69b4",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_lamp_desk desk 可调臂台灯 desk workstation 办公桌 工位 desk_lamp_arm_01 lighting/lamp/desk 可调臂台灯 desk_lamp_arm_01 lighting/lamp/desk 可调臂台灯",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_lamp_industrial",
+    "semantic": "lamp",
+    "category_path": "lighting/lamp/pendant",
+    "aliases": [
+      "lamp",
+      "hanging_industrial_lamp",
+      "lighting/lamp/pendant",
+      "工业吊灯"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "wall",
+      "lighting"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.55,
+      0.55,
+      1.355
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_lamp_industrial/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/hanging_industrial_lamp/hanging_industrial_lamp_1k.usdc",
+      "author": "Kuutti Siitonen",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_lamp_industrial.usd",
+      "raw_sha256": "83488022b15a712e5d38623d135d5f6c58997470ce111c48233660c5b6eabe54",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_lamp_industrial lamp 工业吊灯 lamp hanging_industrial_lamp lighting/lamp/pendant 工业吊灯 hanging_industrial_lamp lighting/lamp/pendant 工业吊灯",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_laptop_alt",
+    "semantic": "laptop",
+    "category_path": "electronics/computer/laptop",
+    "aliases": [
+      "laptop",
+      "电脑",
+      "notebook",
+      "dark_grey",
+      "open_screen"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed_electronics",
+    "dimensions_m": [
+      0.264,
+      0.24,
+      0.162
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_laptop_alt/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/laptop.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_laptop_alt.glb",
+      "raw_sha256": "387328b3c6530213770fb579545fa8cc27cc4ee6cf710f3f01bb28873da99b5e",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_laptop_alt laptop 深灰色笔记本电脑（公开办公场景模型） laptop 电脑 notebook dark_grey open_screen 电脑 laptop notebook dark_grey open_screen",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_laptop_classic",
+    "semantic": "laptop",
+    "category_path": "electronics/computer/laptop",
+    "aliases": [
+      "laptop",
+      "classic_laptop",
+      "electronics/computer/laptop",
+      "复古笔记本电脑"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed_electronics",
+    "dimensions_m": [
+      0.652,
+      0.486,
+      0.543
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_laptop_classic/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/classic_laptop/classic_laptop_1k.usdc",
+      "author": "Arrangemonk",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_laptop_classic.usd",
+      "raw_sha256": "a42036ac42e58fd5fb1dc98591587ccd2f80d5d0bb02dfdcc3abfb1baa66737f",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_laptop_classic laptop 复古笔记本电脑 laptop classic_laptop electronics/computer/laptop 复古笔记本电脑 classic_laptop electronics/computer/laptop 复古笔记本电脑",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_monitor_tv",
+    "semantic": "monitor",
+    "category_path": "electronics/computer/monitor",
+    "aliases": [
+      "monitor",
+      "screen",
+      "显示器",
+      "Television_01",
+      "electronics/computer/monitor",
+      "CRT/电视显示器"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed_electronics",
+    "dimensions_m": [
+      0.6,
+      0.471,
+      0.457
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_monitor_tv/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/Television_01/Television_01_1k.usdc",
+      "author": "Gabriel Radić",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_monitor_tv.usd",
+      "raw_sha256": "5a4f49be28319fba8f1e3031402b62c07d52bbaeff6b6c18958b75a3ac707da1",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_monitor_tv monitor CRT/电视显示器 monitor screen 显示器 Television_01 electronics/computer/monitor CRT/电视显示器 Television_01 electronics/computer/monitor CRT/电视显示器",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_mouse_alt",
+    "semantic": "mouse",
+    "category_path": "electronics/input/mouse",
+    "aliases": [
+      "mouse",
+      "鼠标",
+      "wireless",
+      "grey",
+      "peripheral"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.06,
+      0.079,
+      0.025
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_mouse_alt/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/mouse.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_mouse_alt.glb",
+      "raw_sha256": "75ed200f645b00c86ab4580aecf9d8c72af924e306c4c987bb8426e6d043b8ed",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_mouse_alt mouse 灰色无线鼠标（公开办公场景模型） mouse 鼠标 wireless grey peripheral 鼠标 mouse wireless grey peripheral",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_partition_barrier",
+    "semantic": "barrier_concrete",
+    "category_path": "sports/partition/barrier",
+    "aliases": [
+      "concrete barrier",
+      "road barrier",
+      "混凝土隔离墩",
+      "围挡",
+      "concrete_road_barrier",
+      "sports/partition/barrier"
+    ],
+    "scene_types": [
+      "lab",
+      "industrial",
+      "sports",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "divider"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      1.545,
+      0.639,
+      0.831
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "wooden_partition",
+      "office_divider",
+      "cubicle_panel",
+      "fabric_partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_partition_barrier/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/concrete_road_barrier/concrete_road_barrier_1k.usdc",
+      "author": "Amal Kumar",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_partition_barrier.usd",
+      "raw_sha256": "b83b7a75057c9a85e5d8b36b686e3dee43a6b470204097298c1b00e4e9980a80",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_partition_barrier barrier_concrete 混凝土隔离墩 concrete barrier road barrier 混凝土隔离墩 围挡 concrete_road_barrier sports/partition/barrier concrete_road_barrier sports/partition/barrier 混凝土隔离墩",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_partition_chainlink",
+    "semantic": "partition_chainlink",
+    "category_path": "sports/partition/chainlink",
+    "aliases": [
+      "chainlink fence",
+      "wire partition",
+      "铁丝网隔断",
+      "隔断",
+      "partition",
+      "fence",
+      "chainlink",
+      "sports"
+    ],
+    "scene_types": [
+      "lab",
+      "industrial",
+      "sports",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "divider"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      2.84,
+      0.752,
+      0.883
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "wooden_partition",
+      "office_divider",
+      "cubicle_panel",
+      "fabric_partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_partition_chainlink/front.jpg",
+    "provenance": {
+      "url": "https://polyhaven.com/a/partition_chainlink",
+      "author": "Poly Haven",
+      "license": "CC0",
+      "raw_file": "raw_usd/ph_partition_chainlink.usd",
+      "raw_sha256": "500387217faceb133ccf015c5e07bf2584d22d391fd7da71339f0a01e3090908",
+      "scale_applied": 0.35,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0"
+    },
+    "retrieval_text": "ph_partition_chainlink partition_chainlink 链网式运动隔断/围栏（Chainlink Fence） chainlink fence wire partition 铁丝网隔断 隔断 partition fence chainlink sports 隔断 partition fence chainlink sports",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_pillows_01",
+    "semantic": "pillow",
+    "category_path": "furniture/pillow/decorative",
+    "aliases": [
+      "pillow",
+      "throw_pillows_01",
+      "furniture/pillow/decorative",
+      "装饰抱枕组合"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.94,
+      0.452,
+      0.45
+    ],
+    "instance_unit": "compound_set",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_pillows_01/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/throw_pillows_01/throw_pillows_01_1k.usdc",
+      "author": "Serhii Khromov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_pillows_01.usd",
+      "raw_sha256": "8d678141a7bd9074c4e2cd3e1dfa667df6479ebb2f4f0b6441017753384eb192",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_pillows_01 pillow 装饰抱枕组合 pillow throw_pillows_01 furniture/pillow/decorative 装饰抱枕组合 throw_pillows_01 furniture/pillow/decorative 装饰抱枕组合",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_plant_01",
+    "semantic": "plant",
+    "category_path": "decor/plant/potted",
+    "aliases": [
+      "plant",
+      "potted_plant_01",
+      "decor/plant/potted",
+      "室内盆栽 01"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.587,
+      0.634,
+      1.35
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_plant_01/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/potted_plant_01/potted_plant_01_1k.usdc",
+      "author": "Rico Cilliers",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_plant_01.usd",
+      "raw_sha256": "4393d4f4e086061380609976c6584a35c777bdcbfe0439ba167dfed5a6c97e3b",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_plant_01 plant 室内盆栽 01 plant potted_plant_01 decor/plant/potted 室内盆栽 01 potted_plant_01 decor/plant/potted 室内盆栽 01",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_plant_02",
+    "semantic": "plant",
+    "category_path": "decor/plant/potted",
+    "aliases": [
+      "plant",
+      "potted_plant_02",
+      "decor/plant/potted",
+      "室内盆栽 02"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.701,
+      0.657,
+      0.841
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_plant_02/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/potted_plant_02/potted_plant_02_1k.usdc",
+      "author": "Rico Cilliers",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_plant_02.usd",
+      "raw_sha256": "5939efe27dfc8449e1eab3de4225fc71a23e5c3a305e2d5f6080e0c14706c465",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_plant_02 plant 室内盆栽 02 plant potted_plant_02 decor/plant/potted 室内盆栽 02 potted_plant_02 decor/plant/potted 室内盆栽 02",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_plant_04",
+    "semantic": "plant",
+    "category_path": "decor/plant/potted",
+    "aliases": [
+      "plant",
+      "potted_plant_04",
+      "decor/plant/potted",
+      "多肉盆栽"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.17,
+      0.186,
+      0.268
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_plant_04/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/potted_plant_04/potted_plant_04_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_plant_04.usd",
+      "raw_sha256": "935223c7544b29961f302bf21298c31758e4f9ccd6fb620f58a2284805f39be9",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_plant_04 plant 多肉盆栽 plant potted_plant_04 decor/plant/potted 多肉盆栽 potted_plant_04 decor/plant/potted 多肉盆栽",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_shelf_01",
+    "semantic": "shelf",
+    "category_path": "storage/shelf/wood",
+    "aliases": [
+      "shelf",
+      "shelving",
+      "置物架",
+      "货架",
+      "Shelf_01",
+      "storage/shelf/wood",
+      "木质多层置物架"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.003,
+      0.257,
+      2.08
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_shelf_01/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/Shelf_01/Shelf_01_1k.usdc",
+      "author": "Gabriel Radić",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_shelf_01.usd",
+      "raw_sha256": "c31fdc0846ba6561a9afb62378c58522e4edad659c8090a512afcf2651aebc95",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_shelf_01 shelf 木质多层置物架 shelf shelving 置物架 货架 Shelf_01 storage/shelf/wood 木质多层置物架 Shelf_01 storage/shelf/wood 木质多层置物架",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_shelf_display",
+    "semantic": "shelf",
+    "category_path": "storage/shelf/display",
+    "aliases": [
+      "shelf",
+      "shelving",
+      "置物架",
+      "货架",
+      "wooden_display_shelves_01",
+      "storage/shelf/display",
+      "木质展示置物架"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.078,
+      0.372,
+      1.556
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_shelf_display/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/wooden_display_shelves_01/wooden_display_shelves_01_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_shelf_display.usd",
+      "raw_sha256": "ee13f8d09dde9169eb5b5705f266d32f1787cf759375368916074364a2d92af8",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_shelf_display shelf 木质展示置物架 shelf shelving 置物架 货架 wooden_display_shelves_01 storage/shelf/display 木质展示置物架 wooden_display_shelves_01 storage/shelf/display 木质展示置物架",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_shelf_steel",
+    "semantic": "shelf",
+    "category_path": "storage/shelf/steel",
+    "aliases": [
+      "shelf",
+      "shelving",
+      "置物架",
+      "货架",
+      "steel_frame_shelves_01",
+      "storage/shelf/steel",
+      "工业钢架置物架"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.097,
+      0.502,
+      2.14
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "steel_frame_shelves_01"
+    ],
+    "thumbnail": "thumbs/ph_shelf_steel/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/steel_frame_shelves_01/steel_frame_shelves_01_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_shelf_steel.usd",
+      "raw_sha256": "26b8e9fe489992c42517a5b85c09f5b318d9383d4c50f3ac1bafa94600c25bfe",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_shelf_steel shelf 工业钢架置物架 shelf shelving 置物架 货架 steel_frame_shelves_01 storage/shelf/steel 工业钢架置物架 steel_frame_shelves_01 storage/shelf/steel 工业钢架置物架",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_sign_chalkboard",
+    "semantic": "sign",
+    "category_path": "signage/notice/chalkboard",
+    "aliases": [
+      "sign",
+      "standing_chalkboard_01",
+      "signage/notice/chalkboard",
+      "立式黑板告示牌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "industrial",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.92,
+      0.759,
+      1.509
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sign_chalkboard/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/standing_chalkboard_01/standing_chalkboard_01_1k.usdc",
+      "author": "ParzivalCG",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sign_chalkboard.usd",
+      "raw_sha256": "0a3ec5ca7d112be4f194402db2af65da1fc13b42d01e4ec9f4271a6e2729b8d0",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sign_chalkboard sign 立式黑板告示牌 sign standing_chalkboard_01 signage/notice/chalkboard 立式黑板告示牌 standing_chalkboard_01 signage/notice/chalkboard 立式黑板告示牌",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_sign_wetfloor",
+    "semantic": "sign",
+    "category_path": "signage/safety/wet_floor",
+    "aliases": [
+      "sign",
+      "WetFloorSign_01",
+      "signage/safety/wet_floor",
+      "小心地滑警示牌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "industrial",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.3,
+      0.359,
+      0.629
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sign_wetfloor/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/WetFloorSign_01/WetFloorSign_01_1k.usdc",
+      "author": "Fran Calvente",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sign_wetfloor.usd",
+      "raw_sha256": "7e3db2a9741ba65be360481e082f3a3568443cb2724e606dd6f6e9016339d4b4",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sign_wetfloor sign 小心地滑警示牌 sign WetFloorSign_01 signage/safety/wet_floor 小心地滑警示牌 WetFloorSign_01 signage/safety/wet_floor 小心地滑警示牌",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_sofa_01",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/two_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "Sofa_01",
+      "furniture/sofa/two_seat",
+      "布艺双人沙发，米色坐垫+深色木框"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      1.571,
+      0.658,
+      0.796
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sofa_01/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/Sofa_01/Sofa_01_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sofa_01.usd",
+      "raw_sha256": "d165da153ba7ef6fd87752336f78427a91b82316a94524038138714c32a42f1f",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sofa_01 sofa 布艺双人沙发，米色坐垫+深色木框 sofa couch 沙发 Sofa_01 furniture/sofa/two_seat 布艺双人沙发，米色坐垫+深色木框 Sofa_01 furniture/sofa/two_seat 布艺双人沙发，米色坐垫+深色木框",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_sofa_02",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/two_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "sofa_02",
+      "furniture/sofa/two_seat",
+      "现代双人布艺沙发"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      1.807,
+      0.818,
+      0.71
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sofa_02/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/sofa_02/sofa_02_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sofa_02.usd",
+      "raw_sha256": "e91f57930c6bbc83004de180b219be94ded527dcd9006bb18726815c8f8df07b",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sofa_02 sofa 现代双人布艺沙发 sofa couch 沙发 sofa_02 furniture/sofa/two_seat 现代双人布艺沙发 sofa_02 furniture/sofa/two_seat 现代双人布艺沙发",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_sofa_03",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/three_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "sofa_03",
+      "furniture/sofa/three_seat",
+      "现代三人布艺沙发"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.731,
+      0.925,
+      1.118
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sofa_03/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/sofa_03/sofa_03_1k.usdc",
+      "author": "Fran Calvente",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sofa_03.usd",
+      "raw_sha256": "51b1da0c2655724ffbb4092be43bb0881baa8af7d0bbfae3b00c544c9baa245d",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sofa_03 sofa 现代三人布艺沙发 sofa couch 沙发 sofa_03 furniture/sofa/three_seat 现代三人布艺沙发 sofa_03 furniture/sofa/three_seat 现代三人布艺沙发",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_sofa_chinese",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/three_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "chinese_sofa",
+      "furniture/sofa/three_seat",
+      "中式木质三人沙发"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.285,
+      0.969,
+      0.86
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sofa_chinese/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/chinese_sofa/chinese_sofa_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sofa_chinese.usd",
+      "raw_sha256": "fe22a3bfa80934d3362cff2f1ffc1ec1f1d2e8d314921343da08f7905804fbc3",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sofa_chinese sofa 中式木质三人沙发 sofa couch 沙发 chinese_sofa furniture/sofa/three_seat 中式木质三人沙发 chinese_sofa furniture/sofa/three_seat 中式木质三人沙发",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_sofa_painted",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/three_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "painted_wooden_sofa",
+      "furniture/sofa/three_seat",
+      "彩绘木质三人沙发"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.452,
+      0.787,
+      1.281
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sofa_painted/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_sofa/painted_wooden_sofa_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sofa_painted.usd",
+      "raw_sha256": "8a36274ef8ef4711d09d33f19a5f79598fba7b70ed586102bdb9553a0eaa6d7f",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sofa_painted sofa 彩绘木质三人沙发 sofa couch 沙发 painted_wooden_sofa furniture/sofa/three_seat 彩绘木质三人沙发 painted_wooden_sofa furniture/sofa/three_seat 彩绘木质三人沙发",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_stool_bar",
+    "semantic": "stool",
+    "category_path": "furniture/stool/gas_round",
+    "aliases": [
+      "stool",
+      "bar_chair_round_01",
+      "furniture/stool/gas_round",
+      "圆形座气压升降吧椅/办公凳"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.483,
+      0.486,
+      0.75
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_stool_bar/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/bar_chair_round_01/bar_chair_round_01_1k.usdc",
+      "author": "Dairon Sanchez",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_stool_bar.usd",
+      "raw_sha256": "338a4d4822144a84df19473723e370688b6adea396b4268a73a16347467e470a",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_stool_bar stool 圆形座气压升降吧椅/办公凳 stool bar_chair_round_01 furniture/stool/gas_round 圆形座气压升降吧椅/办公凳 bar_chair_round_01 furniture/stool/gas_round 圆形座气压升降吧椅/办公凳",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_stool_chinese",
+    "semantic": "stool",
+    "category_path": "furniture/stool/chinese",
+    "aliases": [
+      "stool",
+      "chinese_stool",
+      "furniture/stool/chinese",
+      "中国传统方凳"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.599,
+      0.506,
+      0.631
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_stool_chinese/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/chinese_stool/chinese_stool_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_stool_chinese.usd",
+      "raw_sha256": "760f0b9d107060e04b6c07db1b9c88bc6a97ae569ccc41e40274e0762d1e0024",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_stool_chinese stool 中国传统方凳 stool chinese_stool furniture/stool/chinese 中国传统方凳 chinese_stool furniture/stool/chinese 中国传统方凳",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_stool_metal",
+    "semantic": "stool",
+    "category_path": "furniture/stool/metal",
+    "aliases": [
+      "stool",
+      "metal_stool_01",
+      "furniture/stool/metal",
+      "金属圆凳"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "metal",
+    "dimensions_m": [
+      0.352,
+      0.355,
+      0.883
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_stool_metal/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/metal_stool_01/metal_stool_01_1k.usdc",
+      "author": "Ulan Cabanilla",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_stool_metal.usd",
+      "raw_sha256": "05c313012e1f62affdaa686f5150f30fd35202521984f0a27924e611731a48fb",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_stool_metal stool 金属圆凳 stool metal_stool_01 furniture/stool/metal 金属圆凳 metal_stool_01 furniture/stool/metal 金属圆凳",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_stool_painted",
+    "semantic": "stool",
+    "category_path": "furniture/stool/wood",
+    "aliases": [
+      "stool",
+      "painted_wooden_stool",
+      "furniture/stool/wood",
+      "彩绘木凳"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.385,
+      0.406,
+      0.579
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_stool_painted/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_stool/painted_wooden_stool_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_stool_painted.usd",
+      "raw_sha256": "8176250d18d8a29d7a3f0218d272f02435be196b2dcd3e23d57d60e64ad75d46",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_stool_painted stool 彩绘木凳 stool painted_wooden_stool furniture/stool/wood 彩绘木凳 painted_wooden_stool furniture/stool/wood 彩绘木凳",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_window_01",
+    "semantic": "window",
+    "category_path": "architecture/window/industrial",
+    "aliases": [
+      "window",
+      "glass opening",
+      "glazing",
+      "窗",
+      "窗户",
+      "rollershutter_window_01",
+      "architecture/window/industrial",
+      "工业卷帘窗 01"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "glass_or_wood",
+    "dimensions_m": [
+      5.1,
+      0.3,
+      1.851
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "door",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_window_01/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/rollershutter_window_01/rollershutter_window_01_1k.usdc",
+      "author": "MP",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_window_01.usd",
+      "raw_sha256": "e330b00fc2baae18a5b63104cd2cc9125cfa06bd3144d11da66bc7ef3a116f6f",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_window_01 window 工业卷帘窗 01 window glass opening glazing 窗 窗户 rollershutter_window_01 architecture/window/industrial 工业卷帘窗 01 rollershutter_window_01 architecture/window/industrial 工业卷帘窗 01",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_window_02",
+    "semantic": "window",
+    "category_path": "architecture/window/industrial",
+    "aliases": [
+      "window",
+      "glass opening",
+      "glazing",
+      "窗",
+      "窗户",
+      "rollershutter_window_02",
+      "architecture/window/industrial",
+      "工业卷帘窗 02"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "glass_or_wood",
+    "dimensions_m": [
+      3.6,
+      0.168,
+      1.561
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "door",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_window_02/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/rollershutter_window_02/rollershutter_window_02_1k.usdc",
+      "author": "MP",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_window_02.usd",
+      "raw_sha256": "c9c4327493a67a27ec9d28e8ad710906ba16550b716cdc0e3ad9a6fe58ce2522",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_window_02 window 工业卷帘窗 02 window glass opening glazing 窗 窗户 rollershutter_window_02 architecture/window/industrial 工业卷帘窗 02 rollershutter_window_02 architecture/window/industrial 工业卷帘窗 02",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "ph_window_03",
+    "semantic": "window",
+    "category_path": "architecture/window/industrial",
+    "aliases": [
+      "window",
+      "glass opening",
+      "glazing",
+      "窗",
+      "窗户",
+      "rollershutter_window_03",
+      "architecture/window/industrial",
+      "工业卷帘窗 03"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "glass_or_wood",
+    "dimensions_m": [
+      2.976,
+      0.153,
+      1.546
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "door",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_window_03/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/rollershutter_window_03/rollershutter_window_03_1k.usdc",
+      "author": "MP",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_window_03.usd",
+      "raw_sha256": "7356089790b0e2629d7dc33bad079f5514dcc38123218243693ed48f70f7fd72",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_window_03 window 工业卷帘窗 03 window glass opening glazing 窗 窗户 rollershutter_window_03 architecture/window/industrial 工业卷帘窗 03 rollershutter_window_03 architecture/window/industrial 工业卷帘窗 03",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "phone_office",
+    "semantic": "desk",
+    "category_path": "electronics/telephony/desk_phone",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "电话",
+      "phone",
+      "desk_phone",
+      "telephony",
+      "office",
+      "white"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.216,
+      0.145,
+      0.171
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/phone_office/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Office%20Phone.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "phone_office.glb",
+      "raw_sha256": "3f6991e0b463de5391ef44963e6d0a504dbe5092af0ba8a39028344b7cf76107",
+      "scale_applied": 0.05,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "phone_office desk 白色桌面办公电话 desk workstation 办公桌 工位 电话 phone desk_phone telephony office white 电话 phone desk_phone telephony office white",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "printer_copier",
+    "semantic": "printer",
+    "category_path": "electronics/office_equipment/printer",
+    "aliases": [
+      "printer",
+      "打印机",
+      "copier",
+      "office_equipment",
+      "paper_tray"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      1.01,
+      0.815,
+      1.125
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/printer_copier/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Copier.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "printer_copier.glb",
+      "raw_sha256": "ecb1a4ce3b4c89737ef59460b0673638cbf4992d3550609e703cd3c840ddb225",
+      "scale_applied": 0.5,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "printer_copier printer 黑白办公复印/打印机 printer 打印机 copier office_equipment paper_tray 打印机 printer copier office_equipment paper_tray",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "v39_person_supplied",
+    "semantic": "person",
+    "category_path": "bio/person/standing",
+    "aliases": [
+      "person"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.5266,
+      0.3205,
+      1.72
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/v39_person_supplied/front.jpg",
+    "provenance": {
+      "url": "user-supplied model",
+      "author": "user",
+      "license": "user-supplied",
+      "raw_file": "person_supplied.glb",
+      "format_in": "GLB/BLEND",
+      "format_out": "USD",
+      "scale_applied": 1.0
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "user-supplied"
+    },
+    "retrieval_text": "v39_person_supplied person 用户提供的站立人物 person ",
+    "intake": "existing_external"
+  },
+  {
+    "asset_id": "teddy_bear_grab3d",
+    "semantic": "teddy_bear",
+    "category_path": "toy/stuffed_animal/teddy",
+    "aliases": [
+      "teddy bear",
+      "plush toy",
+      "stuffed bear",
+      "毛绒玩具",
+      "泰迪熊",
+      "toy",
+      "teddy_bear",
+      "plush",
+      "stuffed_animal",
+      "kids",
+      "decor"
+    ],
+    "scene_types": [
+      "kids",
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.2195,
+      0.2242,
+      0.3217
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "chair",
+      "sofa",
+      "large_furniture"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/teddy_bear_grab3d/front.jpg",
+    "provenance": {
+      "url": "https://grab3d.com/dl/teddy-bear/teddy-bear.glb",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "raw_file": "teddy_bear_grab3d.glb",
+      "raw_sha256": "bb495f125432ea1a83728f5393fa51ea6c108f8e921a941e3a935b741c3b4b24",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "teddy_bear_grab3d teddy_bear 泰迪熊毛绒玩具 teddy bear plush toy stuffed bear 毛绒玩具 泰迪熊 toy teddy_bear plush stuffed_animal kids decor toy teddy_bear plush stuffed_animal kids decor",
+    "intake": "explicit_toy_addition"
+  },
+  {
+    "asset_id": "toy_building_bricks",
+    "semantic": "toy_blocks",
+    "category_path": "toy/building_blocks/set",
+    "aliases": [
+      "building blocks",
+      "toy bricks",
+      "blocks",
+      "积木",
+      "拼搭积木",
+      "toy",
+      "building_blocks",
+      "bricks",
+      "kids",
+      "colorful"
+    ],
+    "scene_types": [
+      "kids",
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "rubber_or_plastic",
+    "dimensions_m": [
+      0.2278,
+      0.2917,
+      0.1429
+    ],
+    "instance_unit": "compound_set",
+    "negative_roles": [
+      "chair",
+      "sofa",
+      "large_furniture"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/toy_building_bricks/front.jpg",
+    "provenance": {
+      "url": "https://grab3d.com/dl/building-bricks/building-bricks.glb",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "raw_file": "toy_building_bricks_grab3d.glb",
+      "raw_sha256": "95bd8f97d0cf9d1f70f33f228ca2df79f6583033bc2114e443ff373998e4bd79",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "toy_building_bricks toy_blocks 儿童拼搭积木套装 building blocks toy bricks blocks 积木 拼搭积木 toy building_blocks bricks kids colorful toy building_blocks bricks kids colorful",
+    "intake": "explicit_toy_addition"
+  },
+  {
+    "asset_id": "office_desk_grab3d",
+    "semantic": "desk",
+    "category_path": "furniture/desk/office_desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "office desk",
+      "computer desk",
+      "wood",
+      "honey wood",
+      "drawer",
+      "电脑桌",
+      "工位桌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.6,
+      0.8045,
+      0.74
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "drawer"
+    ],
+    "thumbnail": "thumbs/office_desk_grab3d/front.jpg",
+    "provenance": {
+      "url": "https://grab3d.com/dl/office-desk/office-desk.glb",
+      "page_url": "https://grab3d.com/models/furniture/office-desk/",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "raw_file": "office-desk.glb",
+      "raw_sha256": "a5b41664cd32c0f66e30681e6516d042f7418ff1ef3f04e736a244f85870ba48",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "office_desk_grab3d desk 蜂蜜色木纹台面、炭灰色雪橇腿的办公电脑桌，带薄荷色抽屉和理线槽 desk workstation 办公桌 工位 office desk computer desk wood honey wood drawer 电脑桌 工位桌 office desk computer desk workstation wood honey wood drawer 办公桌 电脑桌 工位桌",
+    "intake": "explicit_toy_addition"
+  },
+  {
+    "asset_id": "standing_desk_grab3d",
+    "semantic": "desk",
+    "category_path": "furniture/desk/height_adjustable",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "standing desk",
+      "height adjustable",
+      "computer desk",
+      "wood",
+      "升降桌",
+      "站立办公桌",
+      "电脑桌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.4,
+      0.7517,
+      1.1
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/standing_desk_grab3d/front.jpg",
+    "provenance": {
+      "url": "https://grab3d.com/dl/standing-desk/standing-desk.glb",
+      "page_url": "https://grab3d.com/models/furniture/standing-desk/",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "raw_file": "standing-desk.glb",
+      "raw_sha256": "1798649efdf0a1f034fa96d20fdf488e6b45bf7a24867e78b8989d46495a99a5",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "standing_desk_grab3d desk 蜂蜜色木纹台面、白色伸缩腿的可升降站立办公桌，带控制面板 desk workstation 办公桌 工位 standing desk height adjustable computer desk wood 升降桌 站立办公桌 电脑桌 standing desk height adjustable computer desk workstation wood 升降桌 站立办公桌 电脑桌",
+    "intake": "explicit_toy_addition"
+  },
+  {
+    "asset_id": "office_desk_white_a_frame",
+    "semantic": "desk",
+    "category_path": "furniture/desk/office_desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "white desk",
+      "computer desk",
+      "A-frame",
+      "office desk",
+      "metal legs",
+      "laminate",
+      "白色办公桌",
+      "电脑桌",
+      "A型桌腿"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.8,
+      0.7999,
+      0.735
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "A-frame",
+      "metal legs"
+    ],
+    "thumbnail": "thumbs/office_desk_white_a_frame/front.jpg",
+    "provenance": {
+      "url": "https://cdn.3dassets.dev/assets/16968/v1/model.glb",
+      "page_url": "https://3dassets.dev/assets/downtown-office-interiors-desk-1800-a-frame-d1e4ccc7",
+      "author": "3D Assets",
+      "license": "CC0-1.0",
+      "raw_file": "office-desk-a-frame.glb",
+      "raw_sha256": "55026b164564173c0ab1697f2b427db1cda71f7eda9c9fff716265a8ec3a572e",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "office_desk_white_a_frame desk 白色层压板台面、浅灰 A 型钢腿的 1.8 m 办公电脑桌，带后部理线槽和挡板 desk workstation 办公桌 工位 white desk computer desk A-frame office desk metal legs laminate 白色办公桌 电脑桌 A型桌腿 white desk computer desk A-frame office desk metal legs laminate 白色办公桌 电脑桌 A型桌腿",
+    "intake": "existing_external"
+  }
+]

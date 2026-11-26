@@ -1,0 +1,146 @@
+{
+  "asset_id": "AT_745c1e7c7f60aaa3398ae6ae",
+  "query_id": "standing_desk_grab3d",
+  "semantic": "desk",
+  "dimensions_m": [
+    1.4,
+    0.7517,
+    1.1
+  ],
+  "description": "蜂蜜色木纹台面、白色伸缩腿的可升降站立办公桌，带控制面板",
+  "material": {
+    "color": [
+      0.55,
+      0.36,
+      0.18
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "standing desk",
+    "height adjustable",
+    "computer desk",
+    "wood",
+    "升降桌",
+    "站立办公桌",
+    "电脑桌",
+    "standing desk",
+    "height adjustable",
+    "computer desk",
+    "workstation",
+    "wood",
+    "升降桌",
+    "站立办公桌",
+    "电脑桌"
+  ],
+  "procedural_hash": "75d9078a927b2bf644ad47fd7ca5a45fdc5c9213f6c7df81c9c39275a066e562",
+  "geometry_sha256": "8406ec5642b2c32e94b36109b10e171ef672c3afebb7740643049f5cf0b67b42",
+  "public_prefab": true,
+  "provider": "Grab3D",
+  "observation_description": "蜂蜜色木纹台面、白色伸缩腿的可升降站立办公桌，带控制面板",
+  "requested_dimensions_m": [
+    1.4,
+    0.7517,
+    1.1
+  ],
+  "prototype_key": "standing_desk_grab3d",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_745c1e7c7f60aaa3398ae6ae/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "standing desk",
+    "height adjustable",
+    "computer desk",
+    "wood",
+    "升降桌",
+    "站立办公桌",
+    "电脑桌"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "standing_desk_grab3d",
+    "semantic": "desk",
+    "category_path": "furniture/desk/height_adjustable",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "standing desk",
+      "height adjustable",
+      "computer desk",
+      "wood",
+      "升降桌",
+      "站立办公桌",
+      "电脑桌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.4,
+      0.7517,
+      1.1
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/standing_desk_grab3d/front.jpg",
+    "provenance": {
+      "url": "https://grab3d.com/dl/standing-desk/standing-desk.glb",
+      "page_url": "https://grab3d.com/models/furniture/standing-desk/",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "raw_file": "standing-desk.glb",
+      "raw_sha256": "1798649efdf0a1f034fa96d20fdf488e6b45bf7a24867e78b8989d46495a99a5",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "standing_desk_grab3d desk 蜂蜜色木纹台面、白色伸缩腿的可升降站立办公桌，带控制面板 desk workstation 办公桌 工位 standing desk height adjustable computer desk wood 升降桌 站立办公桌 电脑桌 standing desk height adjustable computer desk workstation wood 升降桌 站立办公桌 电脑桌",
+    "intake": "explicit_toy_addition"
+  }
+}

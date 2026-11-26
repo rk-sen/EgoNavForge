@@ -1,0 +1,128 @@
+{
+  "asset_id": "AT_d085257a58d12bce110ce697",
+  "query_id": "ph_shelf_display",
+  "semantic": "shelf",
+  "dimensions_m": [
+    1.078,
+    0.372,
+    1.556
+  ],
+  "description": "木质展示置物架",
+  "material": {
+    "color": [
+      0.7402,
+      0.5865,
+      0.4496
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "shelf",
+    "shelving",
+    "置物架",
+    "货架",
+    "wooden_display_shelves_01",
+    "storage/shelf/display",
+    "木质展示置物架",
+    "wooden_display_shelves_01",
+    "storage/shelf/display",
+    "木质展示置物架"
+  ],
+  "procedural_hash": "5cc3255f5a3a83d30ee7d2678d1bbe94841446b3777cd38c8d3372592c165bde",
+  "geometry_sha256": "86a2ca85120b5be77cb0a98804de188a8d4d9214519910ebfc84b1fa8098070c",
+  "public_prefab": true,
+  "provider": "James Ray Cock",
+  "observation_description": "木质展示置物架",
+  "requested_dimensions_m": [
+    1.078,
+    0.372,
+    1.556
+  ],
+  "prototype_key": "ph_shelf_display",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_d085257a58d12bce110ce697/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "shelf",
+    "shelving",
+    "置物架",
+    "货架",
+    "wooden_display_shelves_01",
+    "storage/shelf/display",
+    "木质展示置物架"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_shelf_display",
+    "semantic": "shelf",
+    "category_path": "storage/shelf/display",
+    "aliases": [
+      "shelf",
+      "shelving",
+      "置物架",
+      "货架",
+      "wooden_display_shelves_01",
+      "storage/shelf/display",
+      "木质展示置物架"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.078,
+      0.372,
+      1.556
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_shelf_display/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/wooden_display_shelves_01/wooden_display_shelves_01_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_shelf_display.usd",
+      "raw_sha256": "ee13f8d09dde9169eb5b5705f266d32f1787cf759375368916074364a2d92af8",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_shelf_display shelf 木质展示置物架 shelf shelving 置物架 货架 wooden_display_shelves_01 storage/shelf/display 木质展示置物架 wooden_display_shelves_01 storage/shelf/display 木质展示置物架",
+    "intake": "existing_external"
+  }
+}

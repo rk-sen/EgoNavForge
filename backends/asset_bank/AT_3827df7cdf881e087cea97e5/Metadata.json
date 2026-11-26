@@ -1,0 +1,126 @@
+{
+  "asset_id": "AT_3827df7cdf881e087cea97e5",
+  "query_id": "ph_mouse_alt",
+  "semantic": "mouse",
+  "dimensions_m": [
+    0.06,
+    0.079,
+    0.025
+  ],
+  "description": "灰色无线鼠标（公开办公场景模型）",
+  "material": {
+    "color": [
+      0.5171,
+      0.4278,
+      0.3844
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "mouse",
+    "鼠标",
+    "wireless",
+    "grey",
+    "peripheral",
+    "鼠标",
+    "mouse",
+    "wireless",
+    "grey",
+    "peripheral"
+  ],
+  "procedural_hash": "3daaa6f2a57938f2090e86706548b70f006ad796a3c208ba115bd6029185d2b7",
+  "geometry_sha256": "fb7885f5d2ef9e9329cabd2bbf692181f024d855395a05ce261f1bf692cbff89",
+  "public_prefab": true,
+  "provider": "psandis/office-3d-exp",
+  "observation_description": "灰色无线鼠标（公开办公场景模型）",
+  "requested_dimensions_m": [
+    0.06,
+    0.079,
+    0.025
+  ],
+  "prototype_key": "ph_mouse_alt",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_3827df7cdf881e087cea97e5/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "mouse",
+    "鼠标",
+    "wireless",
+    "grey",
+    "peripheral"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_mouse_alt",
+    "semantic": "mouse",
+    "category_path": "electronics/input/mouse",
+    "aliases": [
+      "mouse",
+      "鼠标",
+      "wireless",
+      "grey",
+      "peripheral"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.06,
+      0.079,
+      0.025
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_mouse_alt/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/mouse.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_mouse_alt.glb",
+      "raw_sha256": "75ed200f645b00c86ab4580aecf9d8c72af924e306c4c987bb8426e6d043b8ed",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_mouse_alt mouse 灰色无线鼠标（公开办公场景模型） mouse 鼠标 wireless grey peripheral 鼠标 mouse wireless grey peripheral",
+    "intake": "existing_external"
+  }
+}

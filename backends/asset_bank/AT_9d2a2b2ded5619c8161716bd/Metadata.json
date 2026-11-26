@@ -1,0 +1,137 @@
+{
+  "asset_id": "AT_9d2a2b2ded5619c8161716bd",
+  "query_id": "computer_desktop",
+  "semantic": "desk",
+  "dimensions_m": [
+    0.99,
+    0.808,
+    0.772
+  ],
+  "description": "双显示器、主机与键盘组成的办公电脑工作站",
+  "material": {
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "电脑",
+    "computer",
+    "monitor",
+    "keyboard",
+    "dual_display",
+    "电脑",
+    "computer",
+    "workstation",
+    "monitor",
+    "keyboard",
+    "dual_display"
+  ],
+  "procedural_hash": "68d2a96ecb20c3ffe2b2859a4be764fae7780b11e5a850149436dc172bf7a644",
+  "geometry_sha256": "305c5dd55009342f102b9d6dcfd6959ce1a4425a922c4548c5abe2b59fa899d6",
+  "public_prefab": true,
+  "provider": "threelab/web3d-file-server",
+  "observation_description": "双显示器、主机与键盘组成的办公电脑工作站",
+  "requested_dimensions_m": [
+    0.99,
+    0.808,
+    0.772
+  ],
+  "prototype_key": "computer_desktop",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_9d2a2b2ded5619c8161716bd/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "电脑",
+    "computer",
+    "monitor",
+    "keyboard",
+    "dual_display"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "computer_desktop",
+    "semantic": "desk",
+    "category_path": "electronics/computer/workstation",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "电脑",
+      "computer",
+      "monitor",
+      "keyboard",
+      "dual_display"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.99,
+      0.808,
+      0.772
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/computer_desktop/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/threelab/web3d-file-server/master/models/glb/computer.glb",
+      "author": "threelab/web3d-file-server",
+      "license": "UNVERIFIED",
+      "raw_file": "computer_desktop.glb",
+      "raw_sha256": "75b4232f3e25449d812a39134f9c6c6fe25c117d23106700c1031d80e1b5eee0",
+      "scale_applied": 0.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "computer_desktop desk 双显示器、主机与键盘组成的办公电脑工作站 desk workstation 办公桌 工位 电脑 computer monitor keyboard dual_display 电脑 computer workstation monitor keyboard dual_display",
+    "intake": "existing_external"
+  }
+}

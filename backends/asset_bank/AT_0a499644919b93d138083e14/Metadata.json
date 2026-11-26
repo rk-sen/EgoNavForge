@@ -1,0 +1,126 @@
+{
+  "asset_id": "AT_0a499644919b93d138083e14",
+  "query_id": "computer_aio",
+  "semantic": "laptop",
+  "dimensions_m": [
+    0.251,
+    0.358,
+    0.252
+  ],
+  "description": "银色笔记本电脑，MacBook 风格",
+  "material": {
+    "color": [
+      0.1654,
+      0.1672,
+      0.1672
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "laptop",
+    "电脑",
+    "notebook",
+    "macbook_style",
+    "silver",
+    "电脑",
+    "laptop",
+    "notebook",
+    "macbook_style",
+    "silver"
+  ],
+  "procedural_hash": "5e2018b66bd9ef677e422a1d61915b5167c264d542bb1a336cd2cc942e4d6488",
+  "geometry_sha256": "1b910300a5e7b189406deaa0e6144b57c2df36c284cf08a9ad207c7bbb7551f1",
+  "public_prefab": true,
+  "provider": "fthuggy/aframeproject",
+  "observation_description": "银色笔记本电脑，MacBook 风格",
+  "requested_dimensions_m": [
+    0.251,
+    0.358,
+    0.252
+  ],
+  "prototype_key": "computer_aio",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_0a499644919b93d138083e14/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "laptop",
+    "电脑",
+    "notebook",
+    "macbook_style",
+    "silver"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed_electronics",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "computer_aio",
+    "semantic": "laptop",
+    "category_path": "electronics/computer/laptop",
+    "aliases": [
+      "laptop",
+      "电脑",
+      "notebook",
+      "macbook_style",
+      "silver"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed_electronics",
+    "dimensions_m": [
+      0.251,
+      0.358,
+      0.252
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/computer_aio/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/fthuggy/aframeproject/main/assets/computer.glb",
+      "author": "fthuggy/aframeproject",
+      "license": "UNVERIFIED",
+      "raw_file": "computer_aio.glb",
+      "raw_sha256": "d4b4c4a269614632e55d07dde297e077b6a08fb3ff01daf10c15684d94dcfe39",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "computer_aio laptop 银色笔记本电脑，MacBook 风格 laptop 电脑 notebook macbook_style silver 电脑 laptop notebook macbook_style silver",
+    "intake": "existing_external"
+  }
+}

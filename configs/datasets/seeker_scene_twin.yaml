@@ -1,16 +1,10 @@
-# Full user config: three-eye seeker → Pi3+MoGe → LeRobot + IndoorTwinScene (v37).
-# Same data binding as threeeyes_three_video_imu, plus scene twin option.
+# Seeker sample: Pi3+MoGe, then the asset-library indoor twin.
 #
-# Prerequisites:
-#   export zhesuan_API_KEY='...'   # or MOONSHOT_API_KEY / set scene_twin.api_key
-#   Blender at scene_twin.blender (default below)
-#   backends/indoor_twin_agent/assets/person_supplied.{glb,blend}
-#
-# Run:
+#   export zhesuan_API_KEY='...'    # also accepted: KIMI_API_KEY / MOONSHOT_API_KEY
 #   python -m ego_nav_forge run -c configs/datasets/seeker_scene_twin.yaml --max-eps 1
 workflow: ../workflows/pi3_moge_lerobot.yaml
 exp_name: seeker_scene_twin
-work_dir: /mnt/luozhaoyi/releases/ego_nav_forge/work_dirs/seeker_scene_twin
+work_dir: /mnt/luozhaoyi/releases/ego_nav_forge_v1/work_dirs/seeker_scene_twin
 
 dataset:
   root: /mnt/luozhaoyi/ABot_data_engine/threeeyes918/parsed
@@ -25,31 +19,27 @@ dataset:
   pack: [forward_img, left_img, right_img, imu]
   recon_image_key: forward_img
   image_stride: 2
-  mask_path: /mnt/luozhaoyi/releases/ego_nav_forge/assets/seeker_mask.png
+  mask_path: /mnt/luozhaoyi/releases/ego_nav_forge_v1/assets/seeker_mask.png
   ann_path: /mnt/luozhaoyi/ABot_data_engine/threeeyes918/parsed/action_annotations.json
   skip_delete_token: "删"
   search_object: green ball
   suite_prefix: te918_
-  reuse_suite_roots:
-    - /mnt/luozhaoyi/ABot_data_engine/outputs/threeeyes918_pi3_moge/suite
+  force_recon: false
+  checkpoint: /mnt/luozhaoyi/releases/pi3_moge_lerobot/checkpoints/Pi3X_model.safetensors
+  moge_pretrained: /mnt/luozhaoyi/releases/pi3_moge_lerobot/checkpoints/moge-2-vitl/model.pt
 
-  lerobot_export: true
+  lerobot_export: false
   traj_viz: true
 
-  # --- scene twin (indoor_twin_agent v37) ---
   scene_twin:
     enabled: true
     image_key: forward_img
     calib_camera: bleft
-    export_pointcloud: true
-    export_usd: true
-    preset: balanced
+    use_pointcloud: true
+    scene_type: lab
     model: kimi-k2.6
     api_base: https://ai.zj-computility.com/maas/v1
     api_key_env: zhesuan_API_KEY
-    # api_key: sk-...   # optional; prefer env var
     blender: /mnt/luozhaoyi/tools/blender-4.5.14-linux-x64/blender
-    frames: 60
-    res: 384
-    fps: 5
-    objects: "green ball, orange sofa, blue barrier"
+    frames: 9
+    samples: 40

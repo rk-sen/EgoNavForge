@@ -1,0 +1,7 @@
+{
+  "ExerciseBall_01": {
+    "query_id": "ExerciseBall_Blue",
+    "material": {"color":[0.07,0.26,0.62],"texture":"rubber","roughness":0.42,"metallic":0.0},
+    "replace_materials": ["Rubber_green"]
+  }
+}

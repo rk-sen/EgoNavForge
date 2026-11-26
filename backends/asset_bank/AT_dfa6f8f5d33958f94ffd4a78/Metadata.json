@@ -1,0 +1,119 @@
+{
+  "asset_id": "AT_dfa6f8f5d33958f94ffd4a78",
+  "query_id": "ph_plant_01",
+  "semantic": "plant",
+  "dimensions_m": [
+    0.587,
+    0.634,
+    1.35
+  ],
+  "description": "室内盆栽 01",
+  "material": {
+    "color": [
+      0.3211,
+      0.15,
+      0.0724
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "plant",
+    "potted_plant_01",
+    "decor/plant/potted",
+    "室内盆栽 01",
+    "potted_plant_01",
+    "decor/plant/potted",
+    "室内盆栽 01"
+  ],
+  "procedural_hash": "6cb08e88aea90c3e48e42640363f58bddc4c1ae7c77274409c0c85087cfda204",
+  "geometry_sha256": "ec1043e1b939f29c641b8e13cf189b2dd78cecde8b605a80b8e822845534e857",
+  "public_prefab": true,
+  "provider": "Rico Cilliers",
+  "observation_description": "室内盆栽 01",
+  "requested_dimensions_m": [
+    0.587,
+    0.634,
+    1.35
+  ],
+  "prototype_key": "ph_plant_01",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_dfa6f8f5d33958f94ffd4a78/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "plant",
+    "potted_plant_01",
+    "decor/plant/potted",
+    "室内盆栽 01"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_plant_01",
+    "semantic": "plant",
+    "category_path": "decor/plant/potted",
+    "aliases": [
+      "plant",
+      "potted_plant_01",
+      "decor/plant/potted",
+      "室内盆栽 01"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.587,
+      0.634,
+      1.35
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_plant_01/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/potted_plant_01/potted_plant_01_1k.usdc",
+      "author": "Rico Cilliers",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_plant_01.usd",
+      "raw_sha256": "4393d4f4e086061380609976c6584a35c777bdcbfe0439ba167dfed5a6c97e3b",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_plant_01 plant 室内盆栽 01 plant potted_plant_01 decor/plant/potted 室内盆栽 01 potted_plant_01 decor/plant/potted 室内盆栽 01",
+    "intake": "existing_external"
+  }
+}

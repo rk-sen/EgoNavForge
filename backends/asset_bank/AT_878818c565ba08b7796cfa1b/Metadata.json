@@ -1,0 +1,140 @@
+{
+  "asset_id": "AT_878818c565ba08b7796cfa1b",
+  "query_id": "phone_office",
+  "semantic": "desk",
+  "dimensions_m": [
+    0.216,
+    0.145,
+    0.171
+  ],
+  "description": "白色桌面办公电话",
+  "material": {
+    "color": [
+      0.8632,
+      0.8388,
+      0.8308
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "电话",
+    "phone",
+    "desk_phone",
+    "telephony",
+    "office",
+    "white",
+    "电话",
+    "phone",
+    "desk_phone",
+    "telephony",
+    "office",
+    "white"
+  ],
+  "procedural_hash": "f68e1a7eec545745df32a0a566e6a943fc4bfcd6f9807b821d74a51602427fb7",
+  "geometry_sha256": "b236477dc1859623c16ff8925cb352650b8910db3f2f1a794da3b8c8a9878456",
+  "public_prefab": true,
+  "provider": "ivoirh/dp-sm-vr",
+  "observation_description": "白色桌面办公电话",
+  "requested_dimensions_m": [
+    0.216,
+    0.145,
+    0.171
+  ],
+  "prototype_key": "phone_office",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_878818c565ba08b7796cfa1b/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "电话",
+    "phone",
+    "desk_phone",
+    "telephony",
+    "office",
+    "white"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "phone_office",
+    "semantic": "desk",
+    "category_path": "electronics/telephony/desk_phone",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "电话",
+      "phone",
+      "desk_phone",
+      "telephony",
+      "office",
+      "white"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.216,
+      0.145,
+      0.171
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/phone_office/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Office%20Phone.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "phone_office.glb",
+      "raw_sha256": "3f6991e0b463de5391ef44963e6d0a504dbe5092af0ba8a39028344b7cf76107",
+      "scale_applied": 0.05,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "phone_office desk 白色桌面办公电话 desk workstation 办公桌 工位 电话 phone desk_phone telephony office white 电话 phone desk_phone telephony office white",
+    "intake": "existing_external"
+  }
+}

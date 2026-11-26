@@ -1,0 +1,135 @@
+{
+  "asset_id": "AT_cec328077b0854583392a733",
+  "query_id": "fm_plant_fiddle_leaf",
+  "semantic": "plant",
+  "dimensions_m": [
+    0.9,
+    0.849,
+    1.702
+  ],
+  "description": "高 1.70m 琴叶榕盆栽，深绿大叶、黑色花盆",
+  "material": {
+    "color": [
+      0.15,
+      0.28,
+      0.14
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "plant",
+    "高大盆栽",
+    "琴叶榕",
+    "绿植",
+    "1.7米",
+    "fiddle leaf",
+    "ficus",
+    "tall plant",
+    "高大盆栽",
+    "琴叶榕",
+    "绿植",
+    "1.7米",
+    "fiddle leaf",
+    "ficus",
+    "tall plant"
+  ],
+  "procedural_hash": "d137aaaa2f65d5706e3f35cd7fd8b94c1325be44926f375fa86a1ffefd740275",
+  "geometry_sha256": "971b6ce12c072ab34f5cafe13673ac4898cf57a8cbe94591883066a426337fd5",
+  "public_prefab": true,
+  "provider": "FurniMesh",
+  "observation_description": "高 1.70m 琴叶榕盆栽，深绿大叶、黑色花盆",
+  "requested_dimensions_m": [
+    0.9,
+    0.849,
+    1.702
+  ],
+  "prototype_key": "fm_plant_fiddle_leaf",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_cec328077b0854583392a733/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "plant",
+    "高大盆栽",
+    "琴叶榕",
+    "绿植",
+    "1.7米",
+    "fiddle leaf",
+    "ficus",
+    "tall plant"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "fm_plant_fiddle_leaf",
+    "semantic": "plant",
+    "category_path": "decor/plant/tall",
+    "aliases": [
+      "plant",
+      "高大盆栽",
+      "琴叶榕",
+      "绿植",
+      "1.7米",
+      "fiddle leaf",
+      "ficus",
+      "tall plant"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.9,
+      0.849,
+      1.702
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_plant_fiddle_leaf/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/decor/plant/a-tall-leafy-fiddle-leaf-fig-ficus-xsf8b3/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_plant_fiddle_leaf.glb",
+      "raw_sha256": "ddf2aeff69f34bfe2f0536a219f6b10befb62d1daa8acb84c3902db7a3c3f3f1",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_plant_fiddle_leaf plant 高 1.70m 琴叶榕盆栽，深绿大叶、黑色花盆 plant 高大盆栽 琴叶榕 绿植 1.7米 fiddle leaf ficus tall plant 高大盆栽 琴叶榕 绿植 1.7米 fiddle leaf ficus tall plant",
+    "intake": "existing_external"
+  }
+}

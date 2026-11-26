@@ -1,0 +1,136 @@
+{
+  "asset_id": "AT_06b9d843f2621af277685bec",
+  "query_id": "ph_desk_wood",
+  "semantic": "desk",
+  "dimensions_m": [
+    1.8,
+    0.657,
+    0.549
+  ],
+  "description": "粗木长条桌/长凳（Wooden Table 01）",
+  "material": {
+    "color": [
+      0.3625,
+      0.2571,
+      0.1183
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "桌子",
+    "table",
+    "rustic",
+    "wood",
+    "bench",
+    "桌子",
+    "table",
+    "rustic",
+    "wood",
+    "bench"
+  ],
+  "procedural_hash": "42ad842c0013aac5f8e58301e66dd37fb65249afbc536398c35c7380ad177eac",
+  "geometry_sha256": "9b3fc96392605ba0703ef7bcb0c801cbccc9102db61dd7ae768a43f2f59bb023",
+  "public_prefab": true,
+  "provider": "Ethan Place",
+  "observation_description": "粗木长条桌/长凳（Wooden Table 01）",
+  "requested_dimensions_m": [
+    1.8,
+    0.657,
+    0.549
+  ],
+  "prototype_key": "ph_desk_wood",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_06b9d843f2621af277685bec/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "桌子",
+    "table",
+    "rustic",
+    "wood",
+    "bench"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_desk_wood",
+    "semantic": "desk",
+    "category_path": "furniture/table/rustic",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "桌子",
+      "table",
+      "rustic",
+      "wood",
+      "bench"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.8,
+      0.657,
+      0.549
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_desk_wood/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/WoodenTable_01/WoodenTable_01_1k.usdc",
+      "author": "Ethan Place",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_desk_wood.usd",
+      "raw_sha256": "4d5ec60acba372ded4cb5bff564f494496c974fd822fc0e5cfb76cd1c6513d1c",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_desk_wood desk 粗木长条桌/长凳（Wooden Table 01） desk workstation 办公桌 工位 桌子 table rustic wood bench 桌子 table rustic wood bench",
+    "intake": "existing_external"
+  }
+}

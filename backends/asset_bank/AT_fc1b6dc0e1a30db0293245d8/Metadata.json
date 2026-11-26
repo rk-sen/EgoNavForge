@@ -1,0 +1,130 @@
+{
+  "asset_id": "AT_fc1b6dc0e1a30db0293245d8",
+  "query_id": "office_desk_standing",
+  "semantic": "desk",
+  "dimensions_m": [
+    2.0,
+    1.416,
+    1.729
+  ],
+  "description": "带显示器、键盘和文件的升降办公工位",
+  "material": {
+    "color": [
+      0.35,
+      0.35,
+      0.35
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "standing_desk",
+    "monitor",
+    "keyboard",
+    "办公桌",
+    "standing_desk",
+    "workstation",
+    "monitor",
+    "keyboard"
+  ],
+  "procedural_hash": "4a2a64561dbc02ca4c3c722029ec388cc1af397b72429cac7758ada392786898",
+  "geometry_sha256": "97963e9c6b5e98bb39879504f2418e037a2fc42c88290bcb674659d7f326c5ff",
+  "public_prefab": true,
+  "provider": "ivoirh/dp-sm-vr",
+  "observation_description": "带显示器、键盘和文件的升降办公工位",
+  "requested_dimensions_m": [
+    2.0,
+    1.416,
+    1.729
+  ],
+  "prototype_key": "office_desk_standing",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_fc1b6dc0e1a30db0293245d8/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "standing_desk",
+    "monitor",
+    "keyboard"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "office_desk_standing",
+    "semantic": "desk",
+    "category_path": "furniture/desk/standing_workstation",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "standing_desk",
+      "monitor",
+      "keyboard"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.0,
+      1.416,
+      1.729
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/office_desk_standing/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Standing%20Desk.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_desk_standing.glb",
+      "raw_sha256": "1b8856ca78b78a53244d1db9bd4e8f58da5c12d9c231cfe875b9b0ce1118cda8",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_desk_standing desk 带显示器、键盘和文件的升降办公工位 desk workstation 办公桌 工位 standing_desk monitor keyboard 办公桌 standing_desk workstation monitor keyboard",
+    "intake": "existing_external"
+  }
+}

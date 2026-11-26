@@ -1,0 +1,123 @@
+{
+  "asset_id": "AT_6f375d18a5411f69195101da",
+  "query_id": "ph_ball_baseball",
+  "semantic": "ball",
+  "dimensions_m": [
+    0.074,
+    0.075,
+    0.076
+  ],
+  "description": "棒球",
+  "material": {
+    "color": [
+      0.0335,
+      0.0335,
+      0.0335
+    ],
+    "texture": "rubber",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "ball",
+    "baseball_01",
+    "sports/ball/baseball",
+    "棒球",
+    "baseball_01",
+    "sports/ball/baseball",
+    "棒球"
+  ],
+  "procedural_hash": "068998e39392d5a85b792aba286703ec0af3807924ddde8ce305c5840173baad",
+  "geometry_sha256": "13a5e44f2503d6bdfddba9760d6b258dbf214c86b9bba59757fe87195d1f27a9",
+  "public_prefab": true,
+  "provider": "Rico Cilliers",
+  "observation_description": "棒球",
+  "requested_dimensions_m": [
+    0.074,
+    0.075,
+    0.076
+  ],
+  "prototype_key": "ph_ball_baseball",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_6f375d18a5411f69195101da/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "ball",
+    "baseball_01",
+    "sports/ball/baseball",
+    "棒球"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "floor_toy",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "rubber_or_plastic",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_ball_baseball",
+    "semantic": "ball",
+    "category_path": "sports/ball/baseball",
+    "aliases": [
+      "ball",
+      "baseball_01",
+      "sports/ball/baseball",
+      "棒球"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "rubber_or_plastic",
+    "dimensions_m": [
+      0.074,
+      0.075,
+      0.076
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_ball_baseball/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/baseball_01/baseball_01_1k.usdc",
+      "author": "Rico Cilliers",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_ball_baseball.usd",
+      "raw_sha256": "42c4fd314ea859ad2dbf99112455239bd4b6432071cd57627768f68b60860da7",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_ball_baseball ball 棒球 ball baseball_01 sports/ball/baseball 棒球 baseball_01 sports/ball/baseball 棒球",
+    "intake": "existing_external"
+  }
+}

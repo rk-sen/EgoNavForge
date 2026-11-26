@@ -1,0 +1,151 @@
+{
+  "asset_id": "AT_e3b086446d9ceb7a000a27be",
+  "query_id": "teddy_bear_grab3d",
+  "semantic": "teddy_bear",
+  "dimensions_m": [
+    0.2195,
+    0.2242,
+    0.3217
+  ],
+  "description": "泰迪熊毛绒玩具",
+  "material": {
+    "color": [
+      0.55,
+      0.35,
+      0.2
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "teddy bear",
+    "plush toy",
+    "stuffed bear",
+    "毛绒玩具",
+    "泰迪熊",
+    "toy",
+    "teddy_bear",
+    "plush",
+    "stuffed_animal",
+    "kids",
+    "decor",
+    "toy",
+    "teddy_bear",
+    "plush",
+    "stuffed_animal",
+    "kids",
+    "decor"
+  ],
+  "procedural_hash": "62eec0a94add5ec86f8bb7dbd522905b1556c6ce895432be9d18459fea9cd126",
+  "geometry_sha256": "7fcc02c06c27928c4a9883dc92982720779d8ff27793ecd5ded612196fea00b8",
+  "public_prefab": true,
+  "provider": "Grab3D",
+  "observation_description": "泰迪熊毛绒玩具",
+  "requested_dimensions_m": [
+    0.2195,
+    0.2242,
+    0.3217
+  ],
+  "prototype_key": "teddy_bear_grab3d",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_e3b086446d9ceb7a000a27be/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "teddy bear",
+    "plush toy",
+    "stuffed bear",
+    "毛绒玩具",
+    "泰迪熊",
+    "toy",
+    "teddy_bear",
+    "plush",
+    "stuffed_animal",
+    "kids",
+    "decor"
+  ],
+  "scene_types": [
+    "kids",
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "floor_toy",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "chair",
+    "sofa",
+    "large_furniture"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "teddy_bear_grab3d",
+    "semantic": "teddy_bear",
+    "category_path": "toy/stuffed_animal/teddy",
+    "aliases": [
+      "teddy bear",
+      "plush toy",
+      "stuffed bear",
+      "毛绒玩具",
+      "泰迪熊",
+      "toy",
+      "teddy_bear",
+      "plush",
+      "stuffed_animal",
+      "kids",
+      "decor"
+    ],
+    "scene_types": [
+      "kids",
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.2195,
+      0.2242,
+      0.3217
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "chair",
+      "sofa",
+      "large_furniture"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/teddy_bear_grab3d/front.jpg",
+    "provenance": {
+      "url": "https://grab3d.com/dl/teddy-bear/teddy-bear.glb",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "raw_file": "teddy_bear_grab3d.glb",
+      "raw_sha256": "bb495f125432ea1a83728f5393fa51ea6c108f8e921a941e3a935b741c3b4b24",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "teddy_bear_grab3d teddy_bear 泰迪熊毛绒玩具 teddy bear plush toy stuffed bear 毛绒玩具 泰迪熊 toy teddy_bear plush stuffed_animal kids decor toy teddy_bear plush stuffed_animal kids decor",
+    "intake": "explicit_toy_addition"
+  }
+}

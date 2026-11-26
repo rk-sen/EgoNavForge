@@ -1,0 +1,121 @@
+{
+  "asset_id": "AT_37c0ca95f1e081f0b5fa9df9",
+  "query_id": "ph_stool_bar",
+  "semantic": "stool",
+  "dimensions_m": [
+    0.483,
+    0.486,
+    0.75
+  ],
+  "description": "圆形座气压升降吧椅/办公凳",
+  "material": {
+    "color": [
+      0.315,
+      0.2325,
+      0.1681
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "stool",
+    "bar_chair_round_01",
+    "furniture/stool/gas_round",
+    "圆形座气压升降吧椅/办公凳",
+    "bar_chair_round_01",
+    "furniture/stool/gas_round",
+    "圆形座气压升降吧椅/办公凳"
+  ],
+  "procedural_hash": "194602f9bfecdbc94b06cf47321ab0a759760f8dbee2ea85f7dfe0031e6b1fe7",
+  "geometry_sha256": "9a975e247f0c31af39b3a1f478775fe547841339dd0304328ed211f63346cfef",
+  "public_prefab": true,
+  "provider": "Dairon Sanchez",
+  "observation_description": "圆形座气压升降吧椅/办公凳",
+  "requested_dimensions_m": [
+    0.483,
+    0.486,
+    0.75
+  ],
+  "prototype_key": "ph_stool_bar",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_37c0ca95f1e081f0b5fa9df9/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "stool",
+    "bar_chair_round_01",
+    "furniture/stool/gas_round",
+    "圆形座气压升降吧椅/办公凳"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_stool_bar",
+    "semantic": "stool",
+    "category_path": "furniture/stool/gas_round",
+    "aliases": [
+      "stool",
+      "bar_chair_round_01",
+      "furniture/stool/gas_round",
+      "圆形座气压升降吧椅/办公凳"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.483,
+      0.486,
+      0.75
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_stool_bar/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/bar_chair_round_01/bar_chair_round_01_1k.usdc",
+      "author": "Dairon Sanchez",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_stool_bar.usd",
+      "raw_sha256": "338a4d4822144a84df19473723e370688b6adea396b4268a73a16347467e470a",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_stool_bar stool 圆形座气压升降吧椅/办公凳 stool bar_chair_round_01 furniture/stool/gas_round 圆形座气压升降吧椅/办公凳 bar_chair_round_01 furniture/stool/gas_round 圆形座气压升降吧椅/办公凳",
+    "intake": "existing_external"
+  }
+}

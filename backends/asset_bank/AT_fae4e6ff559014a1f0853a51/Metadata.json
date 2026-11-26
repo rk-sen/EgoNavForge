@@ -1,0 +1,132 @@
+{
+  "asset_id": "AT_fae4e6ff559014a1f0853a51",
+  "query_id": "office_chair_regular",
+  "semantic": "chair",
+  "dimensions_m": [
+    0.672,
+    0.561,
+    0.973
+  ],
+  "description": "灰色简约四腿办公椅",
+  "material": {
+    "color": [
+      0.1,
+      0.1,
+      0.1
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "four_leg",
+    "guest_chair",
+    "grey",
+    "办公椅",
+    "chair",
+    "four_leg",
+    "guest_chair",
+    "grey"
+  ],
+  "procedural_hash": "765dc9830103672f636eda7da1c38931922110159639ad2609209c86d112c6a8",
+  "geometry_sha256": "9c6481c87de8c0ec97c4cfdff64ea66f693c4fb9c6fd2dabf61f562df96dcb48",
+  "public_prefab": true,
+  "provider": "ivoirh/dp-sm-vr",
+  "observation_description": "灰色简约四腿办公椅",
+  "requested_dimensions_m": [
+    0.672,
+    0.561,
+    0.973
+  ],
+  "prototype_key": "office_chair_regular",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_fae4e6ff559014a1f0853a51/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "four_leg",
+    "guest_chair",
+    "grey"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "office_chair_regular",
+    "semantic": "chair",
+    "category_path": "furniture/chair/guest_chair",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "four_leg",
+      "guest_chair",
+      "grey"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.672,
+      0.561,
+      0.973
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "four_leg"
+    ],
+    "thumbnail": "thumbs/office_chair_regular/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Regular%20Office%20Chair.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_chair_regular.glb",
+      "raw_sha256": "efe372025fc0bbe433d764d01b44c2963f9304177f70f6b45263ea5344a66449",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_chair_regular chair 灰色简约四腿办公椅 chair office chair 椅子 办公椅 four_leg guest_chair grey 办公椅 chair four_leg guest_chair grey",
+    "intake": "existing_external"
+  }
+}

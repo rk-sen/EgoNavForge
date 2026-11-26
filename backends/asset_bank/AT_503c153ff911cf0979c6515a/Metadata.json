@@ -1,0 +1,121 @@
+{
+  "asset_id": "AT_503c153ff911cf0979c6515a",
+  "query_id": "ph_laptop_classic",
+  "semantic": "laptop",
+  "dimensions_m": [
+    0.652,
+    0.486,
+    0.543
+  ],
+  "description": "复古笔记本电脑",
+  "material": {
+    "color": [
+      0.8,
+      0.8,
+      0.8
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "laptop",
+    "classic_laptop",
+    "electronics/computer/laptop",
+    "复古笔记本电脑",
+    "classic_laptop",
+    "electronics/computer/laptop",
+    "复古笔记本电脑"
+  ],
+  "procedural_hash": "dbd57f92bbe8b0dd1ee514f5190c4346f705f47ff97cbf732269e1fc8e7c7c14",
+  "geometry_sha256": "9720a04a918cf555bef7fbf5fdfc063088aa3fdabe3fb3624cf466f98dbddaac",
+  "public_prefab": true,
+  "provider": "Arrangemonk",
+  "observation_description": "复古笔记本电脑",
+  "requested_dimensions_m": [
+    0.652,
+    0.486,
+    0.543
+  ],
+  "prototype_key": "ph_laptop_classic",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_503c153ff911cf0979c6515a/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "laptop",
+    "classic_laptop",
+    "electronics/computer/laptop",
+    "复古笔记本电脑"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed_electronics",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_laptop_classic",
+    "semantic": "laptop",
+    "category_path": "electronics/computer/laptop",
+    "aliases": [
+      "laptop",
+      "classic_laptop",
+      "electronics/computer/laptop",
+      "复古笔记本电脑"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed_electronics",
+    "dimensions_m": [
+      0.652,
+      0.486,
+      0.543
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_laptop_classic/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/classic_laptop/classic_laptop_1k.usdc",
+      "author": "Arrangemonk",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_laptop_classic.usd",
+      "raw_sha256": "a42036ac42e58fd5fb1dc98591587ccd2f80d5d0bb02dfdcc3abfb1baa66737f",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_laptop_classic laptop 复古笔记本电脑 laptop classic_laptop electronics/computer/laptop 复古笔记本电脑 classic_laptop electronics/computer/laptop 复古笔记本电脑",
+    "intake": "existing_external"
+  }
+}

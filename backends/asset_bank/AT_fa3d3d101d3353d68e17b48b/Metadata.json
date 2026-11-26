@@ -1,0 +1,121 @@
+{
+  "asset_id": "AT_fa3d3d101d3353d68e17b48b",
+  "query_id": "ph_stool_painted",
+  "semantic": "stool",
+  "dimensions_m": [
+    0.385,
+    0.406,
+    0.579
+  ],
+  "description": "彩绘木凳",
+  "material": {
+    "color": [
+      0.5117,
+      0.4728,
+      0.4259
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "stool",
+    "painted_wooden_stool",
+    "furniture/stool/wood",
+    "彩绘木凳",
+    "painted_wooden_stool",
+    "furniture/stool/wood",
+    "彩绘木凳"
+  ],
+  "procedural_hash": "c11b1e9fc815b6ed1d884ac8cf3a04cde8611455d910db17a692c677b3610430",
+  "geometry_sha256": "4b6718004537fd3bc78d9c789909250a66b32df7204693660ef8a60ba7bd31e4",
+  "public_prefab": true,
+  "provider": "Kirill Sannikov",
+  "observation_description": "彩绘木凳",
+  "requested_dimensions_m": [
+    0.385,
+    0.406,
+    0.579
+  ],
+  "prototype_key": "ph_stool_painted",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_fa3d3d101d3353d68e17b48b/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "stool",
+    "painted_wooden_stool",
+    "furniture/stool/wood",
+    "彩绘木凳"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_stool_painted",
+    "semantic": "stool",
+    "category_path": "furniture/stool/wood",
+    "aliases": [
+      "stool",
+      "painted_wooden_stool",
+      "furniture/stool/wood",
+      "彩绘木凳"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.385,
+      0.406,
+      0.579
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_stool_painted/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_stool/painted_wooden_stool_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_stool_painted.usd",
+      "raw_sha256": "8176250d18d8a29d7a3f0218d272f02435be196b2dcd3e23d57d60e64ad75d46",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_stool_painted stool 彩绘木凳 stool painted_wooden_stool furniture/stool/wood 彩绘木凳 painted_wooden_stool furniture/stool/wood 彩绘木凳",
+    "intake": "existing_external"
+  }
+}

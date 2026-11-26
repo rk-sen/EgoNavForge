@@ -1,0 +1,123 @@
+{
+  "asset_id": "AT_496b34cd64efcaebd6ad3c6f",
+  "query_id": "ph_lamp_industrial",
+  "semantic": "lamp",
+  "dimensions_m": [
+    0.55,
+    0.55,
+    1.355
+  ],
+  "description": "工业吊灯",
+  "material": {
+    "color": [
+      0.4778,
+      0.463,
+      0.4093
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "lamp",
+    "hanging_industrial_lamp",
+    "lighting/lamp/pendant",
+    "工业吊灯",
+    "hanging_industrial_lamp",
+    "lighting/lamp/pendant",
+    "工业吊灯"
+  ],
+  "procedural_hash": "bd660ff9b8a07c9ea85d61407bf387013f4dab75d481980872cd7164ce3c4ca3",
+  "geometry_sha256": "db91b537586409de736472ff35c6b5d539920c6490b6a0c58d81bc5813441f0f",
+  "public_prefab": true,
+  "provider": "Kuutti Siitonen",
+  "observation_description": "工业吊灯",
+  "requested_dimensions_m": [
+    0.55,
+    0.55,
+    1.355
+  ],
+  "prototype_key": "ph_lamp_industrial",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_496b34cd64efcaebd6ad3c6f/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "lamp",
+    "hanging_industrial_lamp",
+    "lighting/lamp/pendant",
+    "工业吊灯"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "living",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "wall",
+    "lighting"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_lamp_industrial",
+    "semantic": "lamp",
+    "category_path": "lighting/lamp/pendant",
+    "aliases": [
+      "lamp",
+      "hanging_industrial_lamp",
+      "lighting/lamp/pendant",
+      "工业吊灯"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "wall",
+      "lighting"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.55,
+      0.55,
+      1.355
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_lamp_industrial/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/hanging_industrial_lamp/hanging_industrial_lamp_1k.usdc",
+      "author": "Kuutti Siitonen",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_lamp_industrial.usd",
+      "raw_sha256": "83488022b15a712e5d38623d135d5f6c58997470ce111c48233660c5b6eabe54",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_lamp_industrial lamp 工业吊灯 lamp hanging_industrial_lamp lighting/lamp/pendant 工业吊灯 hanging_industrial_lamp lighting/lamp/pendant 工业吊灯",
+    "intake": "existing_external"
+  }
+}

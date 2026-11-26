@@ -1,0 +1,126 @@
+{
+  "asset_id": "AT_e158e432e8f9dd2e9e659587",
+  "query_id": "ph_laptop_alt",
+  "semantic": "laptop",
+  "dimensions_m": [
+    0.264,
+    0.24,
+    0.162
+  ],
+  "description": "深灰色笔记本电脑（公开办公场景模型）",
+  "material": {
+    "color": [
+      0.07,
+      0.12,
+      0.12
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "laptop",
+    "电脑",
+    "notebook",
+    "dark_grey",
+    "open_screen",
+    "电脑",
+    "laptop",
+    "notebook",
+    "dark_grey",
+    "open_screen"
+  ],
+  "procedural_hash": "2f1157e67b1761c36add4cf9ac32869a87bad6010b942abc0590f3f92ebc42cc",
+  "geometry_sha256": "69516edaafdacb21928fd8c5d1e4e78c68db84cdd76c03ff1a21947424fc1e01",
+  "public_prefab": true,
+  "provider": "psandis/office-3d-exp",
+  "observation_description": "深灰色笔记本电脑（公开办公场景模型）",
+  "requested_dimensions_m": [
+    0.264,
+    0.24,
+    0.162
+  ],
+  "prototype_key": "ph_laptop_alt",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_e158e432e8f9dd2e9e659587/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "laptop",
+    "电脑",
+    "notebook",
+    "dark_grey",
+    "open_screen"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed_electronics",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_laptop_alt",
+    "semantic": "laptop",
+    "category_path": "electronics/computer/laptop",
+    "aliases": [
+      "laptop",
+      "电脑",
+      "notebook",
+      "dark_grey",
+      "open_screen"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed_electronics",
+    "dimensions_m": [
+      0.264,
+      0.24,
+      0.162
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_laptop_alt/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/laptop.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_laptop_alt.glb",
+      "raw_sha256": "387328b3c6530213770fb579545fa8cc27cc4ee6cf710f3f01bb28873da99b5e",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_laptop_alt laptop 深灰色笔记本电脑（公开办公场景模型） laptop 电脑 notebook dark_grey open_screen 电脑 laptop notebook dark_grey open_screen",
+    "intake": "existing_external"
+  }
+}

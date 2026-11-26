@@ -1,0 +1,130 @@
+{
+  "asset_id": "AT_6f1c38ae84178746315dd18d",
+  "query_id": "ph_lamp_desk",
+  "semantic": "desk",
+  "dimensions_m": [
+    0.551,
+    0.367,
+    0.785
+  ],
+  "description": "可调臂台灯",
+  "material": {
+    "color": [
+      0.7272,
+      0.5409,
+      0.4521
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "desk_lamp_arm_01",
+    "lighting/lamp/desk",
+    "可调臂台灯",
+    "desk_lamp_arm_01",
+    "lighting/lamp/desk",
+    "可调臂台灯"
+  ],
+  "procedural_hash": "c031643ed998873c8fb61d8857bdcd911df5f5bf4ebad2b2b8ccc97213c7ce56",
+  "geometry_sha256": "6c9943c825c8e3413a25dd70527beb1bd844859eedaa5871727188c89ec3c82d",
+  "public_prefab": true,
+  "provider": "Yann Kervran, Kuutti Siitonen",
+  "observation_description": "可调臂台灯",
+  "requested_dimensions_m": [
+    0.551,
+    0.367,
+    0.785
+  ],
+  "prototype_key": "ph_lamp_desk",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_6f1c38ae84178746315dd18d/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "desk_lamp_arm_01",
+    "lighting/lamp/desk",
+    "可调臂台灯"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_lamp_desk",
+    "semantic": "desk",
+    "category_path": "lighting/lamp/desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "desk_lamp_arm_01",
+      "lighting/lamp/desk",
+      "可调臂台灯"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.551,
+      0.367,
+      0.785
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "desk_lamp_arm_01"
+    ],
+    "thumbnail": "thumbs/ph_lamp_desk/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/desk_lamp_arm_01/desk_lamp_arm_01_1k.usdc",
+      "author": "Yann Kervran, Kuutti Siitonen",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_lamp_desk.usd",
+      "raw_sha256": "c84b529d70b2416891be7ac24867ee46984cab9132dd6566822b035378ce69b4",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_lamp_desk desk 可调臂台灯 desk workstation 办公桌 工位 desk_lamp_arm_01 lighting/lamp/desk 可调臂台灯 desk_lamp_arm_01 lighting/lamp/desk 可调臂台灯",
+    "intake": "existing_external"
+  }
+}

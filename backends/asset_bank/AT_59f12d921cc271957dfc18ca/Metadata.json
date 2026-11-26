@@ -1,0 +1,140 @@
+{
+  "asset_id": "AT_59f12d921cc271957dfc18ca",
+  "query_id": "lamp_desk",
+  "semantic": "desk",
+  "dimensions_m": [
+    0.351,
+    0.351,
+    0.763
+  ],
+  "description": "灰色金属台灯",
+  "material": {
+    "color": [
+      0.3584,
+      0.3546,
+      0.3435
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "台灯",
+    "lamp",
+    "desk_lamp",
+    "lighting",
+    "metal",
+    "grey",
+    "台灯",
+    "lamp",
+    "desk_lamp",
+    "lighting",
+    "metal",
+    "grey"
+  ],
+  "procedural_hash": "757987d75ff46a4e1e01ffb328c12c1a60ff1101fca0e8a11a9ff9aaddc310ff",
+  "geometry_sha256": "4151f0d4d864dca8014ef1ece07344878b9b72de278ceaba731d2e06c75b9acb",
+  "public_prefab": true,
+  "provider": "ivoirh/dp-sm-vr",
+  "observation_description": "灰色金属台灯",
+  "requested_dimensions_m": [
+    0.351,
+    0.351,
+    0.763
+  ],
+  "prototype_key": "lamp_desk",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_59f12d921cc271957dfc18ca/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "台灯",
+    "lamp",
+    "desk_lamp",
+    "lighting",
+    "metal",
+    "grey"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "lamp_desk",
+    "semantic": "desk",
+    "category_path": "lighting/lamp/desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "台灯",
+      "lamp",
+      "desk_lamp",
+      "lighting",
+      "metal",
+      "grey"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.351,
+      0.351,
+      0.763
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/lamp_desk/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Table%20Lamp.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "lamp_desk.glb",
+      "raw_sha256": "53f6037d1fa45ab2c45bec09e88fffbc1915eb0dd984aae5f7b6a5ce679b58a9",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "lamp_desk desk 灰色金属台灯 desk workstation 办公桌 工位 台灯 lamp desk_lamp lighting metal grey 台灯 lamp desk_lamp lighting metal grey",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "asset_id": "AT_0139a5f1da548b18821682b6",
+  "query_id": "ph_ball_football",
+  "semantic": "ball",
+  "dimensions_m": [
+    0.509,
+    0.222,
+    0.222
+  ],
+  "description": "足球",
+  "material": {
+    "color": [
+      0.5021,
+      0.4445,
+      0.3465
+    ],
+    "texture": "rubber",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "ball",
+    "football",
+    "sports/ball/football",
+    "足球",
+    "football",
+    "sports/ball/football",
+    "足球"
+  ],
+  "procedural_hash": "3bf705181c2aeb5c1fa401b82b806e485793ec0280fba3bffe04a555ff12fe2b",
+  "geometry_sha256": "9908058d0d7e95620dc73434007cc8864cda878ab18fc7c03b22bf6866c460a8",
+  "public_prefab": true,
+  "provider": "Amal Kumar",
+  "observation_description": "足球",
+  "requested_dimensions_m": [
+    0.509,
+    0.222,
+    0.222
+  ],
+  "prototype_key": "ph_ball_football",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_0139a5f1da548b18821682b6/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "ball",
+    "football",
+    "sports/ball/football",
+    "足球"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "floor_toy",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "rubber_or_plastic",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_ball_football",
+    "semantic": "ball",
+    "category_path": "sports/ball/football",
+    "aliases": [
+      "ball",
+      "football",
+      "sports/ball/football",
+      "足球"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "rubber_or_plastic",
+    "dimensions_m": [
+      0.509,
+      0.222,
+      0.222
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_ball_football/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/football/football_1k.usdc",
+      "author": "Amal Kumar",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_ball_football.usd",
+      "raw_sha256": "bc8db79bae35cd43dbc1674ec4e4bea24d27118cc3a53173fa420b931244ec34",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_ball_football ball 足球 ball football sports/ball/football 足球 football sports/ball/football 足球",
+    "intake": "existing_external"
+  }
+}

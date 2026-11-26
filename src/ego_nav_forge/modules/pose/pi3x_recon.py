@@ -36,6 +36,8 @@ class Pi3XRecon(TrajectoryModule):
             cand = project_root() / self.checkpoint
             if cand.is_file():
                 self.checkpoint = cand
+        if not self.checkpoint.is_file():
+            self.checkpoint = default_ckpt()
         moge = cfg.get("moge_pretrained")
         self.moge_pretrained = str(moge) if moge else str(default_moge())
         self.device = cfg.get("device", "cuda")

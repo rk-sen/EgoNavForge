@@ -1,0 +1,119 @@
+{
+  "asset_id": "AT_8b23f1967110ec05eb71938d",
+  "query_id": "ph_plant_04",
+  "semantic": "plant",
+  "dimensions_m": [
+    0.17,
+    0.186,
+    0.268
+  ],
+  "description": "多肉盆栽",
+  "material": {
+    "color": [
+      0.4665,
+      0.4429,
+      0.3528
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "plant",
+    "potted_plant_04",
+    "decor/plant/potted",
+    "多肉盆栽",
+    "potted_plant_04",
+    "decor/plant/potted",
+    "多肉盆栽"
+  ],
+  "procedural_hash": "b1712bf99656904f7d547e99f5d656431692d2f4bdad518a16b8cb31b02e2dfd",
+  "geometry_sha256": "c3018c0fede9c569cc901b635c2f19daa00ef7b0dbbe4ebf131769b3a7ebe162",
+  "public_prefab": true,
+  "provider": "James Ray Cock",
+  "observation_description": "多肉盆栽",
+  "requested_dimensions_m": [
+    0.17,
+    0.186,
+    0.268
+  ],
+  "prototype_key": "ph_plant_04",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_8b23f1967110ec05eb71938d/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "plant",
+    "potted_plant_04",
+    "decor/plant/potted",
+    "多肉盆栽"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_plant_04",
+    "semantic": "plant",
+    "category_path": "decor/plant/potted",
+    "aliases": [
+      "plant",
+      "potted_plant_04",
+      "decor/plant/potted",
+      "多肉盆栽"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.17,
+      0.186,
+      0.268
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_plant_04/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/potted_plant_04/potted_plant_04_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_plant_04.usd",
+      "raw_sha256": "935223c7544b29961f302bf21298c31758e4f9ccd6fb620f58a2284805f39be9",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_plant_04 plant 多肉盆栽 plant potted_plant_04 decor/plant/potted 多肉盆栽 potted_plant_04 decor/plant/potted 多肉盆栽",
+    "intake": "existing_external"
+  }
+}

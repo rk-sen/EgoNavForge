@@ -1,0 +1,136 @@
+{
+  "asset_id": "AT_9392bdffe30efa7fbf01d423",
+  "query_id": "ph_lamp_alt",
+  "semantic": "desk",
+  "dimensions_m": [
+    0.252,
+    0.453,
+    0.573
+  ],
+  "description": "极简金属台灯",
+  "material": {
+    "color": [
+      0.0282,
+      0.0282,
+      0.0282
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "台灯",
+    "lamp",
+    "desk_lamp",
+    "minimal",
+    "metal",
+    "台灯",
+    "lamp",
+    "desk_lamp",
+    "minimal",
+    "metal"
+  ],
+  "procedural_hash": "1497bb0231e547aa9683b2e079d237f0471b9bd13edb337d6f6e97b93b19b0f5",
+  "geometry_sha256": "dde8b06f24b29835a45b6f4fb669d99784b7ad89e3be6c401a3a8bb1b081e61e",
+  "public_prefab": true,
+  "provider": "psandis/office-3d-exp",
+  "observation_description": "极简金属台灯",
+  "requested_dimensions_m": [
+    0.252,
+    0.453,
+    0.573
+  ],
+  "prototype_key": "ph_lamp_alt",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_9392bdffe30efa7fbf01d423/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "台灯",
+    "lamp",
+    "desk_lamp",
+    "minimal",
+    "metal"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_lamp_alt",
+    "semantic": "desk",
+    "category_path": "lighting/lamp/desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "台灯",
+      "lamp",
+      "desk_lamp",
+      "minimal",
+      "metal"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.252,
+      0.453,
+      0.573
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_lamp_alt/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/light-desk.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_lamp_alt.glb",
+      "raw_sha256": "5ea86e46a2fc36f86500fa6a97dc529dc3464189dc34e586375bae3ee5f68075",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_lamp_alt desk 极简金属台灯 desk workstation 办公桌 工位 台灯 lamp desk_lamp minimal metal 台灯 lamp desk_lamp minimal metal",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "asset_id": "standing_desk_grab3d",
+  "category_path": "furniture/desk/height_adjustable",
+  "description": "蜂蜜色木纹台面、白色伸缩腿的可升降站立办公桌，带控制面板",
+  "tags": [
+    "standing desk",
+    "height adjustable",
+    "computer desk",
+    "workstation",
+    "wood",
+    "升降桌",
+    "站立办公桌",
+    "电脑桌"
+  ],
+  "prefix": "Grab3D_standing_desk_grab3d",
+  "object_count": 1,
+  "usd": "usd/standing_desk_grab3d.usd",
+  "world_bbox": [
+    -0.7,
+    -0.3758,
+    0,
+    0.7,
+    0.3758,
+    1.1
+  ],
+  "source_origin": [
+    0,
+    0,
+    0
+  ],
+  "canonical": {
+    "up_axis": "Z",
+    "meters_per_unit": 1.0,
+    "origin": "bottom_center",
+    "front_axis": [
+      0,
+      -1,
+      0
+    ]
+  },
+  "source_yaw_deg": 0,
+  "placements": [],
+  "asset_kind": "unique",
+  "instance_count": 0,
+  "display_color": [
+    0.55,
+    0.36,
+    0.18
+  ],
+  "material_profiles": {
+    "main": {
+      "base_color": [
+        0.55,
+        0.36,
+        0.18
+      ],
+      "roughness": 0.55,
+      "metallic": 0.0,
+      "source": "grab3d_intake"
+    }
+  },
+  "source": {
+    "url": "https://grab3d.com/dl/standing-desk/standing-desk.glb",
+    "page_url": "https://grab3d.com/models/furniture/standing-desk/",
+    "author": "Grab3D",
+    "license": "CC0-1.0",
+    "raw_file": "standing-desk.glb",
+    "raw_sha256": "1798649efdf0a1f034fa96d20fdf488e6b45bf7a24867e78b8989d46495a99a5",
+    "scale_applied": 1.0,
+    "format_in": "GLB",
+    "format_out": "USD"
+  },
+  "geometry_hash": "8406ec5642b2c32e",
+  "bbox_m": [
+    1.4,
+    0.7517,
+    1.1
+  ],
+  "thumbnails": {
+    "front": "thumbs/standing_desk_grab3d/front.jpg",
+    "iso": "thumbs/standing_desk_grab3d/iso.jpg",
+    "top": "thumbs/standing_desk_grab3d/top.jpg"
+  },
+  "status": "approved",
+  "version": "1",
+  "material_slots": [
+    {
+      "slot": "main",
+      "role": "auto",
+      "source": "usd"
+    }
+  ],
+  "search_text": "standing_desk_grab3d desk 蜂蜜色木纹台面、白色伸缩腿的可升降站立办公桌，带控制面板 A height-adjustable standing desk with honey wood top, white telescopic legs and a control panel. standing desk height adjustable computer desk workstation wood 升降桌 站立办公桌 电脑桌",
+  "semantic": "desk",
+  "aliases": [
+    "standing desk",
+    "height adjustable",
+    "computer desk",
+    "workstation",
+    "wood",
+    "升降桌",
+    "站立办公桌",
+    "电脑桌"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "negative_roles": [
+    "partition",
+    "window",
+    "door",
+    "school_desk",
+    "bench"
+  ],
+  "instance_unit": "single",
+  "intake_note": "Grab3D CC0 true-metre office desk, normalized bottom-centre, thumbnailed; added to match video desks."
+}

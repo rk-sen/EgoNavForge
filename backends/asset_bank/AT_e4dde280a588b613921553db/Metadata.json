@@ -1,0 +1,124 @@
+{
+  "asset_id": "AT_e4dde280a588b613921553db",
+  "query_id": "printer_copier",
+  "semantic": "printer",
+  "dimensions_m": [
+    1.01,
+    0.815,
+    1.125
+  ],
+  "description": "黑白办公复印/打印机",
+  "material": {
+    "color": [
+      0.63,
+      0.7,
+      0.72
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "printer",
+    "打印机",
+    "copier",
+    "office_equipment",
+    "paper_tray",
+    "打印机",
+    "printer",
+    "copier",
+    "office_equipment",
+    "paper_tray"
+  ],
+  "procedural_hash": "7ea924462ec095b2d1953c3c21214295baa580eac9f4f4dfafc3b08b0d12865c",
+  "geometry_sha256": "5db9bf938c33e93988ed5308790ab4cf0b2fcdcb3186b340003fd3f52a1e5d4d",
+  "public_prefab": true,
+  "provider": "ivoirh/dp-sm-vr",
+  "observation_description": "黑白办公复印/打印机",
+  "requested_dimensions_m": [
+    1.01,
+    0.815,
+    1.125
+  ],
+  "prototype_key": "printer_copier",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_e4dde280a588b613921553db/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "printer",
+    "打印机",
+    "copier",
+    "office_equipment",
+    "paper_tray"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "printer_copier",
+    "semantic": "printer",
+    "category_path": "electronics/office_equipment/printer",
+    "aliases": [
+      "printer",
+      "打印机",
+      "copier",
+      "office_equipment",
+      "paper_tray"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      1.01,
+      0.815,
+      1.125
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/printer_copier/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Copier.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "printer_copier.glb",
+      "raw_sha256": "ecb1a4ce3b4c89737ef59460b0673638cbf4992d3550609e703cd3c840ddb225",
+      "scale_applied": 0.5,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "printer_copier printer 黑白办公复印/打印机 printer 打印机 copier office_equipment paper_tray 打印机 printer copier office_equipment paper_tray",
+    "intake": "existing_external"
+  }
+}

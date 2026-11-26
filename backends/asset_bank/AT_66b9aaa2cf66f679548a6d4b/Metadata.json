@@ -1,0 +1,129 @@
+{
+  "asset_id": "AT_66b9aaa2cf66f679548a6d4b",
+  "query_id": "ph_sofa_01",
+  "semantic": "sofa",
+  "dimensions_m": [
+    1.571,
+    0.658,
+    0.796
+  ],
+  "description": "布艺双人沙发，米色坐垫+深色木框",
+  "material": {
+    "color": [
+      0.4265,
+      0.3821,
+      0.3484
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "sofa",
+    "couch",
+    "沙发",
+    "Sofa_01",
+    "furniture/sofa/two_seat",
+    "布艺双人沙发，米色坐垫+深色木框",
+    "Sofa_01",
+    "furniture/sofa/two_seat",
+    "布艺双人沙发，米色坐垫+深色木框"
+  ],
+  "procedural_hash": "4748000fb8820eabcf78a331d5d785b8031dcc4824de08dfa34eb20f57b3451c",
+  "geometry_sha256": "e20ab5927415213c474e4ea11ac97dd00e44e1bb1da107a959eaf9d348bbb187",
+  "public_prefab": true,
+  "provider": "Kirill Sannikov",
+  "observation_description": "布艺双人沙发，米色坐垫+深色木框",
+  "requested_dimensions_m": [
+    1.571,
+    0.658,
+    0.796
+  ],
+  "prototype_key": "ph_sofa_01",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_66b9aaa2cf66f679548a6d4b/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "sofa",
+    "couch",
+    "沙发",
+    "Sofa_01",
+    "furniture/sofa/two_seat",
+    "布艺双人沙发，米色坐垫+深色木框"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_sofa_01",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/two_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "Sofa_01",
+      "furniture/sofa/two_seat",
+      "布艺双人沙发，米色坐垫+深色木框"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      1.571,
+      0.658,
+      0.796
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sofa_01/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/Sofa_01/Sofa_01_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sofa_01.usd",
+      "raw_sha256": "d165da153ba7ef6fd87752336f78427a91b82316a94524038138714c32a42f1f",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sofa_01 sofa 布艺双人沙发，米色坐垫+深色木框 sofa couch 沙发 Sofa_01 furniture/sofa/two_seat 布艺双人沙发，米色坐垫+深色木框 Sofa_01 furniture/sofa/two_seat 布艺双人沙发，米色坐垫+深色木框",
+    "intake": "existing_external"
+  }
+}

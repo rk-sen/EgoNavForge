@@ -1,0 +1,126 @@
+{
+  "asset_id": "AT_3bf7c0df46e364b1860cdd04",
+  "query_id": "ph_desk_sitting",
+  "semantic": "desk",
+  "dimensions_m": [
+    2.75,
+    1.369,
+    0.953
+  ],
+  "description": "单人坐姿电脑桌",
+  "material": {
+    "color": [
+      0.5171,
+      0.4278,
+      0.3844
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "computer_desk",
+    "single",
+    "办公桌",
+    "desk",
+    "computer_desk",
+    "single"
+  ],
+  "procedural_hash": "32ca399485cd2046c8f7962b71e432859784d3fe0a5bb69d83d2a999af4d7ecf",
+  "geometry_sha256": "3ea1c31c49c08531cdf77ecfe73f9e53a74713775797538c6a4741312c073a16",
+  "public_prefab": true,
+  "provider": "psandis/office-3d-exp",
+  "observation_description": "单人坐姿电脑桌",
+  "requested_dimensions_m": [
+    2.75,
+    1.369,
+    0.953
+  ],
+  "prototype_key": "ph_desk_sitting",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_3bf7c0df46e364b1860cdd04/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "computer_desk",
+    "single"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_desk_sitting",
+    "semantic": "desk",
+    "category_path": "furniture/desk/computer_desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "computer_desk",
+      "single"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.75,
+      1.369,
+      0.953
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_desk_sitting/front.jpg",
+    "provenance": {
+      "url": "https://github.com/psandis/office-3d-exp/blob/main/public/models/sitting-desk.glb",
+      "author": "psandis/office-3d-exp",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_desk_sitting.glb",
+      "raw_sha256": "c3c85d0a0848030df3e6a5aa810066fcd8329e719726d1dbef14c9a33cef9717",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_desk_sitting desk 单人坐姿电脑桌 desk workstation 办公桌 工位 computer_desk single 办公桌 desk computer_desk single",
+    "intake": "existing_external"
+  }
+}

@@ -54,19 +54,17 @@ pipeline:
         write_md: true
         fps: 15.0
         # pack follows loader; search_object / ann_path from dataset
-      # Optional scene twin (indoor_twin_agent v37). Off by default; enable in dataset YAML
-      # and set api_key_env / api_base (OpenAI-compatible VLM). Needs Blender + person asset.
+      # Optional scene twin (asset-library agent). Off by default.
+      # Point cloud is forwarded only when Pi3 wrote a PLY and use_pointcloud is true.
       - type: IndoorTwinScene
         enabled: false
         image_key: forward_img
         calib_camera: bleft
-        export_pointcloud: true
-        export_usd: true
-        preset: balanced
+        use_pointcloud: true
         model: kimi-k2.6
         api_base: https://ai.zj-computility.com/maas/v1
         api_key_env: zhesuan_API_KEY
         blender: /mnt/luozhaoyi/tools/blender-4.5.14-linux-x64/blender
-        frames: 60
-        res: 384
-        fps: 5
+        scene_type: auto
+        frames: 9
+        samples: 40

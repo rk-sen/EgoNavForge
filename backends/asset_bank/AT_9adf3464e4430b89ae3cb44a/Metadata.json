@@ -1,0 +1,134 @@
+{
+  "asset_id": "AT_9adf3464e4430b89ae3cb44a",
+  "query_id": "fm_pillow_lumbar",
+  "semantic": "pillow",
+  "dimensions_m": [
+    0.601,
+    0.262,
+    0.287
+  ],
+  "description": "单个长方形腰枕，植物刺绣米色织物",
+  "material": {
+    "color": [
+      0.6,
+      0.55,
+      0.44
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "pillow",
+    "抱枕",
+    "腰枕",
+    "单个",
+    "刺绣",
+    "植物",
+    "lumbar",
+    "抱枕",
+    "腰枕",
+    "单个",
+    "刺绣",
+    "植物",
+    "lumbar",
+    "pillow"
+  ],
+  "procedural_hash": "7aaed4103a0227a566b2f04fb80a7c5579d11ce935c0934d8e87ea60ed24490a",
+  "geometry_sha256": "a11b74df818ccde16d49f46377b0ed4c6f030f0bfff631dc838a58927f7813ba",
+  "public_prefab": true,
+  "provider": "FurniMesh",
+  "observation_description": "单个长方形腰枕，植物刺绣米色织物",
+  "requested_dimensions_m": [
+    0.601,
+    0.262,
+    0.287
+  ],
+  "prototype_key": "fm_pillow_lumbar",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_9adf3464e4430b89ae3cb44a/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "pillow",
+    "抱枕",
+    "腰枕",
+    "单个",
+    "刺绣",
+    "植物",
+    "lumbar"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "floor_toy",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "fm_pillow_lumbar",
+    "semantic": "pillow",
+    "category_path": "furniture/pillow/decorative",
+    "aliases": [
+      "pillow",
+      "抱枕",
+      "腰枕",
+      "单个",
+      "刺绣",
+      "植物",
+      "lumbar"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.601,
+      0.262,
+      0.287
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_pillow_lumbar/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/decor/pillow/a-rectangular-lumbar-pillow-with-an-embroidered-7feyih/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_pillow_lumbar.glb",
+      "raw_sha256": "164da7107ebdca308d7e6ee50ff8da39db7ce43d7a0084bd0dca20b3d4a91beb",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_pillow_lumbar pillow 单个长方形腰枕，植物刺绣米色织物 pillow 抱枕 腰枕 单个 刺绣 植物 lumbar 抱枕 腰枕 单个 刺绣 植物 lumbar pillow",
+    "intake": "existing_external"
+  }
+}

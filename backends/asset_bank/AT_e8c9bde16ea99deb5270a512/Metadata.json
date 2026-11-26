@@ -1,0 +1,142 @@
+{
+  "asset_id": "AT_e8c9bde16ea99deb5270a512",
+  "query_id": "fm_sofa_rounded_beige",
+  "semantic": "sofa",
+  "dimensions_m": [
+    2.208,
+    1.085,
+    0.771
+  ],
+  "description": "现代极简米灰色低矮三人沙发，圆角扶手与宽坐深",
+  "material": {
+    "color": [
+      0.62,
+      0.58,
+      0.5
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "sofa",
+    "couch",
+    "沙发",
+    "现代沙发",
+    "极简",
+    "米灰",
+    "三人",
+    "rounded",
+    "minimalist",
+    "现代沙发",
+    "极简",
+    "米灰",
+    "三人",
+    "rounded",
+    "minimalist",
+    "sofa"
+  ],
+  "procedural_hash": "822a988627b59c9a67b5359e7ed39a7e10659906d219a1658bcbe3dbfbc53ff7",
+  "geometry_sha256": "bee32ffc55e8f2e9dcc95a5d6e48d85947fb51da1b17b6b67b5b8f890d9e464e",
+  "public_prefab": true,
+  "provider": "FurniMesh",
+  "observation_description": "现代极简米灰色低矮三人沙发，圆角扶手与宽坐深",
+  "requested_dimensions_m": [
+    2.208,
+    1.085,
+    0.771
+  ],
+  "prototype_key": "fm_sofa_rounded_beige",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_e8c9bde16ea99deb5270a512/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "sofa",
+    "couch",
+    "沙发",
+    "现代沙发",
+    "极简",
+    "米灰",
+    "三人",
+    "rounded",
+    "minimalist"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "fm_sofa_rounded_beige",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/three_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "现代沙发",
+      "极简",
+      "米灰",
+      "三人",
+      "rounded",
+      "minimalist"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.208,
+      1.085,
+      0.771
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_sofa_rounded_beige/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/sofas/sofa/a-modern-lowprofile-sofa-with-rounded-edges-i24drg/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_sofa_rounded_beige.glb",
+      "raw_sha256": "c01917fd13c30f2c2e002d402877f67088ee65d22729617e90648055e6e32b38",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_sofa_rounded_beige sofa 现代极简米灰色低矮三人沙发，圆角扶手与宽坐深 sofa couch 沙发 现代沙发 极简 米灰 三人 rounded minimalist 现代沙发 极简 米灰 三人 rounded minimalist sofa",
+    "intake": "existing_external"
+  }
+}

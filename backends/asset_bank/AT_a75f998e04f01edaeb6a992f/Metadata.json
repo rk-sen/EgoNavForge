@@ -1,0 +1,122 @@
+{
+  "asset_id": "AT_a75f998e04f01edaeb6a992f",
+  "query_id": "ph_drawer_vintage",
+  "semantic": "cabinet",
+  "dimensions_m": [
+    1.715,
+    1.007,
+    1.091
+  ],
+  "description": "复古木质抽屉柜",
+  "material": {
+    "color": [
+      0.8,
+      0.8,
+      0.8
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "cabinet",
+    "vintage_wooden_drawer_01",
+    "storage/cabinet/drawer",
+    "复古木质抽屉柜",
+    "vintage_wooden_drawer_01",
+    "storage/cabinet/drawer",
+    "复古木质抽屉柜"
+  ],
+  "procedural_hash": "e0d381cde2db79d230d68b3d5f0a57ad4bc6d68e4911a86458e0da0acc5b2438",
+  "geometry_sha256": "beb5918208f6788c780858cdb96fde6b57454e844d2fd5913b0e78e394ad2be6",
+  "public_prefab": true,
+  "provider": "James Ray Cock",
+  "observation_description": "复古木质抽屉柜",
+  "requested_dimensions_m": [
+    1.715,
+    1.007,
+    1.091
+  ],
+  "prototype_key": "ph_drawer_vintage",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_a75f998e04f01edaeb6a992f/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "cabinet",
+    "vintage_wooden_drawer_01",
+    "storage/cabinet/drawer",
+    "复古木质抽屉柜"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_drawer_vintage",
+    "semantic": "cabinet",
+    "category_path": "storage/cabinet/drawer",
+    "aliases": [
+      "cabinet",
+      "vintage_wooden_drawer_01",
+      "storage/cabinet/drawer",
+      "复古木质抽屉柜"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.715,
+      1.007,
+      1.091
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "vintage_wooden_drawer_01",
+      "storage/cabinet/drawer"
+    ],
+    "thumbnail": "thumbs/ph_drawer_vintage/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/vintage_wooden_drawer_01/vintage_wooden_drawer_01_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_drawer_vintage.usd",
+      "raw_sha256": "7e44de9d6b1bee5b909a581094186c61f21801d9b1c42ae085bed4377c7eeb78",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_drawer_vintage cabinet 复古木质抽屉柜 cabinet vintage_wooden_drawer_01 storage/cabinet/drawer 复古木质抽屉柜 vintage_wooden_drawer_01 storage/cabinet/drawer 复古木质抽屉柜",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,1938 @@
+[
+  {
+    "asset_id": "computer_aio",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.1257,
+      -0.179,
+      0.0
+    ],
+    "max": [
+      0.1257,
+      0.179,
+      0.2515
+    ],
+    "size_m": [
+      0.2515,
+      0.3579,
+      0.2515
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "computer_desktop",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.4949,
+      -0.4039,
+      0.0
+    ],
+    "max": [
+      0.4949,
+      0.4039,
+      0.7724
+    ],
+    "size_m": [
+      0.9898,
+      0.8078,
+      0.7724
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "fm_door_office_white",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.4907,
+      -0.0985,
+      0.0
+    ],
+    "max": [
+      0.4907,
+      0.0985,
+      2.0583
+    ],
+    "size_m": [
+      0.9814,
+      0.197,
+      2.0583
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "fm_pillow_lumbar",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.3005,
+      -0.1308,
+      0.0
+    ],
+    "max": [
+      0.3005,
+      0.1308,
+      0.2866
+    ],
+    "size_m": [
+      0.601,
+      0.2616,
+      0.2866
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "fm_plant_fiddle_leaf",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.45,
+      -0.4244,
+      0.0
+    ],
+    "max": [
+      0.45,
+      0.4244,
+      1.7023
+    ],
+    "size_m": [
+      0.8999,
+      0.8487,
+      1.7023
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "fm_sofa_minimal_cream",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.0971,
+      -0.4706,
+      0.0
+    ],
+    "max": [
+      1.0971,
+      0.4706,
+      0.752
+    ],
+    "size_m": [
+      2.1942,
+      0.9412,
+      0.752
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "fm_sofa_rounded_beige",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.1042,
+      -0.5427,
+      0.0
+    ],
+    "max": [
+      1.1042,
+      0.5427,
+      0.7706
+    ],
+    "size_m": [
+      2.2085,
+      1.0855,
+      0.7706
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "fm_sofa_rounded_light",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.1527,
+      -0.6539,
+      0.0
+    ],
+    "max": [
+      1.1527,
+      0.6539,
+      0.7778
+    ],
+    "size_m": [
+      2.3053,
+      1.3077,
+      0.7778
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "keyboard_mechanical",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.5276,
+      -0.2,
+      0.0
+    ],
+    "max": [
+      0.5276,
+      0.2,
+      0.0327
+    ],
+    "size_m": [
+      1.0553,
+      0.4,
+      0.0327
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "lamp_desk",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.1754,
+      -0.1754,
+      0.0
+    ],
+    "max": [
+      0.1754,
+      0.1754,
+      0.7632
+    ],
+    "size_m": [
+      0.3507,
+      0.3507,
+      0.7632
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "mouse_wireless",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.0554,
+      -0.029,
+      0.0
+    ],
+    "max": [
+      0.0554,
+      0.029,
+      0.024
+    ],
+    "size_m": [
+      0.1108,
+      0.0579,
+      0.024
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "office_chair_gas_compact",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.43,
+      -0.4,
+      0.0
+    ],
+    "max": [
+      0.43,
+      0.4,
+      1.3275
+    ],
+    "size_m": [
+      0.86,
+      0.8,
+      1.3275
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "office_chair_gas_lift",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.3174,
+      -0.29,
+      0.0
+    ],
+    "max": [
+      0.3174,
+      0.29,
+      1.07
+    ],
+    "size_m": [
+      0.6349,
+      0.58,
+      1.07
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "office_chair_regular",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.3362,
+      -0.2803,
+      0.0
+    ],
+    "max": [
+      0.3362,
+      0.2803,
+      0.9725
+    ],
+    "size_m": [
+      0.6723,
+      0.5606,
+      0.9725
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "office_chair_task",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.3608,
+      -0.4036,
+      0.0
+    ],
+    "max": [
+      0.3608,
+      0.4036,
+      1.1276
+    ],
+    "size_m": [
+      0.7217,
+      0.8072,
+      1.1276
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "office_desk_adjustable",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.7082,
+      -1.0,
+      0.0
+    ],
+    "max": [
+      0.7082,
+      1.0,
+      0.9416
+    ],
+    "size_m": [
+      1.4164,
+      2.0,
+      0.9416
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "office_desk_rect",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.9112,
+      -0.4233,
+      0.0
+    ],
+    "max": [
+      0.9112,
+      0.4233,
+      0.9225
+    ],
+    "size_m": [
+      1.8223,
+      0.8466,
+      0.9225
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "office_desk_standing",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.0,
+      -0.7082,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.7082,
+      1.729
+    ],
+    "size_m": [
+      2.0,
+      1.4164,
+      1.729
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_armchair_chinese",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.4241,
+      -0.3943,
+      0.0
+    ],
+    "max": [
+      0.4241,
+      0.3943,
+      1.5875
+    ],
+    "size_m": [
+      0.8483,
+      0.7887,
+      1.5875
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_armchair_classic",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.4242,
+      -0.3829,
+      0.0
+    ],
+    "max": [
+      0.4242,
+      0.3829,
+      1.0651
+    ],
+    "size_m": [
+      0.8484,
+      0.7658,
+      1.0651
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_armchair_midcentury",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.5043,
+      -0.5952,
+      0.0
+    ],
+    "max": [
+      0.5043,
+      0.5952,
+      1.1691
+    ],
+    "size_m": [
+      1.0086,
+      1.1903,
+      1.1691
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_armchair_modern",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.4102,
+      -0.4933,
+      0.0
+    ],
+    "max": [
+      0.4102,
+      0.4933,
+      1.0229
+    ],
+    "size_m": [
+      0.8203,
+      0.9866,
+      1.0229
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_ball_american",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2266,
+      -0.1279,
+      0.0
+    ],
+    "max": [
+      0.2266,
+      0.1279,
+      0.2558
+    ],
+    "size_m": [
+      0.4533,
+      0.2558,
+      0.2558
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_ball_baseball",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.037,
+      -0.0377,
+      0.0
+    ],
+    "max": [
+      0.037,
+      0.0377,
+      0.0756
+    ],
+    "size_m": [
+      0.074,
+      0.0754,
+      0.0756
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_ball_football",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2544,
+      -0.1111,
+      0.0
+    ],
+    "max": [
+      0.2544,
+      0.1111,
+      0.2219
+    ],
+    "size_m": [
+      0.5089,
+      0.2222,
+      0.2219
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_bench_painted",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.5825,
+      -0.2483,
+      0.0
+    ],
+    "max": [
+      0.5825,
+      0.2483,
+      0.8893
+    ],
+    "size_m": [
+      1.1649,
+      0.4965,
+      0.8893
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_bench_picnic",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.1205,
+      -1.5112,
+      0.0
+    ],
+    "max": [
+      1.1205,
+      1.5112,
+      0.746
+    ],
+    "size_m": [
+      2.241,
+      3.0223,
+      0.746
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_box_cardboard",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.1935,
+      -0.2579,
+      0.0
+    ],
+    "max": [
+      0.1935,
+      0.2579,
+      0.3418
+    ],
+    "size_m": [
+      0.387,
+      0.5159,
+      0.3418
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_box_cheese",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.1202,
+      -0.0678,
+      0.0
+    ],
+    "max": [
+      0.1202,
+      0.0678,
+      0.0927
+    ],
+    "size_m": [
+      0.2404,
+      0.1356,
+      0.0927
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_box_medical",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2627,
+      -0.1751,
+      0.0
+    ],
+    "max": [
+      0.2627,
+      0.1751,
+      0.0975
+    ],
+    "size_m": [
+      0.5255,
+      0.3502,
+      0.0975
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_cabinet_modern",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.22,
+      -0.26,
+      0.0
+    ],
+    "max": [
+      1.22,
+      0.26,
+      0.6801
+    ],
+    "size_m": [
+      2.44,
+      0.52,
+      0.6801
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_cabinet_painted",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.5973,
+      -0.3083,
+      0.0
+    ],
+    "max": [
+      0.5973,
+      0.3083,
+      1.1819
+    ],
+    "size_m": [
+      1.1947,
+      0.6166,
+      1.1819
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_cabinet_vintage",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.0109,
+      -0.3349,
+      0.0
+    ],
+    "max": [
+      1.0109,
+      0.3349,
+      2.2351
+    ],
+    "size_m": [
+      2.0218,
+      0.6698,
+      2.2351
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_chair_dining",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2168,
+      -0.2882,
+      0.0
+    ],
+    "max": [
+      0.2168,
+      0.2882,
+      0.9734
+    ],
+    "size_m": [
+      0.4336,
+      0.5764,
+      0.9734
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_chair_green",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.3365,
+      -0.3322,
+      0.0
+    ],
+    "max": [
+      0.3365,
+      0.3322,
+      1.0585
+    ],
+    "size_m": [
+      0.6731,
+      0.6644,
+      1.0585
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_chair_plastic",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.3209,
+      -0.3138,
+      0.0
+    ],
+    "max": [
+      0.3209,
+      0.3138,
+      0.8798
+    ],
+    "size_m": [
+      0.6419,
+      0.6276,
+      0.8798
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_chair_wood",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.3441,
+      -0.3292,
+      0.0
+    ],
+    "max": [
+      0.3441,
+      0.3292,
+      2.2735
+    ],
+    "size_m": [
+      0.6882,
+      0.6585,
+      2.2735
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_desk_metal",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.0,
+      -0.4736,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.4736,
+      0.7875
+    ],
+    "size_m": [
+      2.0,
+      0.9472,
+      0.7875
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_desk_school",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.3559,
+      -0.273,
+      0.0
+    ],
+    "max": [
+      0.3559,
+      0.273,
+      0.8826
+    ],
+    "size_m": [
+      0.7118,
+      0.546,
+      0.8826
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_desk_sitting",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.3751,
+      -0.6844,
+      0.0
+    ],
+    "max": [
+      1.3751,
+      0.6844,
+      0.9525
+    ],
+    "size_m": [
+      2.7503,
+      1.3688,
+      0.9525
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_desk_standing2",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.7422,
+      -0.4048,
+      0.0
+    ],
+    "max": [
+      0.7422,
+      0.4048,
+      0.9382
+    ],
+    "size_m": [
+      1.4845,
+      0.8095,
+      0.9382
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_desk_wood",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.8998,
+      -0.3286,
+      0.0
+    ],
+    "max": [
+      0.8998,
+      0.3286,
+      0.5488
+    ],
+    "size_m": [
+      1.7996,
+      0.6572,
+      0.5488
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_deskchair_alt",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.4187,
+      -0.3929,
+      0.0
+    ],
+    "max": [
+      0.4187,
+      0.3929,
+      1.519
+    ],
+    "size_m": [
+      0.8374,
+      0.7857,
+      1.519
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_door_castle",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.0061,
+      -0.1482,
+      0.0
+    ],
+    "max": [
+      1.0061,
+      0.1482,
+      2.9648
+    ],
+    "size_m": [
+      2.0121,
+      0.2963,
+      2.9648
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_door_gate",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.475,
+      -0.0487,
+      0.0
+    ],
+    "max": [
+      1.475,
+      0.0487,
+      2.9287
+    ],
+    "size_m": [
+      2.9501,
+      0.0973,
+      2.9287
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_door_roller",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.54,
+      -0.15,
+      0.0
+    ],
+    "max": [
+      1.54,
+      0.15,
+      2.4
+    ],
+    "size_m": [
+      3.08,
+      0.3001,
+      2.4
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_drawer_cabinet",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.5705,
+      -0.244,
+      0.0
+    ],
+    "max": [
+      0.5705,
+      0.244,
+      1.8813
+    ],
+    "size_m": [
+      1.1411,
+      0.4881,
+      1.8813
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_drawer_vintage",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.8576,
+      -0.5035,
+      0.0
+    ],
+    "max": [
+      0.8576,
+      0.5035,
+      1.0908
+    ],
+    "size_m": [
+      1.7151,
+      1.0069,
+      1.0908
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_keyboard_alt",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.1121,
+      -0.0425,
+      0.0
+    ],
+    "max": [
+      0.1121,
+      0.0425,
+      0.0069
+    ],
+    "size_m": [
+      0.2242,
+      0.085,
+      0.0069
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_lamp_alt",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.1258,
+      -0.2266,
+      0.0
+    ],
+    "max": [
+      0.1258,
+      0.2266,
+      0.5732
+    ],
+    "size_m": [
+      0.2515,
+      0.4532,
+      0.5732
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_lamp_ceiling",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2158,
+      -0.2158,
+      0.0
+    ],
+    "max": [
+      0.2158,
+      0.2158,
+      0.9516
+    ],
+    "size_m": [
+      0.4316,
+      0.4317,
+      0.9516
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_lamp_desk",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2754,
+      -0.1835,
+      0.0
+    ],
+    "max": [
+      0.2754,
+      0.1835,
+      0.7852
+    ],
+    "size_m": [
+      0.5509,
+      0.3669,
+      0.7852
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_lamp_industrial",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2748,
+      -0.2748,
+      0.0
+    ],
+    "max": [
+      0.2748,
+      0.2748,
+      1.3554
+    ],
+    "size_m": [
+      0.5496,
+      0.5496,
+      1.3554
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_laptop_alt",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.132,
+      -0.12,
+      0.0
+    ],
+    "max": [
+      0.132,
+      0.12,
+      0.1618
+    ],
+    "size_m": [
+      0.264,
+      0.2401,
+      0.1618
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_laptop_classic",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.326,
+      -0.243,
+      0.0
+    ],
+    "max": [
+      0.326,
+      0.243,
+      0.5428
+    ],
+    "size_m": [
+      0.6519,
+      0.4859,
+      0.5428
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_monitor_tv",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.3,
+      -0.2354,
+      0.0
+    ],
+    "max": [
+      0.3,
+      0.2354,
+      0.4568
+    ],
+    "size_m": [
+      0.6,
+      0.4708,
+      0.4568
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_mouse_alt",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.0298,
+      -0.0394,
+      0.0
+    ],
+    "max": [
+      0.0298,
+      0.0394,
+      0.0253
+    ],
+    "size_m": [
+      0.0596,
+      0.0787,
+      0.0253
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_partition_barrier",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.7727,
+      -0.3194,
+      0.0
+    ],
+    "max": [
+      0.7727,
+      0.3194,
+      0.831
+    ],
+    "size_m": [
+      1.5454,
+      0.6387,
+      0.831
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_partition_chainlink",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.4201,
+      -0.3761,
+      0.0
+    ],
+    "max": [
+      1.4201,
+      0.3761,
+      0.883
+    ],
+    "size_m": [
+      2.8403,
+      0.7522,
+      0.883
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_pillows_01",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.47,
+      -0.2259,
+      0.0
+    ],
+    "max": [
+      0.47,
+      0.2259,
+      0.4502
+    ],
+    "size_m": [
+      0.9401,
+      0.4519,
+      0.4502
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_plant_01",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2937,
+      -0.3168,
+      0.0
+    ],
+    "max": [
+      0.2937,
+      0.3168,
+      1.3502
+    ],
+    "size_m": [
+      0.5874,
+      0.6336,
+      1.3502
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_plant_02",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.3506,
+      -0.3287,
+      0.0
+    ],
+    "max": [
+      0.3506,
+      0.3287,
+      0.8412
+    ],
+    "size_m": [
+      0.7012,
+      0.6574,
+      0.8412
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_plant_04",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.0851,
+      -0.093,
+      0.0
+    ],
+    "max": [
+      0.0851,
+      0.093,
+      0.2676
+    ],
+    "size_m": [
+      0.1703,
+      0.1859,
+      0.2676
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_shelf_01",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.5017,
+      -0.1285,
+      0.0
+    ],
+    "max": [
+      0.5017,
+      0.1285,
+      2.0803
+    ],
+    "size_m": [
+      1.0034,
+      0.257,
+      2.0803
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_shelf_display",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.5389,
+      -0.1858,
+      0.0
+    ],
+    "max": [
+      0.5389,
+      0.1858,
+      1.5562
+    ],
+    "size_m": [
+      1.0778,
+      0.3715,
+      1.5562
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_shelf_steel",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.5487,
+      -0.2511,
+      0.0
+    ],
+    "max": [
+      0.5487,
+      0.2511,
+      2.1405
+    ],
+    "size_m": [
+      1.0974,
+      0.5021,
+      2.1405
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_sign_chalkboard",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.4598,
+      -0.3794,
+      0.0
+    ],
+    "max": [
+      0.4598,
+      0.3794,
+      1.509
+    ],
+    "size_m": [
+      0.9195,
+      0.7587,
+      1.509
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_sign_wetfloor",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.15,
+      -0.1793,
+      0.0
+    ],
+    "max": [
+      0.15,
+      0.1793,
+      0.6295
+    ],
+    "size_m": [
+      0.3001,
+      0.3585,
+      0.6295
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_sofa_01",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.7857,
+      -0.329,
+      0.0
+    ],
+    "max": [
+      0.7857,
+      0.329,
+      0.7965
+    ],
+    "size_m": [
+      1.5715,
+      0.658,
+      0.7965
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_sofa_02",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.9036,
+      -0.4089,
+      0.0
+    ],
+    "max": [
+      0.9036,
+      0.4089,
+      0.7095
+    ],
+    "size_m": [
+      1.8072,
+      0.8178,
+      0.7095
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_sofa_03",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.3656,
+      -0.4625,
+      0.0
+    ],
+    "max": [
+      1.3656,
+      0.4625,
+      1.1183
+    ],
+    "size_m": [
+      2.7312,
+      0.9251,
+      1.1183
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_sofa_chinese",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.1427,
+      -0.4844,
+      0.0
+    ],
+    "max": [
+      1.1427,
+      0.4844,
+      0.86
+    ],
+    "size_m": [
+      2.2854,
+      0.9689,
+      0.86
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_sofa_painted",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.2259,
+      -0.3937,
+      0.0
+    ],
+    "max": [
+      1.2259,
+      0.3937,
+      1.281
+    ],
+    "size_m": [
+      2.4517,
+      0.7873,
+      1.281
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_stool_bar",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2416,
+      -0.243,
+      0.0
+    ],
+    "max": [
+      0.2416,
+      0.243,
+      0.7505
+    ],
+    "size_m": [
+      0.4832,
+      0.486,
+      0.7505
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_stool_chinese",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2995,
+      -0.2532,
+      0.0
+    ],
+    "max": [
+      0.2995,
+      0.2532,
+      0.6306
+    ],
+    "size_m": [
+      0.599,
+      0.5064,
+      0.6306
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_stool_metal",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.176,
+      -0.1773,
+      0.0
+    ],
+    "max": [
+      0.176,
+      0.1773,
+      0.8828
+    ],
+    "size_m": [
+      0.352,
+      0.3546,
+      0.8828
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_stool_painted",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.1924,
+      -0.203,
+      0.0
+    ],
+    "max": [
+      0.1924,
+      0.203,
+      0.5789
+    ],
+    "size_m": [
+      0.3848,
+      0.4061,
+      0.5789
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_window_01",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -2.55,
+      -0.15,
+      0.0
+    ],
+    "max": [
+      2.55,
+      0.15,
+      1.8507
+    ],
+    "size_m": [
+      5.1,
+      0.3001,
+      1.8507
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_window_02",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.8,
+      -0.084,
+      0.0
+    ],
+    "max": [
+      1.8,
+      0.084,
+      1.5609
+    ],
+    "size_m": [
+      3.6,
+      0.1681,
+      1.5609
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "ph_window_03",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -1.4881,
+      -0.0765,
+      0.0
+    ],
+    "max": [
+      1.4881,
+      0.0765,
+      1.5463
+    ],
+    "size_m": [
+      2.9763,
+      0.1531,
+      1.5463
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "phone_office",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.108,
+      -0.0727,
+      0.0
+    ],
+    "max": [
+      0.108,
+      0.0727,
+      0.1706
+    ],
+    "size_m": [
+      0.2159,
+      0.1455,
+      0.1706
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "printer_copier",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.5048,
+      -0.4077,
+      0.0
+    ],
+    "max": [
+      0.5048,
+      0.4077,
+      1.1253
+    ],
+    "size_m": [
+      1.0097,
+      0.8153,
+      1.1253
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "v39_person_supplied",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.2633,
+      -0.1603,
+      0.0
+    ],
+    "max": [
+      0.2633,
+      0.1603,
+      1.72
+    ],
+    "size_m": [
+      0.5266,
+      0.3205,
+      1.72
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "teddy_bear_grab3d",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.1097,
+      -0.1121,
+      0.0
+    ],
+    "max": [
+      0.1097,
+      0.1121,
+      0.3217
+    ],
+    "size_m": [
+      0.2195,
+      0.2242,
+      0.3217
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "toy_building_bricks",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.1139,
+      -0.1458,
+      0.0
+    ],
+    "max": [
+      0.1139,
+      0.1458,
+      0.1429
+    ],
+    "size_m": [
+      0.2278,
+      0.2917,
+      0.1429
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "office_desk_grab3d",
+    "ok": true,
+    "meshes": 2,
+    "min": [
+      -0.8,
+      -0.4022,
+      0.0
+    ],
+    "max": [
+      0.8,
+      0.4022,
+      0.74
+    ],
+    "size_m": [
+      1.6,
+      0.8045,
+      0.74
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "standing_desk_grab3d",
+    "ok": true,
+    "meshes": 1,
+    "min": [
+      -0.7,
+      -0.3758,
+      0.0
+    ],
+    "max": [
+      0.7,
+      0.3758,
+      1.1
+    ],
+    "size_m": [
+      1.4,
+      0.7517,
+      1.1
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  },
+  {
+    "asset_id": "office_desk_white_a_frame",
+    "ok": true,
+    "meshes": 4,
+    "min": [
+      -0.9,
+      -0.3999,
+      0.0
+    ],
+    "max": [
+      0.9,
+      0.3999,
+      0.735
+    ],
+    "size_m": [
+      1.8,
+      0.7999,
+      0.735
+    ],
+    "usd_exists": true,
+    "thumb_exists": true
+  }
+]

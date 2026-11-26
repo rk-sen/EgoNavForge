@@ -1,0 +1,130 @@
+{
+  "asset_id": "AT_b8cf0a03876d1301dbd7a0d8",
+  "query_id": "ph_shelf_steel",
+  "semantic": "shelf",
+  "dimensions_m": [
+    1.097,
+    0.502,
+    2.14
+  ],
+  "description": "工业钢架置物架",
+  "material": {
+    "color": [
+      0.5764,
+      0.447,
+      0.3125
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "shelf",
+    "shelving",
+    "置物架",
+    "货架",
+    "steel_frame_shelves_01",
+    "storage/shelf/steel",
+    "工业钢架置物架",
+    "steel_frame_shelves_01",
+    "storage/shelf/steel",
+    "工业钢架置物架"
+  ],
+  "procedural_hash": "14f5f7fcbc09a122e18643ee59655a3582264e2d1e98190c324363655e3cd950",
+  "geometry_sha256": "602f1148a255cc17e63e84e728e34f2e29339d26b49782e89eeb8c96d3110efa",
+  "public_prefab": true,
+  "provider": "James Ray Cock",
+  "observation_description": "工业钢架置物架",
+  "requested_dimensions_m": [
+    1.097,
+    0.502,
+    2.14
+  ],
+  "prototype_key": "ph_shelf_steel",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_b8cf0a03876d1301dbd7a0d8/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "shelf",
+    "shelving",
+    "置物架",
+    "货架",
+    "steel_frame_shelves_01",
+    "storage/shelf/steel",
+    "工业钢架置物架"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_shelf_steel",
+    "semantic": "shelf",
+    "category_path": "storage/shelf/steel",
+    "aliases": [
+      "shelf",
+      "shelving",
+      "置物架",
+      "货架",
+      "steel_frame_shelves_01",
+      "storage/shelf/steel",
+      "工业钢架置物架"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.097,
+      0.502,
+      2.14
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "steel_frame_shelves_01"
+    ],
+    "thumbnail": "thumbs/ph_shelf_steel/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/steel_frame_shelves_01/steel_frame_shelves_01_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_shelf_steel.usd",
+      "raw_sha256": "26b8e9fe489992c42517a5b85c09f5b318d9383d4c50f3ac1bafa94600c25bfe",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_shelf_steel shelf 工业钢架置物架 shelf shelving 置物架 货架 steel_frame_shelves_01 storage/shelf/steel 工业钢架置物架 steel_frame_shelves_01 storage/shelf/steel 工业钢架置物架",
+    "intake": "existing_external"
+  }
+}

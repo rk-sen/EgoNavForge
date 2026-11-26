@@ -1,0 +1,149 @@
+{
+  "asset_id": "AT_a07cff0e2ad16b82161e11ae",
+  "query_id": "office_desk_grab3d",
+  "semantic": "desk",
+  "dimensions_m": [
+    1.6,
+    0.8045,
+    0.74
+  ],
+  "description": "蜂蜜色木纹台面、炭灰色雪橇腿的办公电脑桌，带薄荷色抽屉和理线槽",
+  "material": {
+    "color": [
+      0.55,
+      0.36,
+      0.18
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "office desk",
+    "computer desk",
+    "wood",
+    "honey wood",
+    "drawer",
+    "电脑桌",
+    "工位桌",
+    "office desk",
+    "computer desk",
+    "workstation",
+    "wood",
+    "honey wood",
+    "drawer",
+    "办公桌",
+    "电脑桌",
+    "工位桌"
+  ],
+  "procedural_hash": "139341cb92ca241aa5bce3f9f55fc2a0c8b753895fef2eb5280fc507f8667434",
+  "geometry_sha256": "4d20ccd7cc81fd2cc49c0d9c386d0b55318ee1247c27073ba6fd5018293c9655",
+  "public_prefab": true,
+  "provider": "Grab3D",
+  "observation_description": "蜂蜜色木纹台面、炭灰色雪橇腿的办公电脑桌，带薄荷色抽屉和理线槽",
+  "requested_dimensions_m": [
+    1.6,
+    0.8045,
+    0.74
+  ],
+  "prototype_key": "office_desk_grab3d",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_a07cff0e2ad16b82161e11ae/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "office desk",
+    "computer desk",
+    "wood",
+    "honey wood",
+    "drawer",
+    "电脑桌",
+    "工位桌"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "office_desk_grab3d",
+    "semantic": "desk",
+    "category_path": "furniture/desk/office_desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "office desk",
+      "computer desk",
+      "wood",
+      "honey wood",
+      "drawer",
+      "电脑桌",
+      "工位桌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.6,
+      0.8045,
+      0.74
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "drawer"
+    ],
+    "thumbnail": "thumbs/office_desk_grab3d/front.jpg",
+    "provenance": {
+      "url": "https://grab3d.com/dl/office-desk/office-desk.glb",
+      "page_url": "https://grab3d.com/models/furniture/office-desk/",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "raw_file": "office-desk.glb",
+      "raw_sha256": "a5b41664cd32c0f66e30681e6516d042f7418ff1ef3f04e736a244f85870ba48",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "office_desk_grab3d desk 蜂蜜色木纹台面、炭灰色雪橇腿的办公电脑桌，带薄荷色抽屉和理线槽 desk workstation 办公桌 工位 office desk computer desk wood honey wood drawer 电脑桌 工位桌 office desk computer desk workstation wood honey wood drawer 办公桌 电脑桌 工位桌",
+    "intake": "explicit_toy_addition"
+  }
+}

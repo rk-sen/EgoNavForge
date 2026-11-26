@@ -1,0 +1,156 @@
+{
+  "asset_id": "AT_e9e0fc6484408bd7a70f8b97",
+  "query_id": "office_desk_white_a_frame",
+  "semantic": "desk",
+  "dimensions_m": [
+    1.8,
+    0.7999,
+    0.735
+  ],
+  "description": "白色层压板台面、浅灰 A 型钢腿的 1.8 m 办公电脑桌，带后部理线槽和挡板",
+  "material": {
+    "color": [
+      0.84,
+      0.84,
+      0.82
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "white desk",
+    "computer desk",
+    "A-frame",
+    "office desk",
+    "metal legs",
+    "laminate",
+    "白色办公桌",
+    "电脑桌",
+    "A型桌腿",
+    "white desk",
+    "computer desk",
+    "A-frame",
+    "office desk",
+    "metal legs",
+    "laminate",
+    "白色办公桌",
+    "电脑桌",
+    "A型桌腿"
+  ],
+  "procedural_hash": "3b5f3ae6313b343359e50c36278117bd5e5f5f4c1a42dd54ece3053a99cb5987",
+  "geometry_sha256": "eb2a3071f0ffe06ea97c282d575698c7aa610a94228f38fa40112925fa4a262e",
+  "public_prefab": true,
+  "provider": "3D Assets",
+  "observation_description": "白色层压板台面、浅灰 A 型钢腿的 1.8 m 办公电脑桌，带后部理线槽和挡板",
+  "requested_dimensions_m": [
+    1.8,
+    0.7999,
+    0.735
+  ],
+  "prototype_key": "office_desk_white_a_frame",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_e9e0fc6484408bd7a70f8b97/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "white desk",
+    "computer desk",
+    "A-frame",
+    "office desk",
+    "metal legs",
+    "laminate",
+    "白色办公桌",
+    "电脑桌",
+    "A型桌腿"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "office_desk_white_a_frame",
+    "semantic": "desk",
+    "category_path": "furniture/desk/office_desk",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "white desk",
+      "computer desk",
+      "A-frame",
+      "office desk",
+      "metal legs",
+      "laminate",
+      "白色办公桌",
+      "电脑桌",
+      "A型桌腿"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.8,
+      0.7999,
+      0.735
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "A-frame",
+      "metal legs"
+    ],
+    "thumbnail": "thumbs/office_desk_white_a_frame/front.jpg",
+    "provenance": {
+      "url": "https://cdn.3dassets.dev/assets/16968/v1/model.glb",
+      "page_url": "https://3dassets.dev/assets/downtown-office-interiors-desk-1800-a-frame-d1e4ccc7",
+      "author": "3D Assets",
+      "license": "CC0-1.0",
+      "raw_file": "office-desk-a-frame.glb",
+      "raw_sha256": "55026b164564173c0ab1697f2b427db1cda71f7eda9c9fff716265a8ec3a572e",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "office_desk_white_a_frame desk 白色层压板台面、浅灰 A 型钢腿的 1.8 m 办公电脑桌，带后部理线槽和挡板 desk workstation 办公桌 工位 white desk computer desk A-frame office desk metal legs laminate 白色办公桌 电脑桌 A型桌腿 white desk computer desk A-frame office desk metal legs laminate 白色办公桌 电脑桌 A型桌腿",
+    "intake": "existing_external"
+  }
+}

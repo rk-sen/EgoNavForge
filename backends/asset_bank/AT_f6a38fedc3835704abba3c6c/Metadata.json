@@ -1,0 +1,123 @@
+{
+  "asset_id": "AT_f6a38fedc3835704abba3c6c",
+  "query_id": "ph_ball_american",
+  "semantic": "ball",
+  "dimensions_m": [
+    0.453,
+    0.256,
+    0.256
+  ],
+  "description": "美式橄榄球",
+  "material": {
+    "color": [
+      0.2126,
+      0.1292,
+      0.1219
+    ],
+    "texture": "rubber",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "ball",
+    "american_football",
+    "sports/ball/american_football",
+    "美式橄榄球",
+    "american_football",
+    "sports/ball/american_football",
+    "美式橄榄球"
+  ],
+  "procedural_hash": "935f3355ee8046ea2d4b1ef8b60b0328e315e9ebbdfe5549e644c583d5785113",
+  "geometry_sha256": "1b7bc0b9b41f65da642efaf7b495b3e7bc565fe5104fd5131ed339780544cc7c",
+  "public_prefab": true,
+  "provider": "Riley Queen",
+  "observation_description": "美式橄榄球",
+  "requested_dimensions_m": [
+    0.453,
+    0.256,
+    0.256
+  ],
+  "prototype_key": "ph_ball_american",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_f6a38fedc3835704abba3c6c/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "ball",
+    "american_football",
+    "sports/ball/american_football",
+    "美式橄榄球"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "floor_toy",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "rubber_or_plastic",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_ball_american",
+    "semantic": "ball",
+    "category_path": "sports/ball/american_football",
+    "aliases": [
+      "ball",
+      "american_football",
+      "sports/ball/american_football",
+      "美式橄榄球"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "rubber_or_plastic",
+    "dimensions_m": [
+      0.453,
+      0.256,
+      0.256
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_ball_american/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/american_football/american_football_1k.usdc",
+      "author": "Riley Queen",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_ball_american.usd",
+      "raw_sha256": "c76e0fab890cde48e5febfede5023c4578f092e157e33b9aeb3c62b6b1dbd275",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_ball_american ball 美式橄榄球 ball american_football sports/ball/american_football 美式橄榄球 american_football sports/ball/american_football 美式橄榄球",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "asset_id": "AT_75169569e5432344b4aafd1d",
+  "query_id": "ph_bench_picnic",
+  "semantic": "bench",
+  "dimensions_m": [
+    2.241,
+    3.022,
+    0.746
+  ],
+  "description": "木质野餐桌凳组合",
+  "material": {
+    "color": [
+      0.1413,
+      0.0807,
+      0.0452
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "bench",
+    "wooden_picnic_table",
+    "furniture/bench/picnic",
+    "木质野餐桌凳组合",
+    "wooden_picnic_table",
+    "furniture/bench/picnic",
+    "木质野餐桌凳组合"
+  ],
+  "procedural_hash": "85c3c4b2fb87e239a5aef14980fc4de37406647524d38e47ff6582812a0163a6",
+  "geometry_sha256": "bfc5dc448282215e581de77a2b23ba9c2ae6857a27e8ada28c400ac90b57ce35",
+  "public_prefab": true,
+  "provider": "Ulan Cabanilla",
+  "observation_description": "木质野餐桌凳组合",
+  "requested_dimensions_m": [
+    2.241,
+    3.022,
+    0.746
+  ],
+  "prototype_key": "ph_bench_picnic",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_75169569e5432344b4aafd1d/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "bench",
+    "wooden_picnic_table",
+    "furniture/bench/picnic",
+    "木质野餐桌凳组合"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_bench_picnic",
+    "semantic": "bench",
+    "category_path": "furniture/bench/picnic",
+    "aliases": [
+      "bench",
+      "wooden_picnic_table",
+      "furniture/bench/picnic",
+      "木质野餐桌凳组合"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.241,
+      3.022,
+      0.746
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_bench_picnic/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/wooden_picnic_table/wooden_picnic_table_1k.usdc",
+      "author": "Ulan Cabanilla",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_bench_picnic.usd",
+      "raw_sha256": "bc23fff445caf9f82a2286ee7e9a6b758e11fa9282b73beb12bd0b7772497db6",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_bench_picnic bench 木质野餐桌凳组合 bench wooden_picnic_table furniture/bench/picnic 木质野餐桌凳组合 wooden_picnic_table furniture/bench/picnic 木质野餐桌凳组合",
+    "intake": "existing_external"
+  }
+}

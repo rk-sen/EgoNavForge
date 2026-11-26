@@ -1,0 +1,121 @@
+{
+  "asset_id": "AT_ce1c396461d3756317f39375",
+  "query_id": "ph_stool_chinese",
+  "semantic": "stool",
+  "dimensions_m": [
+    0.599,
+    0.506,
+    0.631
+  ],
+  "description": "中国传统方凳",
+  "material": {
+    "color": [
+      0.2577,
+      0.1832,
+      0.1452
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "stool",
+    "chinese_stool",
+    "furniture/stool/chinese",
+    "中国传统方凳",
+    "chinese_stool",
+    "furniture/stool/chinese",
+    "中国传统方凳"
+  ],
+  "procedural_hash": "f2fbb6d2dc9987f77470b394969bb4e8d0a4b1cd333bedecd106e4f0580fd17a",
+  "geometry_sha256": "2a06f49d0d16ab2d348c3b91e49b9491cf1d7f880eaa36f0ad19b000e5ca6b3a",
+  "public_prefab": true,
+  "provider": "Kirill Sannikov",
+  "observation_description": "中国传统方凳",
+  "requested_dimensions_m": [
+    0.599,
+    0.506,
+    0.631
+  ],
+  "prototype_key": "ph_stool_chinese",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_ce1c396461d3756317f39375/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "stool",
+    "chinese_stool",
+    "furniture/stool/chinese",
+    "中国传统方凳"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_stool_chinese",
+    "semantic": "stool",
+    "category_path": "furniture/stool/chinese",
+    "aliases": [
+      "stool",
+      "chinese_stool",
+      "furniture/stool/chinese",
+      "中国传统方凳"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.599,
+      0.506,
+      0.631
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_stool_chinese/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/chinese_stool/chinese_stool_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_stool_chinese.usd",
+      "raw_sha256": "760f0b9d107060e04b6c07db1b9c88bc6a97ae569ccc41e40274e0762d1e0024",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_stool_chinese stool 中国传统方凳 stool chinese_stool furniture/stool/chinese 中国传统方凳 chinese_stool furniture/stool/chinese 中国传统方凳",
+    "intake": "existing_external"
+  }
+}

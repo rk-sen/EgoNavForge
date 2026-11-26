@@ -1,0 +1,126 @@
+{
+  "asset_id": "AT_23ba2d7f8d325ae289cf5570",
+  "query_id": "mouse_wireless",
+  "semantic": "mouse",
+  "dimensions_m": [
+    0.111,
+    0.058,
+    0.024
+  ],
+  "description": "白色无线鼠标",
+  "material": {
+    "color": [
+      0.57,
+      0.57,
+      0.57
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "mouse",
+    "鼠标",
+    "wireless",
+    "white",
+    "peripheral",
+    "鼠标",
+    "mouse",
+    "wireless",
+    "white",
+    "peripheral"
+  ],
+  "procedural_hash": "a4e9237f67f31b6ee2324709ba07cbc3123b57a1fbf28031ebbb01de225481f3",
+  "geometry_sha256": "4a3cc0ef57cdf14aeb23a46613d153c564f0da8ea662e4ea93d05f2df10e3f83",
+  "public_prefab": true,
+  "provider": "fthuggy/aframeproject",
+  "observation_description": "白色无线鼠标",
+  "requested_dimensions_m": [
+    0.111,
+    0.058,
+    0.024
+  ],
+  "prototype_key": "mouse_wireless",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_23ba2d7f8d325ae289cf5570/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "mouse",
+    "鼠标",
+    "wireless",
+    "white",
+    "peripheral"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "mouse_wireless",
+    "semantic": "mouse",
+    "category_path": "electronics/input/mouse",
+    "aliases": [
+      "mouse",
+      "鼠标",
+      "wireless",
+      "white",
+      "peripheral"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.111,
+      0.058,
+      0.024
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/mouse_wireless/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/fthuggy/aframeproject/main/assets/mouse.glb",
+      "author": "fthuggy/aframeproject",
+      "license": "UNVERIFIED",
+      "raw_file": "mouse_wireless.glb",
+      "raw_sha256": "655208cae69baa23a5ecb1c48314055b6fc8ad35bed2839080c2e2530efc9fda",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "mouse_wireless mouse 白色无线鼠标 mouse 鼠标 wireless white peripheral 鼠标 mouse wireless white peripheral",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "asset_id": "AT_3ce7158d485bd286bee9c20b",
+  "query_id": "office_chair_task",
+  "semantic": "chair",
+  "dimensions_m": [
+    0.722,
+    0.807,
+    1.128
+  ],
+  "description": "蓝色网布高背办公转椅，五星脚",
+  "material": {
+    "color": [
+      0.2804,
+      0.2804,
+      0.2804
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "office_chair",
+    "mesh",
+    "swivel",
+    "five_star_base",
+    "办公椅",
+    "office_chair",
+    "mesh",
+    "swivel",
+    "five_star_base"
+  ],
+  "procedural_hash": "655249c33f828c100ed6b05e05a46f9bb1f2843f15aa8ab7b4f8b47c58a54589",
+  "geometry_sha256": "221208c1cf0f4974f0e31e4bff716294a942dc707a467658b5c07c19f1e7bde2",
+  "public_prefab": true,
+  "provider": "ivoirh/dp-sm-vr",
+  "observation_description": "蓝色网布高背办公转椅，五星脚",
+  "requested_dimensions_m": [
+    0.722,
+    0.807,
+    1.128
+  ],
+  "prototype_key": "office_chair_task",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_3ce7158d485bd286bee9c20b/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "office_chair",
+    "mesh",
+    "swivel",
+    "five_star_base"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "office_chair_task",
+    "semantic": "chair",
+    "category_path": "furniture/chair/office_chair",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "office_chair",
+      "mesh",
+      "swivel",
+      "five_star_base"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.722,
+      0.807,
+      1.128
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/office_chair_task/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Office%20Chair.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_chair_task.glb",
+      "raw_sha256": "0f1a9180dbe0dc4116fa17b9b03e6002f75110e2a0f4ed0ff20a40b384240a76",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_chair_task chair 蓝色网布高背办公转椅，五星脚 chair office chair 椅子 办公椅 office_chair mesh swivel five_star_base 办公椅 office_chair mesh swivel five_star_base",
+    "intake": "existing_external"
+  }
+}

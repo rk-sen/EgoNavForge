@@ -1,0 +1,119 @@
+{
+  "asset_id": "AT_edbe91919d19e15698666872",
+  "query_id": "ph_sign_wetfloor",
+  "semantic": "sign",
+  "dimensions_m": [
+    0.3,
+    0.359,
+    0.629
+  ],
+  "description": "小心地滑警示牌",
+  "material": {
+    "color": [
+      0.8032,
+      0.7448,
+      0.1875
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "sign",
+    "WetFloorSign_01",
+    "signage/safety/wet_floor",
+    "小心地滑警示牌",
+    "WetFloorSign_01",
+    "signage/safety/wet_floor",
+    "小心地滑警示牌"
+  ],
+  "procedural_hash": "39a142d318e1d7c8cb4fd00d7a3f9da6a7b28e344e019b05c3175f0477aef549",
+  "geometry_sha256": "c48312cfc267a37b41d64b3bde23ee3b0a2c8b64d0caf7e3abdcc40ed22c5057",
+  "public_prefab": true,
+  "provider": "Fran Calvente",
+  "observation_description": "小心地滑警示牌",
+  "requested_dimensions_m": [
+    0.3,
+    0.359,
+    0.629
+  ],
+  "prototype_key": "ph_sign_wetfloor",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_edbe91919d19e15698666872/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "sign",
+    "WetFloorSign_01",
+    "signage/safety/wet_floor",
+    "小心地滑警示牌"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "industrial",
+    "large"
+  ],
+  "spatial_roles": [
+    "wall",
+    "architecture"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_sign_wetfloor",
+    "semantic": "sign",
+    "category_path": "signage/safety/wet_floor",
+    "aliases": [
+      "sign",
+      "WetFloorSign_01",
+      "signage/safety/wet_floor",
+      "小心地滑警示牌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "industrial",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.3,
+      0.359,
+      0.629
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sign_wetfloor/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/WetFloorSign_01/WetFloorSign_01_1k.usdc",
+      "author": "Fran Calvente",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sign_wetfloor.usd",
+      "raw_sha256": "7e3db2a9741ba65be360481e082f3a3568443cb2724e606dd6f6e9016339d4b4",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sign_wetfloor sign 小心地滑警示牌 sign WetFloorSign_01 signage/safety/wet_floor 小心地滑警示牌 WetFloorSign_01 signage/safety/wet_floor 小心地滑警示牌",
+    "intake": "existing_external"
+  }
+}

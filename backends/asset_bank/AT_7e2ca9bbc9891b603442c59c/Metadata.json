@@ -1,0 +1,140 @@
+{
+  "asset_id": "AT_7e2ca9bbc9891b603442c59c",
+  "query_id": "office_chair_gas_lift",
+  "semantic": "chair",
+  "dimensions_m": [
+    0.635,
+    0.58,
+    1.07
+  ],
+  "description": "黑色网背气压升降办公椅，带扶手",
+  "material": {
+    "color": [
+      0.1654,
+      0.1672,
+      0.1672
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "气压椅",
+    "gas_lift",
+    "mesh_back",
+    "armrest",
+    "black",
+    "办公椅",
+    "气压椅",
+    "gas_lift",
+    "mesh_back",
+    "armrest",
+    "black"
+  ],
+  "procedural_hash": "2542e54b334c93d0ed3e6233a4fcfcc4c1e0a8a92f15d20dfbfd02eac66b6457",
+  "geometry_sha256": "bc050c7eb812c9b72c1197a3467fc1505ba719d693be939211407a94d8975d7b",
+  "public_prefab": true,
+  "provider": "fthuggy/aframeproject",
+  "observation_description": "黑色网背气压升降办公椅，带扶手",
+  "requested_dimensions_m": [
+    0.635,
+    0.58,
+    1.07
+  ],
+  "prototype_key": "office_chair_gas_lift",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_7e2ca9bbc9891b603442c59c/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "气压椅",
+    "gas_lift",
+    "mesh_back",
+    "armrest",
+    "black"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "office_chair_gas_lift",
+    "semantic": "chair",
+    "category_path": "furniture/chair/gas_lift_chair",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "气压椅",
+      "gas_lift",
+      "mesh_back",
+      "armrest",
+      "black"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.635,
+      0.58,
+      1.07
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "mesh_back",
+      "armrest"
+    ],
+    "thumbnail": "thumbs/office_chair_gas_lift/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/fthuggy/aframeproject/main/assets/computer_chair.glb",
+      "author": "fthuggy/aframeproject",
+      "license": "UNVERIFIED",
+      "raw_file": "office_chair_gas_lift.glb",
+      "raw_sha256": "0cfb3e8d61cb048304a895af2adc7ea1086ea6c4d9917d081c8d78b11bfe2fc1",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_chair_gas_lift chair 黑色网背气压升降办公椅，带扶手 chair office chair 椅子 办公椅 气压椅 gas_lift mesh_back armrest black 办公椅 气压椅 gas_lift mesh_back armrest black",
+    "intake": "existing_external"
+  }
+}

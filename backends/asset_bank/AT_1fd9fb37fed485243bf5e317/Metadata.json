@@ -1,0 +1,136 @@
+{
+  "asset_id": "AT_1fd9fb37fed485243bf5e317",
+  "query_id": "ph_door_castle",
+  "semantic": "door",
+  "dimensions_m": [
+    2.012,
+    0.296,
+    2.965
+  ],
+  "description": "大型木质双开门",
+  "material": {
+    "color": [
+      0.2965,
+      0.2302,
+      0.1818
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "door",
+    "doorway",
+    "门",
+    "门洞",
+    "large_castle_door",
+    "architecture/door/wood",
+    "大型木质双开门",
+    "large_castle_door",
+    "architecture/door/wood",
+    "大型木质双开门"
+  ],
+  "procedural_hash": "a2b1252902d03c27731d585afbf807d22ad0d6c23efc1047c271bbe99df23a69",
+  "geometry_sha256": "6822854ec8af8222692cacd38c20d0175aa295fef6e2049364689ba143a819a0",
+  "public_prefab": true,
+  "provider": "Tina",
+  "observation_description": "大型木质双开门",
+  "requested_dimensions_m": [
+    2.012,
+    0.296,
+    2.965
+  ],
+  "prototype_key": "ph_door_castle",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_1fd9fb37fed485243bf5e317/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "door",
+    "doorway",
+    "门",
+    "门洞",
+    "large_castle_door",
+    "architecture/door/wood",
+    "大型木质双开门"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "living",
+    "large"
+  ],
+  "spatial_roles": [
+    "wall",
+    "architecture"
+  ],
+  "support_capability": false,
+  "material_family": "wood",
+  "negative_roles": [
+    "window",
+    "monitor",
+    "cabinet",
+    "partition"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_door_castle",
+    "semantic": "door",
+    "category_path": "architecture/door/wood",
+    "aliases": [
+      "door",
+      "doorway",
+      "门",
+      "门洞",
+      "large_castle_door",
+      "architecture/door/wood",
+      "大型木质双开门"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "wood",
+    "dimensions_m": [
+      2.012,
+      0.296,
+      2.965
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "window",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_door_castle/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/large_castle_door/large_castle_door_1k.usdc",
+      "author": "Tina",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_door_castle.usd",
+      "raw_sha256": "199c43670a2e971b06690a166163a7aea56e173073ba540fbf451aaf357c7b57",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_door_castle door 大型木质双开门 door doorway 门 门洞 large_castle_door architecture/door/wood 大型木质双开门 large_castle_door architecture/door/wood 大型木质双开门",
+    "intake": "existing_external"
+  }
+}

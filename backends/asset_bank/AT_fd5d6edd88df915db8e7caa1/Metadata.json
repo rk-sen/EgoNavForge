@@ -1,0 +1,128 @@
+{
+  "asset_id": "AT_fd5d6edd88df915db8e7caa1",
+  "query_id": "ph_desk_school",
+  "semantic": "desk",
+  "dimensions_m": [
+    0.712,
+    0.546,
+    0.883
+  ],
+  "description": "学校课桌/工位桌",
+  "material": {
+    "color": [
+      0.3307,
+      0.2911,
+      0.2486
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "SchoolDesk_01",
+    "furniture/desk/school",
+    "学校课桌/工位桌",
+    "SchoolDesk_01",
+    "furniture/desk/school",
+    "学校课桌/工位桌"
+  ],
+  "procedural_hash": "e8c563f51fc36509e74f1800605c05fefdeccdb270b8f5554536aa85ddca98b5",
+  "geometry_sha256": "d64ead1ae8b5c5be09c1cf35777b8b67ff2950908bd77d479701e347a67e4ccc",
+  "public_prefab": true,
+  "provider": "Ethan Place",
+  "observation_description": "学校课桌/工位桌",
+  "requested_dimensions_m": [
+    0.712,
+    0.546,
+    0.883
+  ],
+  "prototype_key": "ph_desk_school",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_fd5d6edd88df915db8e7caa1/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "SchoolDesk_01",
+    "furniture/desk/school",
+    "学校课桌/工位桌"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_desk_school",
+    "semantic": "desk",
+    "category_path": "furniture/desk/school",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "SchoolDesk_01",
+      "furniture/desk/school",
+      "学校课桌/工位桌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.712,
+      0.546,
+      0.883
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_desk_school/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/SchoolDesk_01/SchoolDesk_01_1k.usdc",
+      "author": "Ethan Place",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_desk_school.usd",
+      "raw_sha256": "55672eb31645eccd47035fa3ffc65c70472e48cec0d8f1158fe1712a4f8181ba",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_desk_school desk 学校课桌/工位桌 desk workstation 办公桌 工位 SchoolDesk_01 furniture/desk/school 学校课桌/工位桌 SchoolDesk_01 furniture/desk/school 学校课桌/工位桌",
+    "intake": "existing_external"
+  }
+}

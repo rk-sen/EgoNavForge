@@ -1,0 +1,135 @@
+{
+  "asset_id": "AT_c4a04e26a3738799af18051b",
+  "query_id": "ph_partition_barrier",
+  "semantic": "barrier_concrete",
+  "dimensions_m": [
+    1.545,
+    0.639,
+    0.831
+  ],
+  "description": "混凝土隔离墩",
+  "material": {
+    "color": [
+      0.427,
+      0.375,
+      0.308
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "concrete barrier",
+    "road barrier",
+    "混凝土隔离墩",
+    "围挡",
+    "concrete_road_barrier",
+    "sports/partition/barrier",
+    "concrete_road_barrier",
+    "sports/partition/barrier",
+    "混凝土隔离墩"
+  ],
+  "procedural_hash": "c2c082dfbf4db14578258e22183d74afc3f551a660635c2f91a48517134ce84a",
+  "geometry_sha256": "dcd5433bf3982eae5c4bbe294e1956ecf99aa00f5a2979dbdff5dfc1f17fb45d",
+  "public_prefab": true,
+  "provider": "Amal Kumar",
+  "observation_description": "混凝土隔离墩",
+  "requested_dimensions_m": [
+    1.545,
+    0.639,
+    0.831
+  ],
+  "prototype_key": "ph_partition_barrier",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_c4a04e26a3738799af18051b/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "concrete barrier",
+    "road barrier",
+    "混凝土隔离墩",
+    "围挡",
+    "concrete_road_barrier",
+    "sports/partition/barrier"
+  ],
+  "scene_types": [
+    "lab",
+    "industrial",
+    "sports",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "divider"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "wooden_partition",
+    "office_divider",
+    "cubicle_panel",
+    "fabric_partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_partition_barrier",
+    "semantic": "barrier_concrete",
+    "category_path": "sports/partition/barrier",
+    "aliases": [
+      "concrete barrier",
+      "road barrier",
+      "混凝土隔离墩",
+      "围挡",
+      "concrete_road_barrier",
+      "sports/partition/barrier"
+    ],
+    "scene_types": [
+      "lab",
+      "industrial",
+      "sports",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "divider"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      1.545,
+      0.639,
+      0.831
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "wooden_partition",
+      "office_divider",
+      "cubicle_panel",
+      "fabric_partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_partition_barrier/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/concrete_road_barrier/concrete_road_barrier_1k.usdc",
+      "author": "Amal Kumar",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_partition_barrier.usd",
+      "raw_sha256": "b83b7a75057c9a85e5d8b36b686e3dee43a6b470204097298c1b00e4e9980a80",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_partition_barrier barrier_concrete 混凝土隔离墩 concrete barrier road barrier 混凝土隔离墩 围挡 concrete_road_barrier sports/partition/barrier concrete_road_barrier sports/partition/barrier 混凝土隔离墩",
+    "intake": "existing_external"
+  }
+}

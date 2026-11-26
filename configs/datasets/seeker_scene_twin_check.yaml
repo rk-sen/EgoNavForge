@@ -1,8 +1,8 @@
-# Zero-cost wiring check: no VLM, no Blender build — only validates twin inputs.
+# Zero-cost wiring check: no VLM, no Blender. Reuses an existing Pi3 suite when present.
 #   python -m ego_nav_forge run -c configs/datasets/seeker_scene_twin_check.yaml --max-eps 1
 workflow: ../workflows/pi3_moge_lerobot.yaml
 exp_name: seeker_scene_twin_check
-work_dir: /mnt/luozhaoyi/releases/ego_nav_forge/work_dirs/seeker_scene_twin_check
+work_dir: /mnt/luozhaoyi/releases/ego_nav_forge_v1/work_dirs/seeker_scene_twin_check
 
 dataset:
   root: /mnt/luozhaoyi/ABot_data_engine/threeeyes918/parsed
@@ -14,7 +14,7 @@ dataset:
   pack: [forward_img]
   recon_image_key: forward_img
   image_stride: 2
-  mask_path: /mnt/luozhaoyi/releases/ego_nav_forge/assets/seeker_mask.png
+  mask_path: /mnt/luozhaoyi/releases/ego_nav_forge_v1/assets/seeker_mask.png
   suite_prefix: te918_
   reuse_suite_roots:
     - /mnt/luozhaoyi/ABot_data_engine/outputs/threeeyes918_pi3_moge/suite
@@ -25,5 +25,5 @@ dataset:
     check_only: true
     image_key: forward_img
     calib_camera: bleft
-    export_pointcloud: true
+    use_pointcloud: true
     blender: /mnt/luozhaoyi/tools/blender-4.5.14-linux-x64/blender

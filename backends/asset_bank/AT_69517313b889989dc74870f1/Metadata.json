@@ -1,0 +1,119 @@
+{
+  "asset_id": "AT_69517313b889989dc74870f1",
+  "query_id": "ph_sign_chalkboard",
+  "semantic": "sign",
+  "dimensions_m": [
+    0.92,
+    0.759,
+    1.509
+  ],
+  "description": "立式黑板告示牌",
+  "material": {
+    "color": [
+      0.1856,
+      0.0753,
+      0.0332
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "sign",
+    "standing_chalkboard_01",
+    "signage/notice/chalkboard",
+    "立式黑板告示牌",
+    "standing_chalkboard_01",
+    "signage/notice/chalkboard",
+    "立式黑板告示牌"
+  ],
+  "procedural_hash": "06f091d85fc11a37be83e49433ad2f1f53edb02945efff7d4d87cecb8d254ca9",
+  "geometry_sha256": "1924e4e3bc752829d1c9f70f7b231630d3b3d5911ba668a095d396a3efc0fd93",
+  "public_prefab": true,
+  "provider": "ParzivalCG",
+  "observation_description": "立式黑板告示牌",
+  "requested_dimensions_m": [
+    0.92,
+    0.759,
+    1.509
+  ],
+  "prototype_key": "ph_sign_chalkboard",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_69517313b889989dc74870f1/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "sign",
+    "standing_chalkboard_01",
+    "signage/notice/chalkboard",
+    "立式黑板告示牌"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "industrial",
+    "large"
+  ],
+  "spatial_roles": [
+    "wall",
+    "architecture"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_sign_chalkboard",
+    "semantic": "sign",
+    "category_path": "signage/notice/chalkboard",
+    "aliases": [
+      "sign",
+      "standing_chalkboard_01",
+      "signage/notice/chalkboard",
+      "立式黑板告示牌"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "industrial",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.92,
+      0.759,
+      1.509
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sign_chalkboard/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/standing_chalkboard_01/standing_chalkboard_01_1k.usdc",
+      "author": "ParzivalCG",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sign_chalkboard.usd",
+      "raw_sha256": "0a3ec5ca7d112be4f194402db2af65da1fc13b42d01e4ec9f4271a6e2729b8d0",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sign_chalkboard sign 立式黑板告示牌 sign standing_chalkboard_01 signage/notice/chalkboard 立式黑板告示牌 standing_chalkboard_01 signage/notice/chalkboard 立式黑板告示牌",
+    "intake": "existing_external"
+  }
+}

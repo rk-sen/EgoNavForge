@@ -1,0 +1,129 @@
+{
+  "asset_id": "AT_35d1249c6d38b3c0254a881f",
+  "query_id": "ph_sofa_painted",
+  "semantic": "sofa",
+  "dimensions_m": [
+    2.452,
+    0.787,
+    1.281
+  ],
+  "description": "彩绘木质三人沙发",
+  "material": {
+    "color": [
+      0.3679,
+      0.3605,
+      0.3456
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "sofa",
+    "couch",
+    "沙发",
+    "painted_wooden_sofa",
+    "furniture/sofa/three_seat",
+    "彩绘木质三人沙发",
+    "painted_wooden_sofa",
+    "furniture/sofa/three_seat",
+    "彩绘木质三人沙发"
+  ],
+  "procedural_hash": "d831de8f8c88d9f01af5cf306441544ef2820e825773e76be0f5a43e73063378",
+  "geometry_sha256": "0545aa2d2e9b3024c9e5234f07c4859f7d36675e52f79af11a33502b03ae1bd8",
+  "public_prefab": true,
+  "provider": "Kirill Sannikov",
+  "observation_description": "彩绘木质三人沙发",
+  "requested_dimensions_m": [
+    2.452,
+    0.787,
+    1.281
+  ],
+  "prototype_key": "ph_sofa_painted",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_35d1249c6d38b3c0254a881f/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "sofa",
+    "couch",
+    "沙发",
+    "painted_wooden_sofa",
+    "furniture/sofa/three_seat",
+    "彩绘木质三人沙发"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_sofa_painted",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/three_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "painted_wooden_sofa",
+      "furniture/sofa/three_seat",
+      "彩绘木质三人沙发"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.452,
+      0.787,
+      1.281
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sofa_painted/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/painted_wooden_sofa/painted_wooden_sofa_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sofa_painted.usd",
+      "raw_sha256": "8a36274ef8ef4711d09d33f19a5f79598fba7b70ed586102bdb9553a0eaa6d7f",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sofa_painted sofa 彩绘木质三人沙发 sofa couch 沙发 painted_wooden_sofa furniture/sofa/three_seat 彩绘木质三人沙发 painted_wooden_sofa furniture/sofa/three_seat 彩绘木质三人沙发",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "asset_id": "AT_e3eb01a1b67814ed1109fcca",
+  "query_id": "ph_armchair_modern",
+  "semantic": "armchair",
+  "dimensions_m": [
+    0.82,
+    0.987,
+    1.023
+  ],
+  "description": "现代简约单人扶手椅",
+  "material": {
+    "color": [
+      0.2091,
+      0.1026,
+      0.045
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "armchair",
+    "modern_arm_chair_01",
+    "furniture/armchair/modern",
+    "现代简约单人扶手椅",
+    "modern_arm_chair_01",
+    "furniture/armchair/modern",
+    "现代简约单人扶手椅"
+  ],
+  "procedural_hash": "94fb26dcaa0ab5c591a3d2ae5d317b3674e946b26a7d3e207dcd70861ce8912a",
+  "geometry_sha256": "41a16e255c9649003dc4a5a7199097a5ff79a20fd8f6bf1fd96e82de66c36a49",
+  "public_prefab": true,
+  "provider": "Vibrant Nordic",
+  "observation_description": "现代简约单人扶手椅",
+  "requested_dimensions_m": [
+    0.82,
+    0.987,
+    1.023
+  ],
+  "prototype_key": "ph_armchair_modern",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_e3eb01a1b67814ed1109fcca/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "armchair",
+    "modern_arm_chair_01",
+    "furniture/armchair/modern",
+    "现代简约单人扶手椅"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_armchair_modern",
+    "semantic": "armchair",
+    "category_path": "furniture/armchair/modern",
+    "aliases": [
+      "armchair",
+      "modern_arm_chair_01",
+      "furniture/armchair/modern",
+      "现代简约单人扶手椅"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.82,
+      0.987,
+      1.023
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [
+      "modern_arm_chair_01",
+      "furniture/armchair/modern"
+    ],
+    "thumbnail": "thumbs/ph_armchair_modern/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/modern_arm_chair_01/modern_arm_chair_01_1k.usdc",
+      "author": "Vibrant Nordic",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_armchair_modern.usd",
+      "raw_sha256": "1d4fc5a2d049a04a497543b51700eb515663e349cd8754fb9ecaf6edba164bc9",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_armchair_modern armchair 现代简约单人扶手椅 armchair modern_arm_chair_01 furniture/armchair/modern 现代简约单人扶手椅 modern_arm_chair_01 furniture/armchair/modern 现代简约单人扶手椅",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "asset_id": "AT_b0364e254075af1e44e86e88",
+  "query_id": "fm_sofa_minimal_cream",
+  "semantic": "sofa",
+  "dimensions_m": [
+    2.194,
+    0.941,
+    0.752
+  ],
+  "description": "现代极简奶油色低矮双人沙发，连续圆角扶手与模块化坐垫",
+  "material": {
+    "color": [
+      0.78,
+      0.72,
+      0.6
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "sofa",
+    "couch",
+    "沙发",
+    "现代沙发",
+    "极简",
+    "奶油色",
+    "双人",
+    "lowprofile",
+    "minimalist",
+    "boucle",
+    "现代沙发",
+    "极简",
+    "奶油色",
+    "双人",
+    "lowprofile",
+    "minimalist",
+    "boucle"
+  ],
+  "procedural_hash": "e9c371f4618f39ae7bfadeaae180f2dedded55db74441a3c338d30e96276179a",
+  "geometry_sha256": "68bae34d1c449fe6c4050a8c60ab15c41c13ef6323d06cb53cc4f97f470a64e3",
+  "public_prefab": true,
+  "provider": "FurniMesh",
+  "observation_description": "现代极简奶油色低矮双人沙发，连续圆角扶手与模块化坐垫",
+  "requested_dimensions_m": [
+    2.194,
+    0.941,
+    0.752
+  ],
+  "prototype_key": "fm_sofa_minimal_cream",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_b0364e254075af1e44e86e88/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "sofa",
+    "couch",
+    "沙发",
+    "现代沙发",
+    "极简",
+    "奶油色",
+    "双人",
+    "lowprofile",
+    "minimalist",
+    "boucle"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "fm_sofa_minimal_cream",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/two_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "现代沙发",
+      "极简",
+      "奶油色",
+      "双人",
+      "lowprofile",
+      "minimalist",
+      "boucle"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.194,
+      0.941,
+      0.752
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_sofa_minimal_cream/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/sofas/sofa/a-modern-lowprofile-sofa-with-a-minimalist-xda6ae/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_sofa_minimal_cream.glb",
+      "raw_sha256": "d8bf520b83660d54de98bc33637d053b53526f795ad0697871e5177f78a9b7d1",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_sofa_minimal_cream sofa 现代极简奶油色低矮双人沙发，连续圆角扶手与模块化坐垫 sofa couch 沙发 现代沙发 极简 奶油色 双人 lowprofile minimalist boucle 现代沙发 极简 奶油色 双人 lowprofile minimalist boucle",
+    "intake": "existing_external"
+  }
+}

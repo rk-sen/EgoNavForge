@@ -1,0 +1,123 @@
+{
+  "asset_id": "AT_2047bf5f53a22021ad22ce12",
+  "query_id": "ph_box_cheese",
+  "semantic": "box",
+  "dimensions_m": [
+    0.24,
+    0.136,
+    0.093
+  ],
+  "description": "小木箱/包装箱",
+  "material": {
+    "color": [
+      0.5456,
+      0.4063,
+      0.2922
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "box",
+    "CheeseBox_01",
+    "packaging/box/wood",
+    "小木箱/包装箱",
+    "CheeseBox_01",
+    "packaging/box/wood",
+    "小木箱/包装箱"
+  ],
+  "procedural_hash": "9d336d8ce9e730459b3549f6551aad2f9548e3932b88c55ca26395211df01bc0",
+  "geometry_sha256": "fbc6caaaf19e2e32abf414b157783bb2a520f8b3a9a24fdbde3f6a5250d77d8a",
+  "public_prefab": true,
+  "provider": "Gabriel Radić",
+  "observation_description": "小木箱/包装箱",
+  "requested_dimensions_m": [
+    0.24,
+    0.136,
+    0.093
+  ],
+  "prototype_key": "ph_box_cheese",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_2047bf5f53a22021ad22ce12/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "box",
+    "CheeseBox_01",
+    "packaging/box/wood",
+    "小木箱/包装箱"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "living",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "floor_toy",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_box_cheese",
+    "semantic": "box",
+    "category_path": "packaging/box/wood",
+    "aliases": [
+      "box",
+      "CheeseBox_01",
+      "packaging/box/wood",
+      "小木箱/包装箱"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "wood",
+    "dimensions_m": [
+      0.24,
+      0.136,
+      0.093
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_box_cheese/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/CheeseBox_01/CheeseBox_01_1k.usdc",
+      "author": "Gabriel Radić",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_box_cheese.usd",
+      "raw_sha256": "a39ed9135fb7f7bae58641ada22a8cb1e358cda7e7336596fde108be9fdd7f17",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_box_cheese box 小木箱/包装箱 box CheeseBox_01 packaging/box/wood 小木箱/包装箱 CheeseBox_01 packaging/box/wood 小木箱/包装箱",
+    "intake": "existing_external"
+  }
+}

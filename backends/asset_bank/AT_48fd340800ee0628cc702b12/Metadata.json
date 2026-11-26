@@ -1,0 +1,139 @@
+{
+  "asset_id": "AT_48fd340800ee0628cc702b12",
+  "query_id": "ph_window_03",
+  "semantic": "window",
+  "dimensions_m": [
+    2.976,
+    0.153,
+    1.546
+  ],
+  "description": "工业卷帘窗 03",
+  "material": {
+    "color": [
+      0.7385,
+      0.7083,
+      0.7119
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "window",
+    "glass opening",
+    "glazing",
+    "窗",
+    "窗户",
+    "rollershutter_window_03",
+    "architecture/window/industrial",
+    "工业卷帘窗 03",
+    "rollershutter_window_03",
+    "architecture/window/industrial",
+    "工业卷帘窗 03"
+  ],
+  "procedural_hash": "d8e5242adef5393beeb0af6e8224f713507c0082f1cb0c14243edd2fe4a26b57",
+  "geometry_sha256": "835cf66a65fa435214eced21a74965b2f551c48d4dfa7e7ba429f90567d05c06",
+  "public_prefab": true,
+  "provider": "MP",
+  "observation_description": "工业卷帘窗 03",
+  "requested_dimensions_m": [
+    2.976,
+    0.153,
+    1.546
+  ],
+  "prototype_key": "ph_window_03",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_48fd340800ee0628cc702b12/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "window",
+    "glass opening",
+    "glazing",
+    "窗",
+    "窗户",
+    "rollershutter_window_03",
+    "architecture/window/industrial",
+    "工业卷帘窗 03"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "living",
+    "large"
+  ],
+  "spatial_roles": [
+    "wall",
+    "architecture"
+  ],
+  "support_capability": false,
+  "material_family": "glass_or_wood",
+  "negative_roles": [
+    "door",
+    "monitor",
+    "cabinet",
+    "partition"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_window_03",
+    "semantic": "window",
+    "category_path": "architecture/window/industrial",
+    "aliases": [
+      "window",
+      "glass opening",
+      "glazing",
+      "窗",
+      "窗户",
+      "rollershutter_window_03",
+      "architecture/window/industrial",
+      "工业卷帘窗 03"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "glass_or_wood",
+    "dimensions_m": [
+      2.976,
+      0.153,
+      1.546
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "door",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_window_03/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/rollershutter_window_03/rollershutter_window_03_1k.usdc",
+      "author": "MP",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_window_03.usd",
+      "raw_sha256": "7356089790b0e2629d7dc33bad079f5514dcc38123218243693ed48f70f7fd72",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_window_03 window 工业卷帘窗 03 window glass opening glazing 窗 窗户 rollershutter_window_03 architecture/window/industrial 工业卷帘窗 03 rollershutter_window_03 architecture/window/industrial 工业卷帘窗 03",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "asset_id": "AT_25b8e3bbe06868b691a69ba1",
+  "query_id": "fm_sofa_rounded_light",
+  "semantic": "sofa",
+  "dimensions_m": [
+    2.305,
+    1.308,
+    0.778
+  ],
+  "description": "现代简约浅米色圆角双人沙发，柔软包裹式造型",
+  "material": {
+    "color": [
+      0.72,
+      0.66,
+      0.55
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "sofa",
+    "couch",
+    "沙发",
+    "现代沙发",
+    "极简",
+    "浅米",
+    "双人",
+    "圆角",
+    "soft",
+    "现代沙发",
+    "极简",
+    "浅米",
+    "双人",
+    "圆角",
+    "soft",
+    "sofa"
+  ],
+  "procedural_hash": "663efdbb896bd1a6ca295fe732c070802c1aadc471be7a1957773be56bc2d2c5",
+  "geometry_sha256": "7b1eb3ce5e8522e7e1e928339cb781e0052d5dd00bacb307cd28f625c1c38a2d",
+  "public_prefab": true,
+  "provider": "FurniMesh",
+  "observation_description": "现代简约浅米色圆角双人沙发，柔软包裹式造型",
+  "requested_dimensions_m": [
+    2.305,
+    1.308,
+    0.778
+  ],
+  "prototype_key": "fm_sofa_rounded_light",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_25b8e3bbe06868b691a69ba1/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "sofa",
+    "couch",
+    "沙发",
+    "现代沙发",
+    "极简",
+    "浅米",
+    "双人",
+    "圆角",
+    "soft"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "fm_sofa_rounded_light",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/two_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "现代沙发",
+      "极简",
+      "浅米",
+      "双人",
+      "圆角",
+      "soft"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.305,
+      1.308,
+      0.778
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/fm_sofa_rounded_light/front.jpg",
+    "provenance": {
+      "url": "https://furnimesh.com/library/sofas/sofa/a-contemporary-sofa-featuring-a-plush-light-zvwsc3/",
+      "author": "FurniMesh",
+      "license": "FurniMesh free model",
+      "raw_file": "raw_glb/fm_sofa_rounded_light.glb",
+      "raw_sha256": "e4486f9e73bbf4e2a67280046cac1cd8362d7f80d89db791fea114657aa27737",
+      "scale_applied": 2.2,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "FurniMesh free model"
+    },
+    "retrieval_text": "fm_sofa_rounded_light sofa 现代简约浅米色圆角双人沙发，柔软包裹式造型 sofa couch 沙发 现代沙发 极简 浅米 双人 圆角 soft 现代沙发 极简 浅米 双人 圆角 soft sofa",
+    "intake": "existing_external"
+  }
+}

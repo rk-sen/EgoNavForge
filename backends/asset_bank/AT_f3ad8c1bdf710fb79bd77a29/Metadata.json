@@ -1,0 +1,123 @@
+{
+  "asset_id": "AT_f3ad8c1bdf710fb79bd77a29",
+  "query_id": "ph_lamp_ceiling",
+  "semantic": "lamp",
+  "dimensions_m": [
+    0.432,
+    0.432,
+    0.952
+  ],
+  "description": "现代吸顶灯",
+  "material": {
+    "color": [
+      0.6902,
+      0.6686,
+      0.6403
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "lamp",
+    "modern_ceiling_lamp_01",
+    "lighting/lamp/ceiling",
+    "现代吸顶灯",
+    "modern_ceiling_lamp_01",
+    "lighting/lamp/ceiling",
+    "现代吸顶灯"
+  ],
+  "procedural_hash": "2d63c2d5197e22573b469e416c44300d3c0c48b0495a30876421a5301b092a0d",
+  "geometry_sha256": "cb43f6e1ba9202b704f12f230162a485181bf9f918146e22bfc586a9e438816f",
+  "public_prefab": true,
+  "provider": "James Ray Cock",
+  "observation_description": "现代吸顶灯",
+  "requested_dimensions_m": [
+    0.432,
+    0.432,
+    0.952
+  ],
+  "prototype_key": "ph_lamp_ceiling",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_f3ad8c1bdf710fb79bd77a29/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "lamp",
+    "modern_ceiling_lamp_01",
+    "lighting/lamp/ceiling",
+    "现代吸顶灯"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "living",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "wall",
+    "lighting"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_lamp_ceiling",
+    "semantic": "lamp",
+    "category_path": "lighting/lamp/ceiling",
+    "aliases": [
+      "lamp",
+      "modern_ceiling_lamp_01",
+      "lighting/lamp/ceiling",
+      "现代吸顶灯"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "wall",
+      "lighting"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.432,
+      0.432,
+      0.952
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_lamp_ceiling/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/modern_ceiling_lamp_01/modern_ceiling_lamp_01_1k.usdc",
+      "author": "James Ray Cock",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_lamp_ceiling.usd",
+      "raw_sha256": "557425d88a7de10a80fd0aaa44d98314aefafa8f8f807767fd757ffed5caa210",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_lamp_ceiling lamp 现代吸顶灯 lamp modern_ceiling_lamp_01 lighting/lamp/ceiling 现代吸顶灯 modern_ceiling_lamp_01 lighting/lamp/ceiling 现代吸顶灯",
+    "intake": "existing_external"
+  }
+}

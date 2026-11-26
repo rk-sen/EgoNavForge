@@ -63,20 +63,19 @@
 
 ### 7. 场景孪生 — `IndoorTwinScene`（finalize，可选）
 
-室内数字孪生（vendored `backends/indoor_twin_agent` = indoor_twin_agent **v37**）：
+室内数字孪生（vendored `backends/indoor_twin_agent`，资产库检索，替代 v37）：
 
-- **输入**：`streams[image_key]` 视频；`ctx.poses` / `suite_dir/.../pi3_poses_metric.npy`；内参（`intrinsics_path` 或 episode `calib.json` + `calib_camera`）；VLM `api_base` + `api_key_env`
-- **输出**：`work_dir/episodes/<ep>/scene_twin/project/` → `scene.blend`、`previews/`、可选 `usd/`、可选拷贝的 `points_metric_textured.ply`
-- **资产**：需要 `backends/indoor_twin_agent/assets/person_supplied.glb`
+- **输入**：`streams[image_key]` 视频；`ctx.poses` / `suite_dir/.../pi3_poses_metric.npy`；内参（`intrinsics_path` 或 episode `calib.json` + `calib_camera`）；可选 `points_metric_textured.ply`（`use_pointcloud: true` 且文件存在才传入）；VLM `api_base` + `api_key_env`；检索库 `backends/asset_bank`
+- **输出**：`work_dir/episodes/<ep>/scene_twin/Scene/IndoorTwin.blend`、`Scene/Scene.usda`、观察与检索 JSON
 - **开关**：工作流默认 `enabled: false`；数据集用 `dataset.scene_twin: {enabled: true, ...}` 打开
-- **冒烟**：`smoke: true` + 可选 `seed_project:`（跳过 VLM，只 Blender 重建）或 `check_only: true`
+- **检查**：`check_only: true` 只写轨迹和内参，不调 API、不启动 Blender
 
 ## 文档有、尚未做完整产品的模块
 
 | 文档名 | 状态 |
 |--------|------|
 | ObjectMemory | 未实现（accumulate 预留） |
-| SceneBuild / VLNVersePackager | 由 `IndoorTwinScene`（v37）覆盖场景侧；VLNVerse 专用打包仍可另加 |
+| SceneBuild / VLNVersePackager | 由 `IndoorTwinScene`（资产库 agent）覆盖场景侧；VLNVerse 专用打包仍可另加 |
 | TrajCompareViz / EgoPointCloudViz / QualityGate | 未做成独立 type（旧脚本留在 pi3_moge_lerobot，不暴露为本仓库模块） |
 | SensorDepthScale / StereoDepthScale | 未注册 |
 

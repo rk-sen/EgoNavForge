@@ -1,0 +1,108 @@
+{
+  "asset_id": "AT_3795a0b83895936af0d27855",
+  "query_id": "v39_person_supplied",
+  "semantic": "person",
+  "dimensions_m": [
+    0.5266,
+    0.3205,
+    1.72
+  ],
+  "description": "用户提供的站立人物",
+  "material": {
+    "color": [
+      0.0513,
+      0.1221,
+      0.1946
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "person"
+  ],
+  "procedural_hash": "8bd147ff72ae4fc555be8126e8a1239d96c2fe31ce2e371c76adbcfdd525b0a5",
+  "geometry_sha256": "5a63ca2071f93aded75fc39391562e64e756fe679dd2db16b8d831f889332291",
+  "public_prefab": true,
+  "provider": "user",
+  "observation_description": "用户提供的站立人物",
+  "requested_dimensions_m": [
+    0.5266,
+    0.3205,
+    1.72
+  ],
+  "prototype_key": "v39_person_supplied",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_3795a0b83895936af0d27855/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": true,
+  "aliases": [
+    "person"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "v39_person_supplied",
+    "semantic": "person",
+    "category_path": "bio/person/standing",
+    "aliases": [
+      "person"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.5266,
+      0.3205,
+      1.72
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/v39_person_supplied/front.jpg",
+    "provenance": {
+      "url": "user-supplied model",
+      "author": "user",
+      "license": "user-supplied",
+      "raw_file": "person_supplied.glb",
+      "format_in": "GLB/BLEND",
+      "format_out": "USD",
+      "scale_applied": 1.0
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "user-supplied"
+    },
+    "retrieval_text": "v39_person_supplied person 用户提供的站立人物 person ",
+    "intake": "existing_external"
+  }
+}

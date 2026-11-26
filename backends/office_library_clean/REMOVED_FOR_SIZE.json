@@ -1,0 +1,13 @@
+{
+  "count": 7,
+  "assets": [
+    "fm_plant_areca_palm",
+    "fm_pillow_floral",
+    "fm_pillow_striped",
+    "fm_door_security",
+    "fm_plant_travelers_palm",
+    "fm_door_office_dark",
+    "fm_door_glass_double"
+  ],
+  "reason": "trim archive below 512 MiB"
+}

@@ -1,0 +1,135 @@
+{
+  "asset_id": "AT_9c03253b8f13d381eb212259",
+  "query_id": "office_desk_adjustable",
+  "semantic": "desk",
+  "dimensions_m": [
+    1.416,
+    2.0,
+    0.942
+  ],
+  "description": "黑色可升降办公桌架",
+  "material": {
+    "color": [
+      0.0856,
+      0.1041,
+      0.12
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "standing_desk",
+    "height_adjustable",
+    "black",
+    "desk_frame",
+    "办公桌",
+    "standing_desk",
+    "height_adjustable",
+    "black",
+    "desk_frame"
+  ],
+  "procedural_hash": "9d8a2a3211e02f311f3e50123cd19674bd0ae8e1b13a642bc67c2ca90f9810e4",
+  "geometry_sha256": "40f6ba95d6a6ac27467ace121ad5949e200c3f24279238f93e43e215822d7234",
+  "public_prefab": true,
+  "provider": "ivoirh/dp-sm-vr",
+  "observation_description": "黑色可升降办公桌架",
+  "requested_dimensions_m": [
+    1.416,
+    2.0,
+    0.942
+  ],
+  "prototype_key": "office_desk_adjustable",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_9c03253b8f13d381eb212259/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "desk",
+    "workstation",
+    "办公桌",
+    "工位",
+    "standing_desk",
+    "height_adjustable",
+    "black",
+    "desk_frame"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "office_desk_adjustable",
+    "semantic": "desk",
+    "category_path": "furniture/desk/height_adjustable",
+    "aliases": [
+      "desk",
+      "workstation",
+      "办公桌",
+      "工位",
+      "standing_desk",
+      "height_adjustable",
+      "black",
+      "desk_frame"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.416,
+      2.0,
+      0.942
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "desk_frame"
+    ],
+    "thumbnail": "thumbs/office_desk_adjustable/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Adjustable%20Desk.glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_desk_adjustable.glb",
+      "raw_sha256": "0e74f80a6b71e3d240b66c87db017e6b24f2ca8dd1649fa8203ee78ed775ae49",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_desk_adjustable desk 黑色可升降办公桌架 desk workstation 办公桌 工位 standing_desk height_adjustable black desk_frame 办公桌 standing_desk height_adjustable black desk_frame",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "asset_id": "AT_3c6ac75c0754d8bef0c0cd86",
+  "query_id": "office_chair_gas_compact",
+  "semantic": "chair",
+  "dimensions_m": [
+    0.86,
+    0.8,
+    1.327
+  ],
+  "description": "青绿色小号气压升降办公转椅",
+  "material": {
+    "color": [
+      0.0,
+      0.31,
+      0.25
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "气压椅",
+    "gas_lift",
+    "swivel",
+    "compact",
+    "teal",
+    "办公椅",
+    "气压椅",
+    "gas_lift",
+    "swivel",
+    "compact",
+    "teal"
+  ],
+  "procedural_hash": "48bffebc2399bf71551bb64fa9d816d28598410e966e85108536c915da6a8aed",
+  "geometry_sha256": "7493374776a6c8b884164b3feacf7e7aa2d425b2750a65cd2946718e54bac2e2",
+  "public_prefab": true,
+  "provider": "ivoirh/dp-sm-vr",
+  "observation_description": "青绿色小号气压升降办公转椅",
+  "requested_dimensions_m": [
+    0.86,
+    0.8,
+    1.327
+  ],
+  "prototype_key": "office_chair_gas_compact",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_3c6ac75c0754d8bef0c0cd86/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "chair",
+    "office chair",
+    "椅子",
+    "办公椅",
+    "气压椅",
+    "gas_lift",
+    "swivel",
+    "compact",
+    "teal"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "office_chair_gas_compact",
+    "semantic": "chair",
+    "category_path": "furniture/chair/gas_lift_chair",
+    "aliases": [
+      "chair",
+      "office chair",
+      "椅子",
+      "办公椅",
+      "气压椅",
+      "gas_lift",
+      "swivel",
+      "compact",
+      "teal"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.86,
+      0.8,
+      1.327
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/office_chair_gas_compact/front.jpg",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/ivoirh/dp-sm-vr/main/Office%20Chair%20(1).glb",
+      "author": "ivoirh/dp-sm-vr",
+      "license": "UNVERIFIED",
+      "raw_file": "office_chair_gas_compact.glb",
+      "raw_sha256": "211a54fcd52a6faa260d5432dfe1f980cd1125df1230e3fc248320b337fbfe1d",
+      "scale_applied": 1.0,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "office_chair_gas_compact chair 青绿色小号气压升降办公转椅 chair office chair 椅子 办公椅 气压椅 gas_lift swivel compact teal 办公椅 气压椅 gas_lift swivel compact teal",
+    "intake": "existing_external"
+  }
+}

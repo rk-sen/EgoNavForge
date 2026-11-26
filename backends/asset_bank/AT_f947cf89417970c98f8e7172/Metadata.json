@@ -1,0 +1,128 @@
+{
+  "asset_id": "AT_f947cf89417970c98f8e7172",
+  "query_id": "ph_shelf_01",
+  "semantic": "shelf",
+  "dimensions_m": [
+    1.003,
+    0.257,
+    2.08
+  ],
+  "description": "木质多层置物架",
+  "material": {
+    "color": [
+      0.558,
+      0.5462,
+      0.536
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "shelf",
+    "shelving",
+    "置物架",
+    "货架",
+    "Shelf_01",
+    "storage/shelf/wood",
+    "木质多层置物架",
+    "Shelf_01",
+    "storage/shelf/wood",
+    "木质多层置物架"
+  ],
+  "procedural_hash": "53a1b6d3de0a379d1bcfb34bc388ff8fc1e895acde03a83d80d6d735d3417833",
+  "geometry_sha256": "d4a089d3d668ec7dc717c8225f70b6e0c98dee272e97d27d69f811179704166d",
+  "public_prefab": true,
+  "provider": "Gabriel Radić",
+  "observation_description": "木质多层置物架",
+  "requested_dimensions_m": [
+    1.003,
+    0.257,
+    2.08
+  ],
+  "prototype_key": "ph_shelf_01",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_f947cf89417970c98f8e7172/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "shelf",
+    "shelving",
+    "置物架",
+    "货架",
+    "Shelf_01",
+    "storage/shelf/wood",
+    "木质多层置物架"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_shelf_01",
+    "semantic": "shelf",
+    "category_path": "storage/shelf/wood",
+    "aliases": [
+      "shelf",
+      "shelving",
+      "置物架",
+      "货架",
+      "Shelf_01",
+      "storage/shelf/wood",
+      "木质多层置物架"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.003,
+      0.257,
+      2.08
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_shelf_01/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/Shelf_01/Shelf_01_1k.usdc",
+      "author": "Gabriel Radić",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_shelf_01.usd",
+      "raw_sha256": "c31fdc0846ba6561a9afb62378c58522e4edad659c8090a512afcf2651aebc95",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_shelf_01 shelf 木质多层置物架 shelf shelving 置物架 货架 Shelf_01 storage/shelf/wood 木质多层置物架 Shelf_01 storage/shelf/wood 木质多层置物架",
+    "intake": "existing_external"
+  }
+}

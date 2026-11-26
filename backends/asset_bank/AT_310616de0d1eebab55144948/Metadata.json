@@ -1,0 +1,126 @@
+{
+  "asset_id": "AT_310616de0d1eebab55144948",
+  "query_id": "ph_keyboard_alt",
+  "semantic": "keyboard",
+  "dimensions_m": [
+    0.224,
+    0.085,
+    0.007
+  ],
+  "description": "白色/复古外观机械键盘（公开办公场景模型）",
+  "material": {
+    "color": [
+      0.1329,
+      0.1329,
+      0.1329
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "keyboard",
+    "键盘",
+    "retro",
+    "white",
+    "peripheral",
+    "键盘",
+    "keyboard",
+    "retro",
+    "white",
+    "peripheral"
+  ],
+  "procedural_hash": "b9634a4314b662ed612a785c0e3dccd9aef81c7d0e672b5eb9fa6235e174714f",
+  "geometry_sha256": "264a95f47de29857814c4303ca559102245ec7066a6bc1181ff39b56f5fb59ff",
+  "public_prefab": true,
+  "provider": "jj-143/assets",
+  "observation_description": "白色/复古外观机械键盘（公开办公场景模型）",
+  "requested_dimensions_m": [
+    0.224,
+    0.085,
+    0.007
+  ],
+  "prototype_key": "ph_keyboard_alt",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_310616de0d1eebab55144948/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "keyboard",
+    "键盘",
+    "retro",
+    "white",
+    "peripheral"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_keyboard_alt",
+    "semantic": "keyboard",
+    "category_path": "electronics/input/keyboard",
+    "aliases": [
+      "keyboard",
+      "键盘",
+      "retro",
+      "white",
+      "peripheral"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.224,
+      0.085,
+      0.007
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_keyboard_alt/front.jpg",
+    "provenance": {
+      "url": "https://github.com/jj-143/assets/blob/main/keyboard.glb",
+      "author": "jj-143/assets",
+      "license": "UNVERIFIED",
+      "raw_file": "raw_glb/ph_keyboard_alt.glb",
+      "raw_sha256": "80e0ef84cefc25eedd9f5b9bd8480322ae5bbfeefa04d3cc60a2b2ac4b995884",
+      "scale_applied": 0.0425,
+      "format_in": "GLB",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "UNVERIFIED"
+    },
+    "retrieval_text": "ph_keyboard_alt keyboard 白色/复古外观机械键盘（公开办公场景模型） keyboard 键盘 retro white peripheral 键盘 keyboard retro white peripheral",
+    "intake": "existing_external"
+  }
+}

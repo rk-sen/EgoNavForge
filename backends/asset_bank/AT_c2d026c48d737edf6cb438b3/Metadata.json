@@ -1,0 +1,122 @@
+{
+  "asset_id": "AT_c2d026c48d737edf6cb438b3",
+  "query_id": "ph_drawer_cabinet",
+  "semantic": "cabinet",
+  "dimensions_m": [
+    1.141,
+    0.488,
+    1.881
+  ],
+  "description": "办公抽屉柜",
+  "material": {
+    "color": [
+      0.5124,
+      0.3892,
+      0.2717
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "cabinet",
+    "drawer_cabinet",
+    "storage/cabinet/drawer",
+    "办公抽屉柜",
+    "drawer_cabinet",
+    "storage/cabinet/drawer",
+    "办公抽屉柜"
+  ],
+  "procedural_hash": "00cdad80ca0535bcfcad08c1f5bc18dee5b3c5db2083fc938532b76568e53847",
+  "geometry_sha256": "484ef7bfee371f263232220e587f1562b59523ea76d5d5788bb120ee0e0723f1",
+  "public_prefab": true,
+  "provider": "Ulan Cabanilla",
+  "observation_description": "办公抽屉柜",
+  "requested_dimensions_m": [
+    1.141,
+    0.488,
+    1.881
+  ],
+  "prototype_key": "ph_drawer_cabinet",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_c2d026c48d737edf6cb438b3/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "cabinet",
+    "drawer_cabinet",
+    "storage/cabinet/drawer",
+    "办公抽屉柜"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "support_capability": true,
+  "material_family": "wood",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_drawer_cabinet",
+    "semantic": "cabinet",
+    "category_path": "storage/cabinet/drawer",
+    "aliases": [
+      "cabinet",
+      "drawer_cabinet",
+      "storage/cabinet/drawer",
+      "办公抽屉柜"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "supports_tabletop"
+    ],
+    "support_capability": true,
+    "material_family": "wood",
+    "dimensions_m": [
+      1.141,
+      0.488,
+      1.881
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [
+      "drawer_cabinet",
+      "storage/cabinet/drawer"
+    ],
+    "thumbnail": "thumbs/ph_drawer_cabinet/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/drawer_cabinet/drawer_cabinet_1k.usdc",
+      "author": "Ulan Cabanilla",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_drawer_cabinet.usd",
+      "raw_sha256": "097b804c41be8236fd0372ea4adb51145f51340daca44122369545ebb44834cf",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_drawer_cabinet cabinet 办公抽屉柜 cabinet drawer_cabinet storage/cabinet/drawer 办公抽屉柜 drawer_cabinet storage/cabinet/drawer 办公抽屉柜",
+    "intake": "existing_external"
+  }
+}

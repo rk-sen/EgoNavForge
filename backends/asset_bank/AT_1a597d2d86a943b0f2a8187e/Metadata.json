@@ -1,0 +1,123 @@
+{
+  "asset_id": "AT_1a597d2d86a943b0f2a8187e",
+  "query_id": "ph_box_cardboard",
+  "semantic": "box",
+  "dimensions_m": [
+    0.387,
+    0.516,
+    0.342
+  ],
+  "description": "牛皮纸箱",
+  "material": {
+    "color": [
+      0.6014,
+      0.5317,
+      0.3867
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "box",
+    "cardboard_box_01",
+    "packaging/box/cardboard",
+    "牛皮纸箱",
+    "cardboard_box_01",
+    "packaging/box/cardboard",
+    "牛皮纸箱"
+  ],
+  "procedural_hash": "c1986030627e78f5a14fba99db50758098391b46cc0ddf9adcda2168803d5b5c",
+  "geometry_sha256": "4914639d7710812d2497fb7b7789ab315445c99bd0508af1b490936857d23195",
+  "public_prefab": true,
+  "provider": "Rahul Chaudhary",
+  "observation_description": "牛皮纸箱",
+  "requested_dimensions_m": [
+    0.387,
+    0.516,
+    0.342
+  ],
+  "prototype_key": "ph_box_cardboard",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_1a597d2d86a943b0f2a8187e/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "box",
+    "cardboard_box_01",
+    "packaging/box/cardboard",
+    "牛皮纸箱"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "living",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "floor_toy",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_box_cardboard",
+    "semantic": "box",
+    "category_path": "packaging/box/cardboard",
+    "aliases": [
+      "box",
+      "cardboard_box_01",
+      "packaging/box/cardboard",
+      "牛皮纸箱"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.387,
+      0.516,
+      0.342
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_box_cardboard/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/cardboard_box_01/cardboard_box_01_1k.usdc",
+      "author": "Rahul Chaudhary",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_box_cardboard.usd",
+      "raw_sha256": "b88bc42d0b426c19bc502c011fb0aa64a238cd886faad939a313db0d3092d10e",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_box_cardboard box 牛皮纸箱 box cardboard_box_01 packaging/box/cardboard 牛皮纸箱 cardboard_box_01 packaging/box/cardboard 牛皮纸箱",
+    "intake": "existing_external"
+  }
+}

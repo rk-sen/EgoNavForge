@@ -1,0 +1,129 @@
+{
+  "asset_id": "AT_734f8ba9b1d53f1d14b29be3",
+  "query_id": "ph_sofa_03",
+  "semantic": "sofa",
+  "dimensions_m": [
+    2.731,
+    0.925,
+    1.118
+  ],
+  "description": "现代三人布艺沙发",
+  "material": {
+    "color": [
+      0.2984,
+      0.2229,
+      0.1647
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "sofa",
+    "couch",
+    "沙发",
+    "sofa_03",
+    "furniture/sofa/three_seat",
+    "现代三人布艺沙发",
+    "sofa_03",
+    "furniture/sofa/three_seat",
+    "现代三人布艺沙发"
+  ],
+  "procedural_hash": "b64c28d5eb62d82ec200eea3658a311a0ca46435ff12a547d7ece49111ba877e",
+  "geometry_sha256": "1c117c36a6c408082b9f1f6e889c6a5e3848effd6df7b4ca17bccec5e04afc7b",
+  "public_prefab": true,
+  "provider": "Fran Calvente",
+  "observation_description": "现代三人布艺沙发",
+  "requested_dimensions_m": [
+    2.731,
+    0.925,
+    1.118
+  ],
+  "prototype_key": "ph_sofa_03",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_734f8ba9b1d53f1d14b29be3/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "sofa",
+    "couch",
+    "沙发",
+    "sofa_03",
+    "furniture/sofa/three_seat",
+    "现代三人布艺沙发"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_sofa_03",
+    "semantic": "sofa",
+    "category_path": "furniture/sofa/three_seat",
+    "aliases": [
+      "sofa",
+      "couch",
+      "沙发",
+      "sofa_03",
+      "furniture/sofa/three_seat",
+      "现代三人布艺沙发"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      2.731,
+      0.925,
+      1.118
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_sofa_03/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/sofa_03/sofa_03_1k.usdc",
+      "author": "Fran Calvente",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_sofa_03.usd",
+      "raw_sha256": "51b1da0c2655724ffbb4092be43bb0881baa8af7d0bbfae3b00c544c9baa245d",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_sofa_03 sofa 现代三人布艺沙发 sofa couch 沙发 sofa_03 furniture/sofa/three_seat 现代三人布艺沙发 sofa_03 furniture/sofa/three_seat 现代三人布艺沙发",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "asset_id": "AT_2d4ed90c924536b633955d5e",
+  "query_id": "ph_armchair_chinese",
+  "semantic": "armchair",
+  "dimensions_m": [
+    0.848,
+    0.789,
+    1.587
+  ],
+  "description": "中式古典单人扶手椅",
+  "material": {
+    "color": [
+      0.2716,
+      0.1786,
+      0.1241
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "armchair",
+    "chinese_armchair",
+    "furniture/armchair/classic",
+    "中式古典单人扶手椅",
+    "chinese_armchair",
+    "furniture/armchair/classic",
+    "中式古典单人扶手椅"
+  ],
+  "procedural_hash": "d00f5a04f0be63229ff8fb9c5c052c486f668177f1f99dd6ba8d94d4e1e005e0",
+  "geometry_sha256": "4bd7f50627047136ece7dd2f5c116070366405416a72e6030292765edf010fa8",
+  "public_prefab": true,
+  "provider": "Kirill Sannikov",
+  "observation_description": "中式古典单人扶手椅",
+  "requested_dimensions_m": [
+    0.848,
+    0.789,
+    1.587
+  ],
+  "prototype_key": "ph_armchair_chinese",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_2d4ed90c924536b633955d5e/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "armchair",
+    "chinese_armchair",
+    "furniture/armchair/classic",
+    "中式古典单人扶手椅"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_armchair_chinese",
+    "semantic": "armchair",
+    "category_path": "furniture/armchair/classic",
+    "aliases": [
+      "armchair",
+      "chinese_armchair",
+      "furniture/armchair/classic",
+      "中式古典单人扶手椅"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.848,
+      0.789,
+      1.587
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [
+      "chinese_armchair",
+      "furniture/armchair/classic"
+    ],
+    "thumbnail": "thumbs/ph_armchair_chinese/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/chinese_armchair/chinese_armchair_1k.usdc",
+      "author": "Kirill Sannikov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_armchair_chinese.usd",
+      "raw_sha256": "87744c079a63b1033d6b714251440fe616fb3966d2a696917f0be012550a0c61",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_armchair_chinese armchair 中式古典单人扶手椅 armchair chinese_armchair furniture/armchair/classic 中式古典单人扶手椅 chinese_armchair furniture/armchair/classic 中式古典单人扶手椅",
+    "intake": "existing_external"
+  }
+}

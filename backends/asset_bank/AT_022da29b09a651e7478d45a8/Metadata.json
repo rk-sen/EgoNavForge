@@ -1,0 +1,125 @@
+{
+  "asset_id": "AT_022da29b09a651e7478d45a8",
+  "query_id": "ph_armchair_midcentury",
+  "semantic": "armchair",
+  "dimensions_m": [
+    1.009,
+    1.19,
+    1.169
+  ],
+  "description": "世纪中期现代休闲椅",
+  "material": {
+    "color": [
+      0.4167,
+      0.3137,
+      0.2269
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "armchair",
+    "mid_century_lounge_chair",
+    "furniture/armchair/modern",
+    "世纪中期现代休闲椅",
+    "mid_century_lounge_chair",
+    "furniture/armchair/modern",
+    "世纪中期现代休闲椅"
+  ],
+  "procedural_hash": "1a8e6473de23360751b48c07382388da067cdcde82124d259f5ff64809b18971",
+  "geometry_sha256": "5386c4465ff2fa6160a2fecc62c535928e37b184a1065ef305ffb928fc0a0660",
+  "public_prefab": true,
+  "provider": "Kuutti Siitonen",
+  "observation_description": "世纪中期现代休闲椅",
+  "requested_dimensions_m": [
+    1.009,
+    1.19,
+    1.169
+  ],
+  "prototype_key": "ph_armchair_midcentury",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_022da29b09a651e7478d45a8/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "armchair",
+    "mid_century_lounge_chair",
+    "furniture/armchair/modern",
+    "世纪中期现代休闲椅"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "seating"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "partition",
+    "window",
+    "door"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_armchair_midcentury",
+    "semantic": "armchair",
+    "category_path": "furniture/armchair/modern",
+    "aliases": [
+      "armchair",
+      "mid_century_lounge_chair",
+      "furniture/armchair/modern",
+      "世纪中期现代休闲椅"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "seating"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      1.009,
+      1.19,
+      1.169
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "partition",
+      "window",
+      "door"
+    ],
+    "distinctive_parts": [
+      "furniture/armchair/modern"
+    ],
+    "thumbnail": "thumbs/ph_armchair_midcentury/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/mid_century_lounge_chair/mid_century_lounge_chair_1k.usdc",
+      "author": "Kuutti Siitonen",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_armchair_midcentury.usd",
+      "raw_sha256": "3a88a0070dc123c26f950e8ccc0721eb99beba753f97624b12022e67335968b0",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_armchair_midcentury armchair 世纪中期现代休闲椅 armchair mid_century_lounge_chair furniture/armchair/modern 世纪中期现代休闲椅 mid_century_lounge_chair furniture/armchair/modern 世纪中期现代休闲椅",
+    "intake": "existing_external"
+  }
+}

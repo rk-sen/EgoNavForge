@@ -1,1 +1,1 @@
-from ego_nav_forge.modules.scene.indoor_twin_v37 import IndoorTwinScene  # noqa: F401
+from ego_nav_forge.modules.scene.indoor_twin import IndoorTwinScene  # noqa: F401

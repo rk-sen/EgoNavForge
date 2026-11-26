@@ -1,0 +1,126 @@
+{
+  "asset_id": "office_desk_white_a_frame",
+  "category_path": "furniture/desk/office_desk",
+  "description": "白色层压板台面、浅灰 A 型钢腿的 1.8 m 办公电脑桌，带后部理线槽和挡板",
+  "tags": [
+    "white desk",
+    "computer desk",
+    "A-frame",
+    "office desk",
+    "metal legs",
+    "laminate",
+    "白色办公桌",
+    "电脑桌",
+    "A型桌腿"
+  ],
+  "prefix": "Grab3D_office_desk_white_a_frame",
+  "object_count": 4,
+  "usd": "usd/office_desk_white_a_frame.usd",
+  "world_bbox": [
+    -0.9,
+    -0.3999,
+    0,
+    0.9,
+    0.3999,
+    0.735
+  ],
+  "source_origin": [
+    0,
+    0,
+    0
+  ],
+  "canonical": {
+    "up_axis": "Z",
+    "meters_per_unit": 1.0,
+    "origin": "bottom_center",
+    "front_axis": [
+      0,
+      -1,
+      0
+    ]
+  },
+  "source_yaw_deg": 0,
+  "placements": [],
+  "asset_kind": "unique",
+  "instance_count": 0,
+  "display_color": [
+    0.84,
+    0.84,
+    0.82
+  ],
+  "material_profiles": {
+    "main": {
+      "base_color": [
+        0.84,
+        0.84,
+        0.82
+      ],
+      "roughness": 0.55,
+      "metallic": 0.0,
+      "source": "grab3d_intake"
+    }
+  },
+  "source": {
+    "url": "https://cdn.3dassets.dev/assets/16968/v1/model.glb",
+    "page_url": "https://3dassets.dev/assets/downtown-office-interiors-desk-1800-a-frame-d1e4ccc7",
+    "author": "3D Assets",
+    "license": "CC0-1.0",
+    "raw_file": "office-desk-a-frame.glb",
+    "raw_sha256": "55026b164564173c0ab1697f2b427db1cda71f7eda9c9fff716265a8ec3a572e",
+    "scale_applied": 1.0,
+    "format_in": "GLB",
+    "format_out": "USD"
+  },
+  "geometry_hash": "eb2a3071f0ffe06e",
+  "bbox_m": [
+    1.8,
+    0.7999,
+    0.735
+  ],
+  "thumbnails": {
+    "front": "thumbs/office_desk_white_a_frame/front.jpg",
+    "iso": "thumbs/office_desk_white_a_frame/iso.jpg",
+    "top": "thumbs/office_desk_white_a_frame/top.jpg"
+  },
+  "status": "approved",
+  "version": "1",
+  "material_slots": [
+    {
+      "slot": "main",
+      "role": "auto",
+      "source": "usd"
+    }
+  ],
+  "search_text": "office_desk_white_a_frame desk 白色层压板台面、浅灰 A 型钢腿的 1.8 m 办公电脑桌，带后部理线槽和挡板 A white-laminate 1.8 m office computer desk on welded light-grey A-frame legs with a rear cable tray and low modesty panel. white desk computer desk A-frame office desk metal legs laminate 白色办公桌 电脑桌 A型桌腿",
+  "semantic": "desk",
+  "aliases": [
+    "white desk",
+    "computer desk",
+    "A-frame",
+    "office desk",
+    "metal legs",
+    "laminate",
+    "白色办公桌",
+    "电脑桌",
+    "A型桌腿"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "supports_tabletop"
+  ],
+  "negative_roles": [
+    "partition",
+    "window",
+    "door",
+    "school_desk",
+    "bench"
+  ],
+  "instance_unit": "single",
+  "intake_note": "3DAssets.dev CC0 white A-frame office desk, recoloured to white laminate / light-grey frame; normalized bottom-centre; thumbnailed."
+}

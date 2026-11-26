@@ -1,0 +1,121 @@
+{
+  "asset_id": "AT_7a92ca8098765f6fdffac58d",
+  "query_id": "ph_pillows_01",
+  "semantic": "pillow",
+  "dimensions_m": [
+    0.94,
+    0.452,
+    0.45
+  ],
+  "description": "装饰抱枕组合",
+  "material": {
+    "color": [
+      0.4992,
+      0.2411,
+      0.1224
+    ],
+    "texture": "cloth",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "pillow",
+    "throw_pillows_01",
+    "furniture/pillow/decorative",
+    "装饰抱枕组合",
+    "throw_pillows_01",
+    "furniture/pillow/decorative",
+    "装饰抱枕组合"
+  ],
+  "procedural_hash": "110b0391dc3da540f989710692d719aac09e6a3317db3a6bd087ca7237cbe3c6",
+  "geometry_sha256": "ca81f017d857a5f37adf91afbef93856e4a5e35ea3e217ff57edb25ccf6dc326",
+  "public_prefab": true,
+  "provider": "Serhii Khromov",
+  "observation_description": "装饰抱枕组合",
+  "requested_dimensions_m": [
+    0.94,
+    0.452,
+    0.45
+  ],
+  "prototype_key": "ph_pillows_01",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_7a92ca8098765f6fdffac58d/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "pillow",
+    "throw_pillows_01",
+    "furniture/pillow/decorative",
+    "装饰抱枕组合"
+  ],
+  "scene_types": [
+    "living",
+    "office",
+    "household",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "floor_toy",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "cloth_or_leather",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "compound_set",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_pillows_01",
+    "semantic": "pillow",
+    "category_path": "furniture/pillow/decorative",
+    "aliases": [
+      "pillow",
+      "throw_pillows_01",
+      "furniture/pillow/decorative",
+      "装饰抱枕组合"
+    ],
+    "scene_types": [
+      "living",
+      "office",
+      "household",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "cloth_or_leather",
+    "dimensions_m": [
+      0.94,
+      0.452,
+      0.45
+    ],
+    "instance_unit": "compound_set",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_pillows_01/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/throw_pillows_01/throw_pillows_01_1k.usdc",
+      "author": "Serhii Khromov",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_pillows_01.usd",
+      "raw_sha256": "8d678141a7bd9074c4e2cd3e1dfa667df6479ebb2f4f0b6441017753384eb192",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_pillows_01 pillow 装饰抱枕组合 pillow throw_pillows_01 furniture/pillow/decorative 装饰抱枕组合 throw_pillows_01 furniture/pillow/decorative 装饰抱枕组合",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "asset_id": "AT_a3f701a72cc1455219028c80",
+  "query_id": "ph_monitor_tv",
+  "semantic": "monitor",
+  "dimensions_m": [
+    0.6,
+    0.471,
+    0.457
+  ],
+  "description": "CRT/电视显示器",
+  "material": {
+    "color": [
+      0.2928,
+      0.279,
+      0.2685
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "monitor",
+    "screen",
+    "显示器",
+    "Television_01",
+    "electronics/computer/monitor",
+    "CRT/电视显示器",
+    "Television_01",
+    "electronics/computer/monitor",
+    "CRT/电视显示器"
+  ],
+  "procedural_hash": "013caabfe3a91cf5dbceb46a9a173d4b6cab9ac7e082260dca6960e54c0ce7cc",
+  "geometry_sha256": "aec6124d70d17be97affcc08e57db969243dab7be037eb0b3ccb7a67db44b68f",
+  "public_prefab": true,
+  "provider": "Gabriel Radić",
+  "observation_description": "CRT/电视显示器",
+  "requested_dimensions_m": [
+    0.6,
+    0.471,
+    0.457
+  ],
+  "prototype_key": "ph_monitor_tv",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_a3f701a72cc1455219028c80/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "monitor",
+    "screen",
+    "显示器",
+    "Television_01",
+    "electronics/computer/monitor",
+    "CRT/电视显示器"
+  ],
+  "scene_types": [
+    "office",
+    "living",
+    "household",
+    "lab",
+    "large"
+  ],
+  "spatial_roles": [
+    "floor",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed_electronics",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_monitor_tv",
+    "semantic": "monitor",
+    "category_path": "electronics/computer/monitor",
+    "aliases": [
+      "monitor",
+      "screen",
+      "显示器",
+      "Television_01",
+      "electronics/computer/monitor",
+      "CRT/电视显示器"
+    ],
+    "scene_types": [
+      "office",
+      "living",
+      "household",
+      "lab",
+      "large"
+    ],
+    "spatial_roles": [
+      "floor",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed_electronics",
+    "dimensions_m": [
+      0.6,
+      0.471,
+      0.457
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_monitor_tv/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/Television_01/Television_01_1k.usdc",
+      "author": "Gabriel Radić",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_monitor_tv.usd",
+      "raw_sha256": "5a4f49be28319fba8f1e3031402b62c07d52bbaeff6b6c18958b75a3ac707da1",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_monitor_tv monitor CRT/电视显示器 monitor screen 显示器 Television_01 electronics/computer/monitor CRT/电视显示器 Television_01 electronics/computer/monitor CRT/电视显示器",
+    "intake": "existing_external"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "asset_id": "AT_7f0f70382ef5ec78863fdb22",
+  "query_id": "ph_door_gate",
+  "semantic": "door",
+  "dimensions_m": [
+    2.95,
+    0.097,
+    2.929
+  ],
+  "description": "大型铁艺门",
+  "material": {
+    "color": [
+      0.1275,
+      0.1107,
+      0.1016
+    ],
+    "texture": "wood",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "door",
+    "doorway",
+    "门",
+    "门洞",
+    "large_iron_gate",
+    "architecture/door/iron",
+    "大型铁艺门",
+    "large_iron_gate",
+    "architecture/door/iron",
+    "大型铁艺门"
+  ],
+  "procedural_hash": "72061ca26d3f36a7e6e28286c35ccbad46579477fd152db8e6c118b20e0ea474",
+  "geometry_sha256": "cb92dbe2b8eafcf42c764091dbc25e0a599b065116a9061bd8b87d7763709d34",
+  "public_prefab": true,
+  "provider": "Josh Dean",
+  "observation_description": "大型铁艺门",
+  "requested_dimensions_m": [
+    2.95,
+    0.097,
+    2.929
+  ],
+  "prototype_key": "ph_door_gate",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_7f0f70382ef5ec78863fdb22/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "door",
+    "doorway",
+    "门",
+    "门洞",
+    "large_iron_gate",
+    "architecture/door/iron",
+    "大型铁艺门"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "living",
+    "large"
+  ],
+  "spatial_roles": [
+    "wall",
+    "architecture"
+  ],
+  "support_capability": false,
+  "material_family": "glass_or_wood",
+  "negative_roles": [
+    "window",
+    "monitor",
+    "cabinet",
+    "partition"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_door_gate",
+    "semantic": "door",
+    "category_path": "architecture/door/iron",
+    "aliases": [
+      "door",
+      "doorway",
+      "门",
+      "门洞",
+      "large_iron_gate",
+      "architecture/door/iron",
+      "大型铁艺门"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "wall",
+      "architecture"
+    ],
+    "support_capability": false,
+    "material_family": "glass_or_wood",
+    "dimensions_m": [
+      2.95,
+      0.097,
+      2.929
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "window",
+      "monitor",
+      "cabinet",
+      "partition"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_door_gate/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/large_iron_gate/large_iron_gate_1k.usdc",
+      "author": "Josh Dean",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_door_gate.usd",
+      "raw_sha256": "828f0d3ba7f03a9c103d92768f46d0be261e19671d1faf77470f8064618382ba",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_door_gate door 大型铁艺门 door doorway 门 门洞 large_iron_gate architecture/door/iron 大型铁艺门 large_iron_gate architecture/door/iron 大型铁艺门",
+    "intake": "existing_external"
+  }
+}

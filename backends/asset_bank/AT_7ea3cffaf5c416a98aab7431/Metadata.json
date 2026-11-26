@@ -1,0 +1,123 @@
+{
+  "asset_id": "AT_7ea3cffaf5c416a98aab7431",
+  "query_id": "ph_box_medical",
+  "semantic": "box",
+  "dimensions_m": [
+    0.525,
+    0.35,
+    0.098
+  ],
+  "description": "医疗包装箱",
+  "material": {
+    "color": [
+      0.8,
+      0.8,
+      0.8
+    ],
+    "texture": "paint",
+    "roughness": 0.62,
+    "metallic": 0.0
+  },
+  "shape_parts": [
+    "box",
+    "medical_box",
+    "packaging/box/medical",
+    "医疗包装箱",
+    "medical_box",
+    "packaging/box/medical",
+    "医疗包装箱"
+  ],
+  "procedural_hash": "47642f8f6e0b031fad6f562a67d4f9da69a9b46789a0047f5a65817458e46adb",
+  "geometry_sha256": "bf1bd4b5788d7733589c41ed53c43af86622cea5c858eed09b3d2937f5f18ba2",
+  "public_prefab": true,
+  "provider": "Ulan Cabanilla",
+  "observation_description": "医疗包装箱",
+  "requested_dimensions_m": [
+    0.525,
+    0.35,
+    0.098
+  ],
+  "prototype_key": "ph_box_medical",
+  "blend_path": "/mnt/luozhaoyi/releases/ego_nav_forge_v1/backends/asset_bank/AT_7ea3cffaf5c416a98aab7431/Prototype.blend",
+  "material_definitions": {},
+  "preferred_pose": false,
+  "aliases": [
+    "box",
+    "medical_box",
+    "packaging/box/medical",
+    "医疗包装箱"
+  ],
+  "scene_types": [
+    "office",
+    "lab",
+    "household",
+    "living",
+    "large"
+  ],
+  "spatial_roles": [
+    "tabletop",
+    "floor_toy",
+    "decor"
+  ],
+  "support_capability": false,
+  "material_family": "mixed",
+  "negative_roles": [
+    "other_semantic_type"
+  ],
+  "instance_unit": "single",
+  "thumbnail": "Thumbnail.jpg",
+  "cognitive": {
+    "asset_id": "ph_box_medical",
+    "semantic": "box",
+    "category_path": "packaging/box/medical",
+    "aliases": [
+      "box",
+      "medical_box",
+      "packaging/box/medical",
+      "医疗包装箱"
+    ],
+    "scene_types": [
+      "office",
+      "lab",
+      "household",
+      "living",
+      "large"
+    ],
+    "spatial_roles": [
+      "tabletop",
+      "floor_toy",
+      "decor"
+    ],
+    "support_capability": false,
+    "material_family": "mixed",
+    "dimensions_m": [
+      0.525,
+      0.35,
+      0.098
+    ],
+    "instance_unit": "single",
+    "negative_roles": [
+      "other_semantic_type"
+    ],
+    "distinctive_parts": [],
+    "thumbnail": "thumbs/ph_box_medical/front.jpg",
+    "provenance": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/medical_box/medical_box_1k.usdc",
+      "author": "Ulan Cabanilla",
+      "license": "CC0-1.0",
+      "raw_file": "raw_usd/ph_box_medical.usd",
+      "raw_sha256": "c198b8e4579f539ef801d4701f17085405acbd5a480a61ee4060317ab64f0a0b",
+      "scale_applied": 1.0,
+      "format_in": "USD",
+      "format_out": "USD"
+    },
+    "quality": {
+      "normalized_origin": true,
+      "bbox_positive": true,
+      "has_three_views": true,
+      "license": "CC0-1.0"
+    },
+    "retrieval_text": "ph_box_medical box 医疗包装箱 box medical_box packaging/box/medical 医疗包装箱 medical_box packaging/box/medical 医疗包装箱",
+    "intake": "existing_external"
+  }
+}
